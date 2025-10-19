@@ -1,48 +1,45 @@
-# Premier League Historical Data Scraper
+# Premier League Historical Data Analysis (1993-2025)
 
-Sistema robusto para extracción y análisis de datos históricos de la Premier League (1992-2025).xq
+Sistema completo de extracción y análisis de datos históricos de la Premier League desde 1993 hasta 2025.
 
 ## 📋 Descripción
 
-Este proyecto extrae datos completos de todas las temporadas de la Premier League desde su creación en 1992, creando una base de datos estructurada que permite hacer seguimiento histórico de equipos, analizar tendencias y generar estadísticas.
+Este proyecto proporciona una base de datos limpia y verificada de todas las temporadas de la Premier League, incluyendo clasificaciones finales, estadísticas de equipos y seguimiento histórico.
 
-## 🎯 Objetivos
+## 🎯 Características
 
-- **Datos completos**: Obtener información de TODAS las temporadas (1992-93 hasta 2024-25)
-- **Datos limpios**: Validación estricta de tablas de clasificación vs. otras tablas
-- **Tracking de equipos**: Seguimiento histórico de cada equipo a través de los años
-- **Análisis robusto**: Funciones para consultas y visualizaciones
+- **Datos completos**: 32 temporadas (1993-94 hasta 2024-25)
+- **100% verificados**: Validación automática de consistencia
+- **Fuente confiable**: football-data.co.uk
+- **Tracking histórico**: Seguimiento de cada equipo a través de los años
+- **644 registros** de 51 equipos únicos
 
-## 📁 Estructura del Proyecto
+## 📁 Archivos Principales
 
 ```
 futbol/
-├── scraper_robusto.py              # Scraper principal con múltiples fuentes
-├── analisis_premier_league.ipynb   # Notebook de análisis completo
-├── premier_league_completo_limpio.csv        # Datos principales
-├── premier_league_tracking_equipos.csv       # Tracking por equipo
-└── README.md                       # Este archivo
+├── scraper_premier_league.py              # Scraper principal ⭐
+├── analisis_premier_league.ipynb          # Notebook de análisis
+├── premier_league_COMPLETO_football_data.csv    # Datos completos ⭐
+├── premier_league_tracking_COMPLETO.csv         # Tracking por equipo ⭐
+├── README.md                              # Este archivo
+├── RESUMEN.md                             # Guía rápida
+└── archive/                               # Versiones anteriores
 ```
 
 ## 🚀 Uso Rápido
 
-### 1. Instalar dependencias
+### 1. Extraer Datos Actualizados
 
 ```bash
-pip install requests beautifulsoup4 pandas numpy matplotlib seaborn
+python scraper_premier_league.py
 ```
 
-### 2. Ejecutar el Scraper
+Esto descarga y procesa todas las temporadas, generando:
+- `premier_league_COMPLETO_football_data.csv`
+- `premier_league_tracking_COMPLETO.csv`
 
-```python
-python scraper_robusto.py
-```
-
-Esto genera:
-- `premier_league_completo_limpio.csv` - Datos de todas las temporadas
-- `premier_league_tracking_equipos.csv` - Matriz de tracking por equipo
-
-### 3. Análisis en Jupyter
+### 2. Análisis en Jupyter
 
 ```bash
 jupyter notebook analisis_premier_league.ipynb
@@ -50,11 +47,11 @@ jupyter notebook analisis_premier_league.ipynb
 
 ## 📊 Estructura de Datos
 
-### Archivo Principal: `premier_league_completo_limpio.csv`
+### Archivo Principal: `premier_league_COMPLETO_football_data.csv`
 
 | Columna   | Descripción                      | Tipo    |
 |-----------|----------------------------------|---------|
-| Temporada | Temporada (ej: "1992-93")       | string  |
+| Temporada | Temporada (ej: "1993-94")       | string  |
 | Pos       | Posición final                   | int     |
 | Equipo    | Nombre del equipo                | string  |
 | PJ        | Partidos jugados                 | int     |
@@ -66,163 +63,135 @@ jupyter notebook analisis_premier_league.ipynb
 | GC        | Goles en contra                  | int     |
 | Dif       | Diferencia de goles              | string  |
 
-### Archivo de Tracking: `premier_league_tracking_equipos.csv`
+### Archivo de Tracking: `premier_league_tracking_COMPLETO.csv`
 
-Para cada equipo incluye:
-- Columnas `{temporada}_Pos` - Posición en esa temporada
-- Columnas `{temporada}_Pts` - Puntos en esa temporada
-- `Total_Temporadas` - Número total de temporadas jugadas
+- Matriz de equipos × temporadas
+- `{temporada}_Pos` - Posición en cada temporada
+- `{temporada}_Pts` - Puntos en cada temporada
+- `Total_Temporadas` - Temporadas jugadas
 - `Mejor_Posicion` - Mejor posición histórica
 - `Peor_Posicion` - Peor posición histórica
 
-## 🔧 Características Técnicas
+## 📈 Análisis Disponibles
 
-### Validación Robusta
+El notebook incluye funciones para:
 
-El scraper incluye múltiples capas de validación:
-
-1. **Detección de tabla correcta**: Verifica que sea tabla de clasificación (no de equipos/entrenadores)
-2. **Validación de columnas**: Debe contener Pts, PJ, GF, GC
-3. **Validación de filas**: Debe tener 20-22 equipos
-4. **Fuentes múltiples**: Intenta Wikipedia ES primero, luego EN
-
-### Limpieza de Datos
-
-- Eliminación de referencias `[1]`, `[a]`, etc.
-- Normalización de nombres de equipos
-- Conversión automática de tipos numéricos
-- Manejo de caracteres especiales
-
-## 📖 Funciones de Análisis
-
-### ver_historial_equipo(nombre)
-
-Muestra el historial completo de un equipo:
-
+### `ver_historial_equipo(nombre)`
 ```python
 ver_historial_equipo('Arsenal')
 ```
 
-### ver_temporada(temporada)
-
-Muestra la tabla de clasificación completa de una temporada:
-
+### `ver_temporada(temporada)`
 ```python
 ver_temporada('2015-16')  # Temporada del Leicester
 ```
 
-### comparar_equipos(*equipos)
-
-Compara estadísticas de múltiples equipos:
-
+### `comparar_equipos(*equipos)`
 ```python
-comparar_equipos('Manchester United', 'Liverpool', 'Arsenal')
+comparar_equipos('Man United', 'Liverpool', 'Arsenal')
 ```
-
-## 📈 Análisis Disponibles
-
-El notebook incluye:
-
-1. **Verificación de calidad**: Valores nulos, temporadas faltantes, anomalías
-2. **Equipos siempre en Premier**: Lista de equipos en todas las temporadas
-3. **Campeones históricos**: Títulos por equipo
-4. **Mejores temporadas**: Top por puntos, goles, etc.
-5. **Visualizaciones**: Gráficos de títulos, puntos, tendencias
 
 ## 🎯 Casos de Uso
 
-### 1. Seguimiento de un Equipo
-
+### Ver tabla de una temporada específica
 ```python
-# Ver todas las temporadas del Manchester City
-historial = df[df['Equipo'].str.contains('Manchester City')]
-print(historial[['Temporada', 'Pos', 'Pts']].to_string())
+import pandas as pd
+df = pd.read_csv('premier_league_COMPLETO_football_data.csv')
+temporada_2016 = df[df['Temporada'] == '2015-16'].sort_values('Pos')
+print(temporada_2016[['Pos', 'Equipo', 'Pts']])
 ```
 
-### 2. Análisis de Descensos
-
+### Encontrar campeones históricos
 ```python
-# Ver todos los equipos que descendieron
-descendidos = df[df['Pos'] >= 18]
-print(descendidos[['Temporada', 'Equipo', 'Pos', 'Pts']])
+campeones = df[df['Pos'] == 1].sort_values('Temporada')
+print(campeones[['Temporada', 'Equipo', 'Pts']])
 ```
 
-### 3. Récords Históricos
-
+### Equipos siempre en Premier League
 ```python
-# Mejor temporada por puntos
-mejor = df.loc[df['Pts'].idxmax()]
-print(f"{mejor['Equipo']} - {mejor['Temporada']}: {mejor['Pts']} puntos")
+tracking = pd.read_csv('premier_league_tracking_COMPLETO.csv')
+siempre_premier = tracking[tracking['Total_Temporadas'] == 32]
+print(siempre_premier[['Equipo', 'Mejor_Posicion', 'Peor_Posicion']])
 ```
 
-## ⚠️ Notas Importantes
+## 🔧 Requisitos
 
-1. **Temporadas faltantes**: Algunas temporadas pueden fallar si Wikipedia cambia su formato
-2. **Nombres de equipos**: Los nombres pueden variar (ej: "Manchester United F.C." vs "Manchester United")
-3. **Datos de temporada actual**: La 2024-25 puede estar incompleta si la temporada no ha terminado
-
-## 🔄 Actualización de Datos
-
-Para actualizar con nuevas temporadas:
-
-```python
-from scraper_robusto import PremierLeagueScraper
-
-scraper = PremierLeagueScraper()
-df_new = scraper.scrape_all_seasons(1992, 2026)  # Añadir 2025-26
+```bash
+pip install pandas requests
 ```
 
-## 🐛 Solución de Problemas
+## 📝 Validación de Datos
 
-### Error: "No se encontró tabla de clasificación"
+El scraper incluye validación automática:
 
-- Verifica que la URL de Wikipedia existe
-- Algunas temporadas requieren la versión en inglés
-- El scraper automáticamente reintenta con múltiples fuentes
+✅ **G + E + P = PJ** (partidos jugados)  
+✅ **Pts = 3×G + E** (sistema de puntos)  
+✅ **20-22 equipos** por temporada  
 
-### Error: Número incorrecto de equipos
+**Resultado:** 0 errores en 644 registros
 
-- Las primeras 3 temporadas tuvieron 22 equipos (1992-95)
-- Desde 1995-96 son 20 equipos
-- Verifica con: `df.groupby('Temporada').size()`
+## 🏆 Top 10 Equipos Históricos
 
-### Datos inconsistentes
+| Equipo      | Temporadas | Mejor Pos | Peor Pos |
+|-------------|------------|-----------|----------|
+| Arsenal     | 32         | 1         | 12       |
+| Chelsea     | 32         | 1         | 14       |
+| Tottenham   | 32         | 2         | 17       |
+| Man United  | 32         | 1         | 15       |
+| Everton     | 32         | 4         | 17       |
+| Liverpool   | 32         | 1         | 8        |
+| Newcastle   | 30         | 2         | 18       |
+| West Ham    | 29         | 5         | 20       |
+| Aston Villa | 29         | 4         | 20       |
+| Man City    | 27         | 1         | 18       |
 
-Si encuentras datos que no tienen sentido:
-1. Verifica la temporada en Wikipedia manualmente
-2. Revisa el log del scraper para ver qué fuente se usó
-3. Usa la columna `Fuente` para identificar el origen
+## 📌 Notas Importantes
 
-## 📝 TODO / Mejoras Futuras
+1. **Temporada 1992-93 no incluida**: football-data.co.uk empieza en 1993-94
+2. **Temporada 2024-25**: Datos parciales (temporada en curso)
+3. **Nombres de equipos**: Formato estándar (ej: "Man United" en lugar de "Manchester United F.C.")
 
-- [ ] Añadir datos de goleadores por temporada
-- [ ] Incluir información de entrenadores
-- [ ] Agregar datos de asistencias
-- [ ] Crear visualizaciones interactivas con Plotly
-- [ ] API REST para consultas
-- [ ] Base de datos SQLite para mejor rendimiento
-- [ ] Scraping de otras ligas europeas
+## 🔄 Historia del Proyecto
+
+### v2.0 - Versión Actual (Octubre 2024)
+- ✅ Migración a football-data.co.uk como fuente única
+- ✅ 100% de datos consistentes y verificados
+- ✅ 32 temporadas completas
+- ✅ Sistema de tracking automático
+
+### v1.0 - Versión Inicial (Archivada)
+- Scraping de Wikipedia (español e inglés)
+- Problemas de inconsistencia en tablas EN
+- 12 temporadas exitosas, 21 con errores
+- **Motivo del cambio**: Tablas de Wikipedia con estructuras diferentes causaban errores de parsing
+
+**Archivos v1.0 movidos a `/archive`:**
+- `scraper_robusto.py` - Scraper original de Wikipedia
+- `scraper_v2_FIXED.py` - Intento de fix para tablas EN
+- Scripts de diagnóstico y limpieza
 
 ## 🤝 Contribuciones
 
-Este es un proyecto personal de análisis. Si encuentras errores en los datos:
+Sugerencias y mejoras son bienvenidas. El proyecto está diseñado para:
+- Mantenerse actualizado con nuevas temporadas
+- Expandirse a otras ligas
+- Añadir más análisis estadísticos
 
-1. Verifica la temporada manualmente en Wikipedia
-2. Reporta el problema indicando temporada y equipo
-3. Si es posible, sugiere la corrección
+## 📄 Fuente de Datos
 
-## 📄 Licencia
-
-Uso educativo y personal. Los datos pertenecen a sus respectivas fuentes (Wikipedia, Premier League).
+**football-data.co.uk**
+- URL: http://www.football-data.co.uk/englandm.php
+- Licencia: Uso libre para fines no comerciales
+- Actualización: Semanal durante la temporada
 
 ## 🙏 Agradecimientos
 
-- Wikipedia por mantener datos históricos detallados
-- BeautifulSoup y Pandas por facilitar el scraping y análisis
-- La comunidad de fútbol por documentar meticulosamente cada temporada
+- **football-data.co.uk** por mantener datos históricos detallados
+- Comunidad de análisis de fútbol por documentar metodologías
 
 ---
 
-**Última actualización**: Octubre 2024
-**Versión**: 1.0
-**Autor**: Angel Samuel Suescarios
+**Última actualización**: Octubre 2024  
+**Versión**: 2.0  
+**Autor**: Angel Samuel Suescarios  
+**Temporadas**: 1993-94 a 2024-25 (32 temporadas)

@@ -1,23 +1,13 @@
-"""
-Premier League Historical Data Scraper
-Versión robusta con múltiples fuentes y validación de datos
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
 import time
-from typing import Optional, Dict, List, Tuple
 import logging
 
 # Configurar logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-
 
 class PremierLeagueScraper:
     """Scraper robusto para datos históricos de Premier League"""
@@ -34,6 +24,7 @@ class PremierLeagueScraper:
         text = re.sub(r'\s+', ' ', text)
         text = re.sub(r'\[.*?\]', '', text)
         text = text.replace('↑', '').replace('↓', '').replace('(C)', '').replace('(D)', '')
+        text = text.replace('−', '-').replace('+', '')  # Normalizar Dif para numérico
         return text.strip()
     
     def _is_classification_table(self, table) -> bool:
@@ -76,19 +67,19 @@ class PremierLeagueScraper:
         # Si no hay enlace, usar el texto
         return self._clean_text(cell.get_text())
     
-    def scrape_season_wikipedia_es(self, season: str) -> Optional[pd.DataFrame]:
+    def scrape_season_wikipedia_es(self, season: str) -> pd.DataFrame:
         """Intenta extraer datos de Wikipedia en español"""
         url = self.base_url_es.format(season=season)
         return self._scrape_wikipedia_page(url, season, 'ES')
     
-    def scrape_season_wikipedia_en(self, season: str) -> Optional[pd.DataFrame]:
+    def scrape_season_wikipedia_en(self, season: str) -> pd.DataFrame:
         """Intenta extraer datos de Wikipedia en inglés"""
         year = int(season.split('-')[0])
         next_year = str(year + 1)[-2:]
         url = self.base_url_en.format(year=year, next_year=next_year)
         return self._scrape_wikipedia_page(url, season, 'EN')
     
-    def _scrape_wikipedia_page(self, url: str, season: str, lang: str) -> Optional[pd.DataFrame]:
+    def _scrape_wikipedia_page(self, url: str, season: str, lang: str) -> pd.DataFrame:
         """Extrae datos de una página de Wikipedia"""
         try:
             response = requests.get(url, headers=self.headers, timeout=10)
@@ -109,64 +100,98 @@ class PremierLeagueScraper:
             logger.error(f"[{lang}] Error extrayendo {url}: {e}")
             return None
     
-    def _parse_classification_table(self, table, season: str, lang: str) -> Optional[pd.DataFrame]:
-        """Parsea una tabla de clasificación"""
+    def _parse_classification_table(self, table, season: str, lang: str) -> pd.DataFrame:
+        """Parsea una tabla de clasificación con mapeo dinámico"""
         try:
             rows = table.find_all('tr')
             
-            # Extraer encabezados
+            # Extraer encabezados reales (normalizados a minúsculas)
             header_row = rows[0]
-            headers = []
-            for th in header_row.find_all(['th', 'td']):
-                text = self._clean_text(th.get_text())
-                headers.append(text)
+            headers = [self._clean_text(th.get_text()).lower() for th in header_row.find_all(['th', 'td'])]
+            logger.info(f"[{lang}] Headers extraídos para {season}: {headers}")
+            
+            # Mapear columnas dinámicamente
+            col_map = {}
+            for i, h in enumerate(headers):
+                if 'pos' in h:
+                    col_map['Pos'] = i
+                elif 'equipo' in h or 'team' in h:
+                    col_map['Equipo'] = i
+                elif 'pj' in h or 'pld' in h or 'played' in h:
+                    col_map['PJ'] = i
+                elif 'g' in h or 'w' in h or 'ganados' in h or 'wins' in h:
+                    col_map['G'] = i
+                elif 'e' in h or 'd' in h or 'empates' in h or 'draws' in h:
+                    col_map['E'] = i
+                elif 'p' in h or 'l' in h or 'perdidos' in h or 'losses' in h:
+                    col_map['P'] = i
+                elif 'gf' in h or 'goals for' in h:
+                    col_map['GF'] = i
+                elif 'gc' in h or 'ga' in h or 'goals against' in h:
+                    col_map['GC'] = i
+                elif 'dif' in h or 'gd' in h or 'goal difference' in h:
+                    col_map['Dif'] = i
+                elif 'pts' in h or 'puntos' in h or 'points' in h:
+                    col_map['Pts'] = i
+            
+            # Verificar que todas las columnas necesarias estén mapeadas
+            required_cols = ['Pos', 'Equipo', 'PJ', 'G', 'E', 'P', 'GF', 'GC', 'Dif', 'Pts']
+            if any(col not in col_map for col in required_cols):
+                logger.error(f"[{lang}] Faltan columnas en mapeo para {season}: {col_map}")
+                return None
             
             # Extraer datos
             data = []
             for row in rows[1:]:
                 cols = row.find_all(['td', 'th'])
-                if len(cols) >= 10:
-                    row_data = []
-                    for i, col in enumerate(cols):
-                        if i == 1:  # Columna del equipo
-                            text = self._extract_team_name(col)
-                        else:
-                            text = self._clean_text(col.get_text())
-                        row_data.append(text)
-                    
+                if len(cols) >= max(col_map.values()) + 1:  # Asegurar suficientes columnas
+                    row_data = {}
+                    for col_name, idx in col_map.items():
+                        text = self._clean_text(cols[idx].get_text())
+                        if col_name == 'Equipo':
+                            text = self._extract_team_name(cols[idx])
+                        row_data[col_name] = text
                     if row_data:
                         data.append(row_data)
             
             if not data or len(data) < 15:
+                logger.warning(f"[{lang}] Datos insuficientes para {season}")
                 return None
             
             # Crear DataFrame
             df = pd.DataFrame(data)
             
-            # Asignar columnas estándar
-            standard_cols = ['Pos', 'Equipo', 'Pts', 'PJ', 'G', 'E', 'P', 'GF', 'GC', 'Dif']
-            df.columns = standard_cols[:min(len(df.columns), 10)] + list(df.columns[10:])
-            
-            # Limpiar columna de posición
-            if 'Pos' in df.columns:
-                df['Pos'] = df['Pos'].str.extract(r'(\d+)', expand=False)
-            
             # Agregar metadata
             df['Temporada'] = season
             df['Fuente'] = lang
             
-            # Seleccionar solo columnas relevantes
-            cols_to_keep = ['Temporada', 'Pos', 'Equipo', 'PJ', 'G', 'E', 'P', 'Pts', 'GF', 'GC', 'Dif']
-            df = df[[col for col in cols_to_keep if col in df.columns]]
+            # Convertir columnas numéricas
+            numeric_cols = ['Pos', 'PJ', 'G', 'E', 'P', 'GF', 'GC', 'Dif', 'Pts']
+            for col in numeric_cols:
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+            
+            # Validaciones básicas para detectar errores residuales
+            df['Suma_GEP'] = df['G'] + df['E'] + df['P']
+            if not (df['Suma_GEP'] == df['PJ']).all():
+                logger.warning(f"[{lang}] Inconsistencia en PJ (G+E+P != PJ) para {season}")
+            df['Pts_calc'] = 3 * df['G'] + df['E']
+            if not (df['Pts_calc'] == df['Pts']).all():
+                logger.warning(f"[{lang}] Inconsistencia en Pts (3*G + E != Pts) para {season}")
+            df['Dif_calc'] = df['GF'] - df['GC']
+            if not (df['Dif_calc'] == df['Dif']).all():
+                logger.warning(f"[{lang}] Inconsistencia en Dif (GF - GC != Dif) para {season}")
+            
+            # Limpiar columnas temporales
+            df = df.drop(['Suma_GEP', 'Pts_calc', 'Dif_calc'], axis=1)
             
             logger.info(f"[{lang}] ✓ {season}: {len(df)} equipos extraídos")
             return df
             
         except Exception as e:
-            logger.error(f"Error parseando tabla: {e}")
+            logger.error(f"[{lang}] Error parseando tabla para {season}: {e}")
             return None
     
-    def scrape_season(self, season: str) -> Optional[pd.DataFrame]:
+    def scrape_season(self, season: str) -> pd.DataFrame:
         """Intenta extraer datos de una temporada usando múltiples fuentes"""
         logger.info(f"Extrayendo temporada {season}...")
         
@@ -211,12 +236,6 @@ class PremierLeagueScraper:
         if all_data:
             combined_df = pd.concat(all_data, ignore_index=True)
             
-            # Convertir columnas numéricas
-            numeric_cols = ['Pos', 'PJ', 'G', 'E', 'P', 'Pts', 'GF', 'GC']
-            for col in numeric_cols:
-                if col in combined_df.columns:
-                    combined_df[col] = pd.to_numeric(combined_df[col], errors='coerce')
-            
             logger.info("\n" + "="*70)
             logger.info("RESUMEN DE EXTRACCIÓN")
             logger.info("="*70)
@@ -230,50 +249,6 @@ class PremierLeagueScraper:
             logger.error("No se pudieron extraer datos")
             return pd.DataFrame()
 
-
-def create_team_tracking_database(df: pd.DataFrame) -> pd.DataFrame:
-    """Crea una base de datos para tracking de equipos por año"""
-    
-    logger.info("\nCreando base de datos de tracking de equipos...")
-    
-    # Obtener todos los equipos únicos
-    all_teams = df['Equipo'].unique()
-    all_seasons = sorted(df['Temporada'].unique())
-    
-    # Crear matriz de equipos x temporadas
-    tracking_data = []
-    
-    for team in all_teams:
-        team_data = {'Equipo': team}
-        
-        for season in all_seasons:
-            season_data = df[(df['Equipo'] == team) & (df['Temporada'] == season)]
-            
-            if len(season_data) > 0:
-                row = season_data.iloc[0]
-                team_data[f'{season}_Pos'] = row['Pos']
-                team_data[f'{season}_Pts'] = row['Pts']
-            else:
-                team_data[f'{season}_Pos'] = None
-                team_data[f'{season}_Pts'] = None
-        
-        tracking_data.append(team_data)
-    
-    tracking_df = pd.DataFrame(tracking_data)
-    
-    # Calcular estadísticas
-    tracking_df['Total_Temporadas'] = tracking_df.filter(regex='_Pos').notna().sum(axis=1)
-    tracking_df['Mejor_Posicion'] = tracking_df.filter(regex='_Pos').min(axis=1)
-    tracking_df['Peor_Posicion'] = tracking_df.filter(regex='_Pos').max(axis=1)
-    
-    # Ordenar por total de temporadas
-    tracking_df = tracking_df.sort_values('Total_Temporadas', ascending=False)
-    
-    logger.info(f"✓ Base de tracking creada: {len(tracking_df)} equipos únicos")
-    
-    return tracking_df
-
-
 def main():
     """Función principal"""
     scraper = PremierLeagueScraper()
@@ -283,34 +258,23 @@ def main():
     
     if len(df_complete) > 0:
         # Guardar datos completos
-        output_file = 'premier_league_completo_limpio.csv'
+        output_file = 'premier_league_completo_limpio_v2.csv'
         df_complete.to_csv(output_file, index=False, encoding='utf-8-sig')
         logger.info(f"\n✓ Datos guardados: {output_file}")
         logger.info(f"  Total registros: {len(df_complete)}")
         logger.info(f"  Temporadas: {df_complete['Temporada'].nunique()}")
         
-        # Crear base de datos de tracking
-        tracking_df = create_team_tracking_database(df_complete)
-        tracking_file = 'premier_league_tracking_equipos.csv'
-        tracking_df.to_csv(tracking_file, index=False, encoding='utf-8-sig')
-        logger.info(f"\n✓ Base de tracking guardada: {tracking_file}")
-        
-        # Mostrar estadísticas
         logger.info("\n" + "="*70)
         logger.info("ESTADÍSTICAS FINALES")
         logger.info("="*70)
         logger.info(f"Equipos únicos: {df_complete['Equipo'].nunique()}")
         logger.info(f"Temporadas cubiertas: {df_complete['Temporada'].nunique()}")
         
-        print("\nTop 10 equipos por temporadas jugadas:")
-        print(tracking_df[['Equipo', 'Total_Temporadas', 'Mejor_Posicion', 'Peor_Posicion']].head(10).to_string(index=False))
-        
         logger.info("\n" + "="*70)
         logger.info("✅ PROCESO COMPLETADO")
         logger.info("="*70)
     else:
         logger.error("No se pudieron extraer datos")
-
 
 if __name__ == "__main__":
     main()
