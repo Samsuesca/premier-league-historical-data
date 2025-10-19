@@ -271,8 +271,15 @@ class PremierLeagueScraper(EnglishLeagueScraper):
 
 
 class ChampionshipScraper(EnglishLeagueScraper):
-    """Scraper para Championship (Nivel 2)"""
-    def __init__(self, start_year=2004, end_year=2025):  # Championship empezó en 2004
+    """
+    Scraper para Championship/First Division (Nivel 2)
+
+    Nota histórica:
+    - 1993-2004: Se llamaba "First Division"
+    - 2004-presente: Renombrada a "Championship"
+    Usamos nombre moderno "Championship" para consistencia en el dataset
+    """
+    def __init__(self, start_year=1993, end_year=2025):
         super().__init__(
             division_name="Championship",
             division_code="E1",
@@ -283,8 +290,15 @@ class ChampionshipScraper(EnglishLeagueScraper):
 
 
 class LeagueOneScraper(EnglishLeagueScraper):
-    """Scraper para League One (Nivel 3)"""
-    def __init__(self, start_year=2004, end_year=2025):
+    """
+    Scraper para League One/Second Division (Nivel 3)
+
+    Nota histórica:
+    - 1993-2004: Se llamaba "Second Division"
+    - 2004-presente: Renombrada a "League One"
+    Usamos nombre moderno "League One" para consistencia en el dataset
+    """
+    def __init__(self, start_year=1993, end_year=2025):
         super().__init__(
             division_name="League One",
             division_code="E2",
@@ -295,8 +309,15 @@ class LeagueOneScraper(EnglishLeagueScraper):
 
 
 class LeagueTwoScraper(EnglishLeagueScraper):
-    """Scraper para League Two (Nivel 4)"""
-    def __init__(self, start_year=2004, end_year=2025):
+    """
+    Scraper para League Two/Third Division (Nivel 4)
+
+    Nota histórica:
+    - 1993-2004: Se llamaba "Third Division"
+    - 2004-presente: Renombrada a "League Two"
+    Usamos nombre moderno "League Two" para consistencia en el dataset
+    """
+    def __init__(self, start_year=1993, end_year=2025):
         super().__init__(
             division_name="League Two",
             division_code="E3",
@@ -319,20 +340,26 @@ class NationalLeagueScraper(EnglishLeagueScraper):
 
 
 def scrape_all_divisions():
-    """Ejecuta el scraping de todas las divisiones"""
+    """Ejecuta el scraping de todas las divisiones con datos históricos completos (1993-2025)"""
 
     logger.info("="*70)
-    logger.info("ENGLISH FOOTBALL PYRAMID - EXPANSION FASE 3")
+    logger.info("ENGLISH FOOTBALL PYRAMID - FULL HISTORICAL DATA (1993-2025)")
     logger.info("="*70)
     logger.info("")
+    logger.info("Nota: Championship/League One/League Two usan códigos E1/E2/E3")
+    logger.info("que existían desde 1993 con nombres históricos diferentes:")
+    logger.info("  - E1: First Division (1993-2004) → Championship (2004-presente)")
+    logger.info("  - E2: Second Division (1993-2004) → League One (2004-presente)")
+    logger.info("  - E3: Third Division (1993-2004) → League Two (2004-presente)")
+    logger.info("")
 
-    # Definir scrapers para cada división
+    # Definir scrapers para cada división - AHORA CON 32 TEMPORADAS COMPLETAS
     scrapers = [
-        PremierLeagueScraper(1993, 2025),
-        ChampionshipScraper(2004, 2025),
-        LeagueOneScraper(2004, 2025),
-        LeagueTwoScraper(2004, 2025),
-        NationalLeagueScraper(2005, 2025)
+        PremierLeagueScraper(1993, 2025),      # 32 temporadas
+        ChampionshipScraper(1993, 2025),       # 32 temporadas (antes First Division)
+        LeagueOneScraper(1993, 2025),          # 32 temporadas (antes Second Division)
+        LeagueTwoScraper(1993, 2025),          # 32 temporadas (antes Third Division)
+        NationalLeagueScraper(2005, 2025)      # 20 temporadas (datos desde 2005)
     ]
 
     all_results = []

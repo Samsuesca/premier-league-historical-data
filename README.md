@@ -23,9 +23,10 @@ Incluye clasificaciones finales, estadísticas de equipos y seguimiento longitud
 
 ### Fase 3: English Football Pyramid Expansion ⭐ NUEVO
 - **5 divisiones** completas del sistema piramidal inglés
-- **2,516 registros totales** verificados
-- **159 equipos únicos** rastreados a través de todas las divisiones
-- **Tracking longitudinal**: Seguimiento de ascensos/descensos y trayectorias completas
+- **3,260 registros totales** verificados (32 temporadas para niveles 1-4)
+- **160 equipos únicos** rastreados a través de todas las divisiones
+- **Tracking longitudinal**: Seguimiento completo desde 1993 de ascensos/descensos
+- **Datos históricos completos**: Championship, League One y League Two desde 1993 (nombres históricos: First/Second/Third Division)
 - **Fuente única confiable**: football-data.co.uk
 
 ## 📁 Archivos Principales
@@ -78,8 +79,8 @@ python verificar_english_leagues.py
 ```
 
 Genera:
-- `english_leagues_completo.csv` (2,516 registros de 5 divisiones)
-- `english_leagues_tracking.csv` (159 equipos con trayectorias completas)
+- `english_leagues_completo.csv` (3,260 registros de 5 divisiones, 32 temporadas)
+- `english_leagues_tracking.csv` (160 equipos con trayectorias completas desde 1993)
 
 ## 📊 Estructura de Datos
 
@@ -200,14 +201,14 @@ Sigue la trayectoria completa de cada equipo a través de todas las divisiones:
 
 ### Resumen por División
 
-| División        | Temporadas | Equipos | Registros | Periodo      |
-|-----------------|------------|---------|-----------|--------------|
-| Premier League  | 32         | 51      | 644       | 1993-2025    |
-| Championship    | 21         | 57      | 504       | 2004-2025    |
-| League One      | 20         | 78      | 480       | 2004-2025    |
-| League Two      | 21         | 71      | 504       | 2004-2025    |
-| National League | 16         | 90      | 384       | 2005-2025    |
-| **TOTAL**       | **32**     | **159** | **2,516** | **1993-2025**|
+| División        | Temporadas | Equipos | Registros | Periodo      | Nota Histórica |
+|-----------------|------------|---------|-----------|--------------|----------------|
+| Premier League  | 32         | 51      | 644       | 1993-2025    | - |
+| Championship    | 32         | 69      | 768       | 1993-2025    | First Division (1993-2004) |
+| League One      | 31         | 91      | 744       | 1993-2025    | Second Division (1993-2004) |
+| League Two      | 30         | 80      | 720       | 1993-2025    | Third Division (1993-2004) |
+| National League | 16         | 90      | 384       | 2005-2025    | Datos limitados |
+| **TOTAL**       | **32**     | **160** | **3,260** | **1993-2025**| **+744 registros vs v3.0** |
 
 ### Casos de Uso - Análisis Multi-División
 

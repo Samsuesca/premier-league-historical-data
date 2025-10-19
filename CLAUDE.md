@@ -6,19 +6,22 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is an **English Football Pyramid Historical Data Analysis System** that scrapes, validates, and analyzes data from all 5 major divisions of English football (1993-2025).
 
-**Current Version**: v3.0 - Fase 3: English Football Pyramid Expansion
+**Current Version**: v3.1 - Fase 3: English Football Pyramid Expansion (Full Historical Data)
 
 ### Project Evolution
 - **v1.0 (Archived)**: Wikipedia-based scraping - 36% success rate, archived due to inconsistencies
 - **v2.0 (Octubre 2024)**: Premier League only via football-data.co.uk - 100% success rate, 644 records
-- **v3.0 (Enero 2025)**: ⭐ Extended to 5 divisions - 2,516 total records, 159 unique teams tracked
+- **v3.0 (Enero 2025)**: Extended to 5 divisions - 2,516 total records, 159 unique teams tracked
+- **v3.1 (Enero 2025)**: ⭐ Full historical data 1993-2025 - 3,260 total records, 160 unique teams, 32 seasons for levels 1-4
 
-### Coverage
+### Coverage (Updated v3.1)
 - **Premier League** (Nivel 1): 1993-2025, 32 seasons, 644 records
-- **Championship** (Nivel 2): 2004-2025, 21 seasons, 504 records
-- **League One** (Nivel 3): 2004-2025, 20 seasons, 480 records
-- **League Two** (Nivel 4): 2004-2025, 21 seasons, 504 records
-- **National League** (Nivel 5): 2005-2025, 16 seasons, 384 records
+- **Championship** (Nivel 2): 1993-2025, 32 seasons, 768 records **(+264 vs v3.0)** - *Historical name: First Division (1993-2004)*
+- **League One** (Nivel 3): 1993-2025, 31 seasons, 744 records **(+264 vs v3.0)** - *Historical name: Second Division (1993-2004)*
+- **League Two** (Nivel 4): 1993-2025, 30 seasons, 720 records **(+216 vs v3.0)** - *Historical name: Third Division (1993-2004)*
+- **National League** (Nivel 5): 2005-2025, 16 seasons, 384 records (unchanged - data availability limited)
+
+**Total improvement**: +744 records (+29.5% more data)
 
 ## Common Commands
 

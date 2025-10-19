@@ -643,6 +643,270 @@
 2024-25,Premier League,18,Leicester,38,6,7,25,25,33,80,-47
 2024-25,Premier League,19,Ipswich,38,4,10,24,22,36,82,-46
 2024-25,Premier League,20,Southampton,38,2,6,30,12,26,86,-60
+1993-94,Championship,1,Crystal Palace,44,26,9,9,87,71,44,+27
+1993-94,Championship,2,Nott'm Forest,43,22,14,7,80,69,43,+26
+1993-94,Championship,3,Leicester,45,19,16,10,73,72,58,+14
+1993-94,Championship,4,Millwall,43,18,16,9,70,55,45,+10
+1993-94,Championship,5,Derby,43,19,11,13,68,71,62,+9
+1993-94,Championship,6,Wolves,43,17,16,10,67,56,41,+15
+1993-94,Championship,7,Tranmere,43,19,9,15,66,64,49,+15
+1993-94,Championship,8,Stoke,44,18,11,15,65,53,55,-2
+1993-94,Championship,9,Notts County,43,19,7,17,64,62,65,-3
+1993-94,Championship,10,Sunderland,45,18,8,19,62,50,57,-7
+1993-94,Championship,11,Middlesbrough,44,16,13,15,61,59,53,+6
+1993-94,Championship,12,Charlton,42,18,6,18,60,56,51,+5
+1993-94,Championship,13,Bristol City,43,14,16,13,58,41,45,-4
+1993-94,Championship,14,Southend,44,16,8,20,56,58,64,-6
+1993-94,Championship,15,Bolton,44,14,13,17,55,60,63,-3
+1993-94,Championship,16,Grimsby,42,12,18,12,54,44,38,+6
+1993-94,Championship,17,Luton,44,14,11,19,53,56,57,-1
+1993-94,Championship,18,Portsmouth,43,14,11,18,53,47,54,-7
+1993-94,Championship,19,Barnsley,42,14,7,21,49,51,61,-10
+1993-94,Championship,20,Watford,42,14,7,21,49,61,74,-13
+1993-94,Championship,21,Birmingham,44,12,11,21,47,47,67,-20
+1993-94,Championship,22,Oxford,44,12,10,22,46,49,70,-21
+1993-94,Championship,23,West Brom,43,11,12,20,45,54,65,-11
+1993-94,Championship,24,Peterboro,43,8,12,23,36,46,71,-25
+1994-95,Championship,1,Middlesbrough,43,21,12,10,75,63,39,+24
+1994-95,Championship,2,Bolton,44,20,14,10,74,63,44,+19
+1994-95,Championship,3,Wolves,44,21,11,12,74,75,59,+16
+1994-95,Championship,4,Reading,43,22,8,13,74,56,44,+12
+1994-95,Championship,5,Tranmere,43,20,10,13,70,61,52,+9
+1994-95,Championship,6,Sheffield United,45,17,17,11,68,73,53,+20
+1994-95,Championship,7,Barnsley,43,19,11,13,68,62,50,+12
+1994-95,Championship,8,Watford,43,19,10,14,67,51,45,+6
+1994-95,Championship,9,Stoke,45,16,15,14,63,50,49,+1
+1994-95,Championship,10,Derby,43,17,11,15,62,63,46,+17
+1994-95,Championship,11,Grimsby,42,16,13,13,61,58,52,+6
+1994-95,Championship,12,Oldham,43,15,13,15,58,56,56,0
+1994-95,Championship,13,Southend,43,17,7,19,58,51,69,-18
+1994-95,Championship,14,West Brom,45,16,9,20,57,49,55,-6
+1994-95,Championship,15,Millwall,42,15,11,16,56,53,56,-3
+1994-95,Championship,16,Portsmouth,44,15,11,18,56,52,62,-10
+1994-95,Championship,17,Port Vale,43,14,12,17,54,55,62,-7
+1994-95,Championship,18,Luton,42,14,11,17,53,58,61,-3
+1994-95,Championship,19,Sunderland,44,12,16,16,52,39,43,-4
+1994-95,Championship,20,Charlton,43,14,10,19,52,53,63,-10
+1994-95,Championship,21,Swindon,44,11,12,21,45,51,70,-19
+1994-95,Championship,22,Burnley,43,10,13,20,43,48,70,-22
+1994-95,Championship,23,Bristol City,43,10,11,22,41,38,59,-21
+1994-95,Championship,24,Notts County,43,9,12,22,39,43,62,-19
+1995-96,Championship,1,Sunderland,44,22,16,6,82,59,30,+29
+1995-96,Championship,2,Derby,42,20,15,7,75,66,43,+23
+1995-96,Championship,3,Crystal Palace,43,20,13,10,73,66,45,+21
+1995-96,Championship,4,Stoke,44,19,13,12,70,57,46,+11
+1995-96,Championship,5,Charlton,44,16,19,9,67,54,43,+11
+1995-96,Championship,6,Leicester,43,18,13,12,67,62,56,+6
+1995-96,Championship,7,Ipswich,43,17,12,14,63,74,67,+7
+1995-96,Championship,8,Sheffield United,43,16,14,13,62,55,47,+8
+1995-96,Championship,9,Port Vale,44,15,15,14,60,58,63,-5
+1995-96,Championship,10,Huddersfield,43,15,12,16,57,56,55,+1
+1995-96,Championship,11,Barnsley,44,13,18,13,57,59,61,-2
+1995-96,Championship,12,Southend,43,15,12,16,57,52,60,-8
+1995-96,Championship,13,Tranmere,45,13,17,15,56,62,60,+2
+1995-96,Championship,14,Grimsby,44,14,12,18,54,54,68,-14
+1995-96,Championship,15,Norwich,43,13,14,16,53,56,51,+5
+1995-96,Championship,16,West Brom,43,14,11,18,53,54,65,-11
+1995-96,Championship,17,Portsmouth,44,13,12,19,51,61,68,-7
+1995-96,Championship,18,Wolves,43,12,15,16,51,52,60,-8
+1995-96,Championship,19,Birmingham,43,13,12,18,51,53,63,-10
+1995-96,Championship,20,Reading,43,12,15,16,51,51,61,-10
+1995-96,Championship,21,Oldham,43,12,14,17,50,50,47,+3
+1995-96,Championship,22,Watford,44,10,17,17,47,62,69,-7
+1995-96,Championship,23,Millwall,42,11,12,19,45,41,62,-21
+1995-96,Championship,24,Luton,43,10,11,22,41,37,61,-24
+1996-97,Championship,1,Bolton,43,26,14,3,92,89,46,+43
+1996-97,Championship,2,Wolves,44,21,9,14,72,66,50,+16
+1996-97,Championship,3,Sheffield United,44,19,12,13,69,69,48,+21
+1996-97,Championship,4,Ipswich,42,19,12,11,69,61,44,+17
+1996-97,Championship,5,Barnsley,42,18,14,10,68,65,53,+12
+1996-97,Championship,6,QPR,45,18,12,15,66,64,58,+6
+1996-97,Championship,7,Crystal Palace,42,18,11,13,65,73,45,+28
+1996-97,Championship,8,Port Vale,43,17,14,12,65,56,51,+5
+1996-97,Championship,9,Portsmouth,44,19,7,18,64,57,52,+5
+1996-97,Championship,10,Birmingham,43,17,13,13,64,48,43,+5
+1996-97,Championship,11,Man City,44,17,10,17,61,57,55,+2
+1996-97,Championship,12,Norwich,44,16,12,16,60,61,65,-4
+1996-97,Championship,13,Stoke,43,17,9,17,60,47,51,-4
+1996-97,Championship,14,Tranmere,43,14,14,15,56,58,56,+2
+1996-97,Championship,15,Charlton,44,15,10,19,55,49,65,-16
+1996-97,Championship,16,Reading,43,14,12,17,54,54,59,-5
+1996-97,Championship,17,Oxford,42,15,8,19,53,58,64,-6
+1996-97,Championship,18,Swindon,45,15,8,22,53,51,70,-19
+1996-97,Championship,19,West Brom,43,13,13,17,52,65,71,-6
+1996-97,Championship,20,Huddersfield,43,12,15,16,51,44,56,-12
+1996-97,Championship,21,Bradford,45,12,12,21,48,47,71,-24
+1996-97,Championship,22,Grimsby,44,11,12,21,45,57,74,-17
+1996-97,Championship,23,Oldham,43,10,12,21,42,50,61,-11
+1996-97,Championship,24,Southend,42,7,15,20,36,37,75,-38
+1997-98,Championship,1,Nott'm Forest,43,27,9,7,90,80,39,+41
+1997-98,Championship,2,Middlesbrough,44,27,9,8,90,76,39,+37
+1997-98,Championship,3,Sunderland,43,24,12,7,84,78,46,+32
+1997-98,Championship,4,Charlton,44,25,9,10,84,77,47,+30
+1997-98,Championship,5,Ipswich,44,22,14,8,80,74,40,+34
+1997-98,Championship,6,Sheffield United,45,19,16,10,73,69,54,+15
+1997-98,Championship,7,Birmingham,43,16,17,10,65,53,35,+18
+1997-98,Championship,8,Wolves,43,18,9,16,63,56,49,+7
+1997-98,Championship,9,Stockport,42,19,6,17,63,68,64,+4
+1997-98,Championship,10,Crewe,44,17,5,22,56,54,62,-8
+1997-98,Championship,11,Oxford,42,15,10,17,55,54,57,-3
+1997-98,Championship,12,West Brom,43,14,12,17,54,46,54,-8
+1997-98,Championship,13,Bradford,44,13,15,16,54,44,54,-10
+1997-98,Championship,14,Norwich,44,14,12,18,54,51,66,-15
+1997-98,Championship,15,Huddersfield,45,14,11,20,53,50,71,-21
+1997-98,Championship,16,Tranmere,42,13,13,16,52,51,51,0
+1997-98,Championship,17,Swindon,43,13,9,21,48,40,71,-31
+1997-98,Championship,18,Bury,43,10,17,16,47,41,58,-17
+1997-98,Championship,19,Portsmouth,44,12,9,23,45,47,61,-14
+1997-98,Championship,20,Man City,44,11,11,22,44,52,55,-3
+1997-98,Championship,21,QPR,43,8,19,16,43,46,59,-13
+1997-98,Championship,22,Port Vale,42,11,9,22,42,49,60,-11
+1997-98,Championship,23,Stoke,44,10,12,22,42,43,74,-31
+1997-98,Championship,24,Reading,42,11,9,22,42,38,71,-33
+1998-99,Championship,1,Sunderland,45,31,11,3,104,90,27,+63
+1998-99,Championship,2,Bradford,44,25,9,10,84,80,45,+35
+1998-99,Championship,3,Ipswich,44,25,7,12,82,66,32,+34
+1998-99,Championship,4,Bolton,46,20,16,10,76,78,59,+19
+1998-99,Championship,5,Birmingham,43,21,12,10,75,61,34,+27
+1998-99,Championship,6,Watford,44,19,14,11,71,60,55,+5
+1998-99,Championship,7,Wolves,44,18,15,11,69,60,41,+19
+1998-99,Championship,8,Sheffield United,43,17,13,13,64,67,60,+7
+1998-99,Championship,9,Norwich,43,13,17,13,56,56,57,-1
+1998-99,Championship,10,Barnsley,44,13,16,15,55,57,55,+2
+1998-99,Championship,11,Huddersfield,43,13,16,14,55,59,69,-10
+1998-99,Championship,12,Crystal Palace,44,13,16,15,55,55,68,-13
+1998-99,Championship,13,Grimsby,43,15,10,18,55,34,49,-15
+1998-99,Championship,14,Tranmere,44,12,18,14,54,61,59,+2
+1998-99,Championship,15,West Brom,42,13,11,18,50,59,70,-11
+1998-99,Championship,16,Stockport,42,11,15,16,48,44,55,-11
+1998-99,Championship,17,Crewe,44,12,12,20,48,53,74,-21
+1998-99,Championship,18,Port Vale,44,13,8,23,47,45,69,-24
+1998-99,Championship,19,QPR,43,12,10,21,46,49,53,-4
+1998-99,Championship,20,Swindon,43,12,10,21,46,55,75,-20
+1998-99,Championship,21,Portsmouth,43,10,13,20,43,53,69,-16
+1998-99,Championship,22,Oxford,42,9,14,19,41,45,66,-21
+1998-99,Championship,23,Bristol City,41,9,13,19,40,51,69,-18
+1998-99,Championship,24,Bury,42,8,16,18,40,31,59,-28
+1999-00,Championship,1,Charlton,45,26,10,9,88,78,45,+33
+1999-00,Championship,2,Man City,43,24,10,9,82,71,40,+31
+1999-00,Championship,3,Ipswich,43,22,12,9,78,60,40,+20
+1999-00,Championship,4,Bolton,44,21,12,11,75,66,46,+20
+1999-00,Championship,5,Barnsley,42,21,10,11,73,80,59,+21
+1999-00,Championship,6,Wolves,45,21,10,14,73,63,47,+16
+1999-00,Championship,7,Huddersfield,45,21,10,14,73,62,49,+13
+1999-00,Championship,8,Birmingham,41,19,9,13,66,51,37,+14
+1999-00,Championship,9,Fulham,43,17,13,13,64,48,40,+8
+1999-00,Championship,10,QPR,45,15,18,12,63,59,51,+8
+1999-00,Championship,11,Blackburn,45,15,17,13,62,54,49,+5
+1999-00,Championship,12,Tranmere,43,15,12,16,57,55,60,-5
+1999-00,Championship,13,Norwich,43,14,14,15,56,43,46,-3
+1999-00,Championship,14,Crystal Palace,44,13,15,16,54,55,62,-7
+1999-00,Championship,15,Stockport,44,12,15,17,51,52,64,-12
+1999-00,Championship,16,Crewe,45,14,9,22,51,45,62,-17
+1999-00,Championship,17,Nott'm Forest,42,12,13,17,49,46,51,-5
+1999-00,Championship,18,Portsmouth,44,13,10,21,49,54,65,-11
+1999-00,Championship,19,Sheffield United,42,11,14,17,47,52,62,-10
+1999-00,Championship,20,Grimsby,42,12,11,19,47,37,61,-24
+1999-00,Championship,21,Walsall,43,11,11,21,44,48,70,-22
+1999-00,Championship,22,West Brom,42,9,16,17,43,39,57,-18
+1999-00,Championship,23,Port Vale,42,6,15,21,33,40,59,-19
+1999-00,Championship,24,Swindon,43,7,12,24,33,35,71,-36
+2000-01,Championship,1,Fulham,46,30,11,5,101,90,32,+58
+2000-01,Championship,2,Blackburn,46,26,13,7,91,76,39,+37
+2000-01,Championship,3,Bolton,46,24,15,7,87,76,45,+31
+2000-01,Championship,4,Preston,46,23,9,14,78,64,52,+12
+2000-01,Championship,5,Birmingham,46,23,9,14,78,59,48,+11
+2000-01,Championship,6,West Brom,46,21,11,14,74,60,52,+8
+2000-01,Championship,7,Burnley,46,21,9,16,72,50,54,-4
+2000-01,Championship,8,Wimbledon,46,17,18,11,69,71,50,+21
+2000-01,Championship,9,Watford,46,20,9,17,69,76,67,+9
+2000-01,Championship,10,Sheffield United,46,19,11,16,68,52,49,+3
+2000-01,Championship,11,Nott'm Forest,46,20,8,18,68,55,53,+2
+2000-01,Championship,12,Wolves,46,14,13,19,55,45,48,-3
+2000-01,Championship,13,Gillingham,46,13,16,17,55,61,66,-5
+2000-01,Championship,14,Crewe,46,15,10,21,55,47,62,-15
+2000-01,Championship,15,Norwich,46,14,12,20,54,46,58,-12
+2000-01,Championship,16,Barnsley,46,15,9,22,54,49,62,-13
+2000-01,Championship,17,Sheffield Weds,46,15,8,23,53,52,71,-19
+2000-01,Championship,18,Grimsby,46,14,10,22,52,43,62,-19
+2000-01,Championship,19,Stockport,46,11,18,17,51,58,65,-7
+2000-01,Championship,20,Portsmouth,46,10,19,17,49,47,59,-12
+2000-01,Championship,21,Crystal Palace,46,12,13,21,49,57,70,-13
+2000-01,Championship,22,Huddersfield,46,11,15,20,48,48,57,-9
+2000-01,Championship,23,QPR,46,7,19,20,40,45,75,-30
+2000-01,Championship,24,Tranmere,46,9,11,26,38,46,77,-31
+2001-02,Championship,1,Man City,46,31,6,9,99,108,52,+56
+2001-02,Championship,2,West Brom,46,27,8,11,89,61,29,+32
+2001-02,Championship,3,Wolves,46,25,11,10,86,76,43,+33
+2001-02,Championship,4,Millwall,46,22,11,13,77,69,48,+21
+2001-02,Championship,5,Birmingham,46,21,13,12,76,70,49,+21
+2001-02,Championship,6,Norwich,46,22,9,15,75,60,51,+9
+2001-02,Championship,7,Burnley,46,21,12,13,75,70,62,+8
+2001-02,Championship,8,Preston,46,20,12,14,72,71,59,+12
+2001-02,Championship,9,Wimbledon,46,18,13,15,67,63,57,+6
+2001-02,Championship,10,Crystal Palace,46,20,6,20,66,70,62,+8
+2001-02,Championship,11,Coventry,46,20,6,20,66,59,53,+6
+2001-02,Championship,12,Gillingham,46,18,10,18,64,64,67,-3
+2001-02,Championship,13,Sheffield United,46,15,15,16,60,53,54,-1
+2001-02,Championship,14,Watford,46,16,11,19,59,62,56,+6
+2001-02,Championship,15,Bradford,46,15,10,21,55,69,76,-7
+2001-02,Championship,16,Nott'm Forest,46,12,18,16,54,50,51,-1
+2001-02,Championship,17,Portsmouth,46,13,14,19,53,60,72,-12
+2001-02,Championship,18,Walsall,46,13,12,21,51,51,71,-20
+2001-02,Championship,19,Grimsby,46,12,14,20,50,50,72,-22
+2001-02,Championship,20,Sheffield Weds,46,12,14,20,50,49,71,-22
+2001-02,Championship,21,Rotherham,46,10,19,17,49,52,66,-14
+2001-02,Championship,22,Crewe,46,12,13,21,49,47,76,-29
+2001-02,Championship,23,Barnsley,46,11,15,20,48,59,86,-27
+2001-02,Championship,24,Stockport,46,6,8,32,26,42,102,-60
+2002-03,Championship,1,Portsmouth,42,27,10,5,91,92,41,+51
+2002-03,Championship,2,Leicester,43,24,13,6,85,67,39,+28
+2002-03,Championship,3,Sheffield United,44,23,11,10,80,71,48,+23
+2002-03,Championship,4,Reading,44,23,4,17,73,56,45,+11
+2002-03,Championship,5,Nott'm Forest,43,19,13,11,70,74,47,+27
+2002-03,Championship,6,Ipswich,43,18,12,13,66,72,56,+16
+2002-03,Championship,7,Norwich,45,18,12,15,66,58,49,+9
+2002-03,Championship,8,Wolves,41,17,14,10,65,72,40,+32
+2002-03,Championship,9,Millwall,43,18,9,16,63,56,65,-9
+2002-03,Championship,10,Wimbledon,44,17,11,16,62,75,69,+6
+2002-03,Championship,11,Gillingham,43,15,14,14,59,53,63,-10
+2002-03,Championship,12,Preston,43,15,13,15,58,66,66,0
+2002-03,Championship,13,Watford,45,16,9,20,57,53,70,-17
+2002-03,Championship,14,Crystal Palace,43,13,16,14,55,55,50,+5
+2002-03,Championship,15,Rotherham,43,14,13,16,55,61,60,+1
+2002-03,Championship,16,Walsall,44,14,9,21,51,55,67,-12
+2002-03,Championship,17,Derby,44,15,6,23,51,53,70,-17
+2002-03,Championship,18,Coventry,43,12,14,17,50,44,55,-11
+2002-03,Championship,19,Bradford,45,13,10,22,49,49,73,-24
+2002-03,Championship,20,Burnley,43,13,10,20,49,61,87,-26
+2002-03,Championship,21,Stoke,43,11,14,18,47,42,60,-18
+2002-03,Championship,22,Brighton,44,10,12,22,42,48,65,-17
+2002-03,Championship,23,Sheffield Weds,43,9,14,20,41,52,70,-18
+2002-03,Championship,24,Grimsby,42,9,11,22,38,45,75,-30
+2003-04,Championship,1,Norwich,46,28,10,8,94,79,39,+40
+2003-04,Championship,2,West Brom,46,25,11,10,86,64,42,+22
+2003-04,Championship,3,Sunderland,46,22,13,11,79,62,45,+17
+2003-04,Championship,4,West Ham,46,19,17,10,74,67,45,+22
+2003-04,Championship,5,Ipswich,46,21,10,15,73,84,72,+12
+2003-04,Championship,6,Crystal Palace,46,21,10,15,73,72,61,+11
+2003-04,Championship,7,Wigan,46,18,17,11,71,60,45,+15
+2003-04,Championship,8,Sheffield United,46,20,11,15,71,65,56,+9
+2003-04,Championship,9,Reading,46,20,10,16,70,55,57,-2
+2003-04,Championship,10,Millwall,46,18,15,13,69,55,48,+7
+2003-04,Championship,11,Stoke,46,18,12,16,66,58,55,+3
+2003-04,Championship,12,Coventry,46,17,14,15,65,67,54,+13
+2003-04,Championship,13,Cardiff,46,17,14,15,65,68,58,+10
+2003-04,Championship,14,Nott'm Forest,46,15,15,16,60,61,58,+3
+2003-04,Championship,15,Preston,46,15,14,17,59,69,71,-2
+2003-04,Championship,16,Watford,46,15,12,19,57,54,68,-14
+2003-04,Championship,17,Rotherham,46,13,15,18,54,53,61,-8
+2003-04,Championship,18,Crewe,46,14,11,21,53,57,66,-9
+2003-04,Championship,19,Burnley,46,13,14,19,53,60,77,-17
+2003-04,Championship,20,Derby,46,13,13,20,52,53,67,-14
+2003-04,Championship,21,Gillingham,46,14,9,23,51,48,67,-19
+2003-04,Championship,22,Walsall,46,13,12,21,51,45,65,-20
+2003-04,Championship,23,Bradford,46,10,6,30,36,38,69,-31
+2003-04,Championship,24,Wimbledon,46,8,5,33,29,41,89,-48
 2004-05,Championship,1,Wigan,33,19,9,5,66,62,26,+36
 2004-05,Championship,2,West Ham,35,18,8,9,62,56,41,+15
 2004-05,Championship,3,Sunderland,33,17,7,9,58,50,32,+18
@@ -1147,6 +1411,270 @@
 2024-25,Championship,22,Luton,46,13,10,23,49,45,69,-24
 2024-25,Championship,23,Plymouth,46,11,13,22,46,51,88,-37
 2024-25,Championship,24,Cardiff,46,9,17,20,44,48,73,-25
+1993-94,League One,1,Reading,46,26,11,9,89,81,44,+37
+1993-94,League One,2,Port Vale,46,26,10,10,88,79,46,+33
+1993-94,League One,3,Plymouth,46,25,10,11,85,88,56,+32
+1993-94,League One,4,Stockport,46,24,13,9,85,74,44,+30
+1993-94,League One,5,York,46,21,12,13,75,64,40,+24
+1993-94,League One,6,Burnley,46,21,10,15,73,79,58,+21
+1993-94,League One,7,Bradford,46,19,13,14,70,61,53,+8
+1993-94,League One,8,Hull,46,18,14,14,68,62,54,+8
+1993-94,League One,9,Bristol Rvs,46,19,10,17,67,57,62,-5
+1993-94,League One,10,Cambridge,46,19,9,18,66,79,73,+6
+1993-94,League One,11,Huddersfield,46,17,14,15,65,58,61,-3
+1993-94,League One,12,Wrexham,46,17,11,18,62,66,77,-11
+1993-94,League One,13,Swansea,46,16,12,18,60,56,58,-2
+1993-94,League One,14,Brighton,46,15,14,17,59,60,67,-7
+1993-94,League One,15,Rotherham,46,15,13,18,58,63,60,+3
+1993-94,League One,16,Brentford,46,13,19,14,58,57,55,+2
+1993-94,League One,17,Bournemouth,46,14,15,17,57,51,59,-8
+1993-94,League One,18,Leyton Orient,46,14,14,18,56,57,71,-14
+1993-94,League One,19,Cardiff,46,13,15,18,54,66,79,-13
+1993-94,League One,20,Blackpool,46,16,5,25,53,63,75,-12
+1993-94,League One,21,Fulham,46,14,10,22,52,50,63,-13
+1993-94,League One,22,Exeter,46,11,12,23,45,52,83,-31
+1993-94,League One,23,Hartlepool,46,9,9,28,36,41,87,-46
+1993-94,League One,24,Barnet,46,6,13,27,31,44,83,-39
+1994-95,League One,1,Birmingham,46,25,14,7,89,84,37,+47
+1994-95,League One,2,Brentford,46,25,10,11,85,81,39,+42
+1994-95,League One,3,Crewe,46,25,8,13,83,80,68,+12
+1994-95,League One,4,Bristol Rvs,46,22,16,8,82,70,40,+30
+1994-95,League One,5,Huddersfield,46,22,15,9,81,79,49,+30
+1994-95,League One,6,Wycombe,46,21,15,10,78,60,46,+14
+1994-95,League One,7,Oxford,46,21,12,13,75,66,52,+14
+1994-95,League One,8,Hull,46,21,11,14,74,70,56,+14
+1994-95,League One,9,York,46,21,9,16,72,67,51,+16
+1994-95,League One,10,Swansea,46,19,14,13,71,57,45,+12
+1994-95,League One,11,Stockport,46,19,8,19,65,63,60,+3
+1994-95,League One,12,Blackpool,46,18,10,18,64,64,70,-6
+1994-95,League One,13,Wrexham,46,16,15,15,63,64,64,0
+1994-95,League One,14,Bradford,46,16,12,18,60,57,64,-7
+1994-95,League One,15,Peterboro,46,14,18,14,60,54,69,-15
+1994-95,League One,16,Brighton,46,14,17,15,59,54,53,+1
+1994-95,League One,17,Rotherham,46,14,14,18,56,57,61,-4
+1994-95,League One,18,Shrewsbury,46,13,14,19,53,54,62,-8
+1994-95,League One,19,Bournemouth,46,13,11,22,50,49,69,-20
+1994-95,League One,20,Cambridge,46,11,15,20,48,52,69,-17
+1994-95,League One,21,Plymouth,46,12,10,24,46,45,83,-38
+1994-95,League One,22,Cardiff,46,9,11,26,38,46,74,-28
+1994-95,League One,23,Chester,46,6,11,29,29,37,84,-47
+1994-95,League One,24,Leyton Orient,46,6,8,32,26,30,75,-45
+1995-96,League One,1,Swindon,46,25,17,4,92,71,34,+37
+1995-96,League One,2,Oxford,46,24,11,11,83,76,39,+37
+1995-96,League One,3,Blackpool,46,23,13,10,82,67,40,+27
+1995-96,League One,4,Notts County,46,21,15,10,78,63,40,+23
+1995-96,League One,5,Crewe,46,22,7,17,73,77,60,+17
+1995-96,League One,6,Bradford,46,22,7,17,73,71,69,+2
+1995-96,League One,7,Chesterfield,46,20,12,14,72,56,51,+5
+1995-96,League One,8,Wrexham,46,18,16,12,70,76,55,+21
+1995-96,League One,9,Stockport,46,19,13,14,70,61,47,+14
+1995-96,League One,10,Bristol Rvs,46,20,10,16,70,57,60,-3
+1995-96,League One,11,Walsall,46,19,12,15,69,60,45,+15
+1995-96,League One,12,Wycombe,46,15,15,16,60,63,59,+4
+1995-96,League One,13,Bristol City,46,15,15,16,60,55,60,-5
+1995-96,League One,14,Brentford,46,15,13,18,58,43,49,-6
+1995-96,League One,15,Bournemouth,46,16,10,20,58,51,70,-19
+1995-96,League One,16,Rotherham,46,14,14,18,56,54,62,-8
+1995-96,League One,17,Burnley,46,14,13,19,55,56,68,-12
+1995-96,League One,18,Shrewsbury,46,13,14,19,53,58,70,-12
+1995-96,League One,19,Peterboro,46,13,13,20,52,59,66,-7
+1995-96,League One,20,York,46,13,13,20,52,58,72,-14
+1995-96,League One,21,Carlisle,46,12,13,21,49,57,72,-15
+1995-96,League One,22,Swansea,46,11,14,21,47,43,79,-36
+1995-96,League One,23,Brighton,46,10,10,26,40,46,69,-23
+1995-96,League One,24,Hull,46,5,16,25,31,36,78,-42
+1996-97,League One,1,Bury,46,24,12,10,84,62,38,+24
+1996-97,League One,2,Stockport,46,23,13,10,82,59,41,+18
+1996-97,League One,3,Luton,46,21,15,10,78,71,45,+26
+1996-97,League One,4,Brentford,46,20,14,12,74,56,43,+13
+1996-97,League One,5,Bristol City,46,21,10,15,73,69,51,+18
+1996-97,League One,6,Crewe,46,22,7,17,73,56,47,+9
+1996-97,League One,7,Blackpool,46,18,15,13,69,60,47,+13
+1996-97,League One,8,Wrexham,46,17,18,11,69,55,50,+5
+1996-97,League One,9,Burnley,46,19,11,16,68,71,55,+16
+1996-97,League One,10,Chesterfield,46,18,14,14,68,42,39,+3
+1996-97,League One,11,Watford,46,16,19,11,67,45,38,+7
+1996-97,League One,12,Gillingham,46,19,10,17,67,60,59,+1
+1996-97,League One,13,Walsall,46,19,10,17,67,54,53,+1
+1996-97,League One,14,Millwall,46,16,13,17,61,50,55,-5
+1996-97,League One,15,Preston,46,18,7,21,61,49,55,-6
+1996-97,League One,16,Bournemouth,46,15,15,16,60,43,45,-2
+1996-97,League One,17,Bristol Rvs,46,15,11,20,56,47,50,-3
+1996-97,League One,18,Wycombe,46,15,10,21,55,51,57,-6
+1996-97,League One,19,Plymouth,46,12,18,16,54,47,58,-11
+1996-97,League One,20,York,46,13,13,20,52,47,68,-21
+1996-97,League One,21,Peterboro,46,11,14,21,47,55,73,-18
+1996-97,League One,22,Shrewsbury,46,11,13,22,46,49,74,-25
+1996-97,League One,23,Notts County,46,7,14,25,35,33,59,-26
+1996-97,League One,24,Rotherham,46,7,14,25,35,39,70,-31
+1997-98,League One,1,Watford,46,24,16,6,88,67,41,+26
+1997-98,League One,2,Bristol City,46,25,10,11,85,69,39,+30
+1997-98,League One,3,Grimsby,46,19,15,12,72,55,37,+18
+1997-98,League One,4,Northampton,46,18,17,11,71,52,37,+15
+1997-98,League One,5,Fulham,46,20,10,16,70,60,43,+17
+1997-98,League One,6,Bristol Rvs,46,20,10,16,70,70,64,+6
+1997-98,League One,7,Gillingham,46,19,13,14,70,52,47,+5
+1997-98,League One,8,Wrexham,46,18,16,12,70,55,51,+4
+1997-98,League One,9,Bournemouth,46,18,12,16,66,57,52,+5
+1997-98,League One,10,Chesterfield,46,16,17,13,65,46,44,+2
+1997-98,League One,11,Wigan,46,17,11,18,62,64,66,-2
+1997-98,League One,12,Blackpool,46,17,11,18,62,59,67,-8
+1997-98,League One,13,Oldham,46,15,16,15,61,62,54,+8
+1997-98,League One,14,Wycombe,46,14,18,14,60,51,53,-2
+1997-98,League One,15,Preston,46,15,14,17,59,56,56,0
+1997-98,League One,16,York,46,14,17,15,59,52,58,-6
+1997-98,League One,17,Luton,46,14,15,17,57,60,64,-4
+1997-98,League One,18,Millwall,46,14,13,19,55,43,54,-11
+1997-98,League One,19,Walsall,46,14,12,20,54,43,52,-9
+1997-98,League One,20,Burnley,46,13,13,20,52,55,65,-10
+1997-98,League One,21,Brentford,46,11,17,18,50,50,71,-21
+1997-98,League One,22,Plymouth,46,12,13,21,49,55,70,-15
+1997-98,League One,23,Carlisle,46,12,8,26,44,57,73,-16
+1997-98,League One,24,Southend,46,11,10,25,43,47,79,-32
+1998-99,League One,1,Fulham,46,31,8,7,101,79,32,+47
+1998-99,League One,2,Walsall,46,26,9,11,87,63,47,+16
+1998-99,League One,3,Man City,46,22,16,8,82,69,33,+36
+1998-99,League One,4,Gillingham,46,22,14,10,80,75,44,+31
+1998-99,League One,5,Preston,46,22,13,11,79,78,50,+28
+1998-99,League One,6,Wigan,46,22,10,14,76,75,48,+27
+1998-99,League One,7,Bournemouth,46,21,13,12,76,63,41,+22
+1998-99,League One,8,Stoke,46,21,6,19,69,59,63,-4
+1998-99,League One,9,Chesterfield,46,17,13,16,64,46,44,+2
+1998-99,League One,10,Millwall,46,17,11,18,62,52,59,-7
+1998-99,League One,11,Reading,46,16,13,17,61,54,63,-9
+1998-99,League One,12,Luton,46,16,10,20,58,51,60,-9
+1998-99,League One,13,Bristol Rvs,46,13,17,16,56,65,56,+9
+1998-99,League One,14,Blackpool,46,14,14,18,56,44,54,-10
+1998-99,League One,15,Burnley,46,13,16,17,55,54,73,-19
+1998-99,League One,16,Notts County,46,14,12,20,54,52,61,-9
+1998-99,League One,17,Wrexham,46,13,14,19,53,43,62,-19
+1998-99,League One,18,Colchester,46,12,16,18,52,52,70,-18
+1998-99,League One,19,Wycombe,46,13,12,21,51,52,58,-6
+1998-99,League One,20,Oldham,46,14,9,23,51,48,66,-18
+1998-99,League One,21,York,46,13,11,22,50,56,80,-24
+1998-99,League One,22,Northampton,46,10,18,18,48,43,57,-14
+1998-99,League One,23,Lincoln,46,13,7,26,46,42,74,-32
+1998-99,League One,24,Macclesfield,46,11,10,25,43,43,63,-20
+1999-00,League One,1,Preston,46,28,11,7,95,74,37,+37
+1999-00,League One,2,Burnley,46,25,13,8,88,69,47,+22
+1999-00,League One,3,Gillingham,46,25,10,11,85,79,48,+31
+1999-00,League One,4,Wigan,46,22,17,7,83,72,38,+34
+1999-00,League One,5,Millwall,46,23,13,10,82,76,50,+26
+1999-00,League One,6,Stoke,46,23,13,10,82,68,42,+26
+1999-00,League One,7,Bristol Rvs,46,23,11,12,80,69,45,+24
+1999-00,League One,8,Notts County,46,18,11,17,65,61,55,+6
+1999-00,League One,9,Bristol City,46,15,19,12,64,59,57,+2
+1999-00,League One,10,Reading,46,16,14,16,62,57,63,-6
+1999-00,League One,11,Wrexham,46,17,11,18,62,52,61,-9
+1999-00,League One,12,Wycombe,46,16,13,17,61,56,53,+3
+1999-00,League One,13,Luton,46,17,10,19,61,61,65,-4
+1999-00,League One,14,Oldham,46,16,12,18,60,50,55,-5
+1999-00,League One,15,Bury,46,13,18,15,57,61,64,-3
+1999-00,League One,16,Bournemouth,46,16,9,21,57,59,62,-3
+1999-00,League One,17,Brentford,46,13,13,20,52,47,61,-14
+1999-00,League One,18,Colchester,46,14,10,22,52,59,82,-23
+1999-00,League One,19,Cambridge,46,12,12,22,48,64,65,-1
+1999-00,League One,20,Oxford,46,12,9,25,45,43,73,-30
+1999-00,League One,21,Cardiff,46,9,17,20,44,45,67,-22
+1999-00,League One,22,Blackpool,46,8,17,21,41,49,77,-28
+1999-00,League One,23,Scunthorpe,46,9,12,25,39,40,74,-34
+1999-00,League One,24,Chesterfield,46,7,15,24,36,34,63,-29
+2000-01,League One,1,Millwall,46,28,9,9,93,89,38,+51
+2000-01,League One,2,Rotherham,46,27,10,9,91,79,55,+24
+2000-01,League One,3,Reading,46,25,11,10,86,86,52,+34
+2000-01,League One,4,Walsall,46,23,12,11,81,79,50,+29
+2000-01,League One,5,Stoke,46,21,14,11,77,74,49,+25
+2000-01,League One,6,Wigan,46,19,18,9,75,53,42,+11
+2000-01,League One,7,Bournemouth,46,20,13,13,73,79,55,+24
+2000-01,League One,8,Notts County,46,19,12,15,69,62,66,-4
+2000-01,League One,9,Bristol City,46,18,14,14,68,70,56,+14
+2000-01,League One,10,Wrexham,46,17,12,17,63,65,71,-6
+2000-01,League One,11,Port Vale,46,16,14,16,62,55,49,+6
+2000-01,League One,12,Peterboro,46,15,14,17,59,61,66,-5
+2000-01,League One,13,Wycombe,46,15,14,17,59,46,53,-7
+2000-01,League One,14,Brentford,46,14,17,15,59,56,70,-14
+2000-01,League One,15,Oldham,46,15,13,18,58,53,65,-12
+2000-01,League One,16,Bury,46,16,10,20,58,45,59,-14
+2000-01,League One,17,Colchester,46,15,12,19,57,55,59,-4
+2000-01,League One,18,Northampton,46,15,12,19,57,46,59,-13
+2000-01,League One,19,Cambridge,46,14,11,21,53,61,77,-16
+2000-01,League One,20,Swindon,46,13,13,20,52,47,65,-18
+2000-01,League One,21,Bristol Rvs,46,12,15,19,51,53,57,-4
+2000-01,League One,22,Luton,46,9,13,24,40,52,80,-28
+2000-01,League One,23,Swansea,46,8,13,25,37,47,73,-26
+2000-01,League One,24,Oxford,46,7,6,33,27,53,100,-47
+2001-02,League One,1,Brighton,46,25,15,6,90,66,42,+24
+2001-02,League One,2,Reading,46,23,15,8,84,70,43,+27
+2001-02,League One,3,Brentford,46,24,11,11,83,77,43,+34
+2001-02,League One,4,Cardiff,46,23,14,9,83,75,50,+25
+2001-02,League One,5,Stoke,46,23,11,12,80,67,40,+27
+2001-02,League One,6,Huddersfield,46,21,15,10,78,65,47,+18
+2001-02,League One,7,Bristol City,46,21,10,15,73,68,53,+15
+2001-02,League One,8,QPR,46,19,14,13,71,60,49,+11
+2001-02,League One,9,Oldham,46,18,16,12,70,77,65,+12
+2001-02,League One,10,Wigan,46,16,16,14,64,66,51,+15
+2001-02,League One,11,Wycombe,46,17,13,16,64,58,64,-6
+2001-02,League One,12,Tranmere,46,16,15,15,63,63,60,+3
+2001-02,League One,13,Swindon,46,15,14,17,59,46,56,-10
+2001-02,League One,14,Port Vale,46,16,10,20,58,51,62,-11
+2001-02,League One,15,Colchester,46,15,12,19,57,65,76,-11
+2001-02,League One,16,Blackpool,46,14,14,18,56,66,69,-3
+2001-02,League One,17,Peterboro,46,15,10,21,55,64,59,+5
+2001-02,League One,18,Chesterfield,46,13,13,20,52,53,65,-12
+2001-02,League One,19,Notts County,46,13,11,22,50,59,71,-12
+2001-02,League One,20,Northampton,46,14,7,25,49,54,79,-25
+2001-02,League One,21,Bournemouth,46,10,14,22,44,56,71,-15
+2001-02,League One,22,Bury,46,11,11,24,44,43,75,-32
+2001-02,League One,23,Wrexham,46,11,10,25,43,56,89,-33
+2001-02,League One,24,Cambridge,46,7,13,26,34,47,93,-46
+2002-03,League One,1,Wigan,30,21,6,3,69,49,18,+31
+2002-03,League One,2,Crewe,29,17,6,6,57,51,25,+26
+2002-03,League One,3,Cardiff,29,17,6,6,57,46,24,+22
+2002-03,League One,4,Oldham,30,15,10,5,55,46,26,+20
+2002-03,League One,5,Bristol City,29,15,7,7,52,53,32,+21
+2002-03,League One,6,QPR,30,14,7,9,49,41,34,+7
+2002-03,League One,7,Tranmere,30,13,6,11,45,41,45,-4
+2002-03,League One,8,Luton,28,12,8,8,44,42,36,+6
+2002-03,League One,9,Blackpool,29,12,8,9,44,38,37,+1
+2002-03,League One,10,Plymouth,29,11,9,9,42,39,34,+5
+2002-03,League One,11,Swindon,30,10,9,11,39,41,43,-2
+2002-03,League One,12,Wycombe,30,10,8,12,38,43,40,+3
+2002-03,League One,13,Brentford,27,10,8,9,38,32,30,+2
+2002-03,League One,14,Chesterfield,29,11,5,13,38,26,36,-10
+2002-03,League One,15,Peterboro,30,7,10,13,31,31,39,-8
+2002-03,League One,16,Port Vale,28,8,7,13,31,31,41,-10
+2002-03,League One,17,Notts County,29,6,12,11,30,41,47,-6
+2002-03,League One,18,Stockport,30,8,6,16,30,40,51,-11
+2002-03,League One,19,Northampton,30,8,6,16,30,27,47,-20
+2002-03,League One,20,Barnsley,29,7,8,14,29,32,45,-13
+2002-03,League One,21,Mansfield,30,8,5,17,29,45,64,-19
+2002-03,League One,22,Colchester,29,6,10,13,28,29,42,-13
+2002-03,League One,23,Cheltenham,29,6,10,13,28,27,41,-14
+2002-03,League One,24,Huddersfield,29,7,7,15,28,21,35,-14
+2003-04,League One,1,Plymouth,43,24,12,7,84,80,38,+42
+2003-04,League One,2,QPR,43,21,16,6,79,77,42,+35
+2003-04,League One,3,Brighton,41,21,10,10,73,60,36,+24
+2003-04,League One,4,Hartlepool,41,19,11,11,68,69,55,+14
+2003-04,League One,5,Bristol City,41,18,13,10,67,48,35,+13
+2003-04,League One,6,Port Vale,41,18,10,13,64,61,53,+8
+2003-04,League One,7,Colchester,44,17,13,14,64,52,53,-1
+2003-04,League One,8,Swindon,41,17,11,13,62,65,52,+13
+2003-04,League One,9,Luton,43,16,13,14,61,65,64,+1
+2003-04,League One,10,Tranmere,43,15,15,13,60,53,54,-1
+2003-04,League One,11,Bournemouth,43,15,14,14,59,53,50,+3
+2003-04,League One,12,Barnsley,42,14,16,12,58,50,55,-5
+2003-04,League One,13,Blackpool,40,15,8,17,53,50,56,-6
+2003-04,League One,14,Peterboro,43,12,15,16,51,58,55,+3
+2003-04,League One,15,Wrexham,42,14,9,19,51,45,58,-13
+2003-04,League One,16,Oldham,42,10,20,12,50,58,58,0
+2003-04,League One,17,Stockport,41,10,18,13,48,54,59,-5
+2003-04,League One,18,Rushden & D,44,13,9,22,48,60,69,-9
+2003-04,League One,19,Brentford,42,13,9,20,48,48,65,-17
+2003-04,League One,20,Grimsby,41,12,11,18,47,50,64,-14
+2003-04,League One,21,Chesterfield,43,11,14,18,47,45,65,-20
+2003-04,League One,22,Sheffield Weds,41,11,12,18,45,43,61,-18
+2003-04,League One,23,Notts County,43,9,12,22,39,48,75,-27
+2003-04,League One,24,Wycombe,40,6,15,19,33,46,66,-20
 2004-05,League One,1,Hull,31,20,6,5,66,60,29,+31
 2004-05,League One,2,Luton,30,17,8,5,59,51,34,+17
 2004-05,League One,3,Tranmere,31,16,8,7,56,56,36,+20
@@ -1627,6 +2155,222 @@
 2024-25,League One,22,Bristol Rvs,46,12,7,27,43,44,76,-32
 2024-25,League One,23,Cambridge,46,9,11,26,38,45,73,-28
 2024-25,League One,24,Shrewsbury,46,8,9,29,33,41,79,-38
+1995-96,League Two,1,Preston,46,23,17,6,86,78,38,+40
+1995-96,League Two,2,Gillingham,46,22,17,7,83,49,20,+29
+1995-96,League Two,3,Bury,46,22,13,11,79,66,48,+18
+1995-96,League Two,4,Plymouth,46,22,12,12,78,68,49,+19
+1995-96,League Two,5,Darlington,46,20,18,8,78,60,42,+18
+1995-96,League Two,6,Hereford,46,20,14,12,74,65,47,+18
+1995-96,League Two,7,Colchester,46,18,18,10,72,61,51,+10
+1995-96,League Two,8,Barnet,46,18,16,12,70,65,45,+20
+1995-96,League Two,9,Chester,46,18,16,12,70,72,53,+19
+1995-96,League Two,10,Wigan,46,20,10,16,70,62,56,+6
+1995-96,League Two,11,Northampton,46,18,13,15,67,50,43,+7
+1995-96,League Two,12,Scunthorpe,46,15,15,16,60,67,60,+7
+1995-96,League Two,13,Doncaster,46,16,11,19,59,48,59,-11
+1995-96,League Two,14,Exeter,46,13,18,15,57,46,53,-7
+1995-96,League Two,15,Rochdale,46,14,13,19,55,57,61,-4
+1995-96,League Two,16,Cambridge,46,14,12,20,54,61,71,-10
+1995-96,League Two,17,Fulham,46,12,17,17,53,56,63,-7
+1995-96,League Two,18,Mansfield,46,11,20,15,53,54,64,-10
+1995-96,League Two,19,Lincoln,46,13,14,19,53,56,73,-17
+1995-96,League Two,20,Hartlepool,46,12,13,21,49,47,67,-20
+1995-96,League Two,21,Leyton Orient,46,12,11,23,47,44,63,-19
+1995-96,League Two,22,Cardiff,46,11,12,23,45,41,64,-23
+1995-96,League Two,23,Scarborough,46,8,16,22,40,39,68,-29
+1995-96,League Two,24,Torquay,46,5,14,27,29,30,84,-54
+1996-97,League Two,1,Fulham,46,25,12,9,87,72,38,+34
+1996-97,League Two,2,Wigan,46,26,9,11,87,84,51,+33
+1996-97,League Two,3,Carlisle,46,24,12,10,84,67,44,+23
+1996-97,League Two,4,Northampton,46,20,12,14,72,67,44,+23
+1996-97,League Two,5,Swansea,46,21,8,17,71,62,58,+4
+1996-97,League Two,6,Chester,46,18,16,12,70,55,43,+12
+1996-97,League Two,7,Cardiff,46,20,9,17,69,57,55,+2
+1996-97,League Two,8,Colchester,46,17,17,12,68,62,51,+11
+1996-97,League Two,9,Lincoln,46,18,12,16,66,70,69,+1
+1996-97,League Two,10,Cambridge,46,18,11,17,65,53,59,-6
+1996-97,League Two,11,Mansfield,46,16,16,14,64,47,45,+2
+1996-97,League Two,12,Scarborough,46,16,15,15,63,66,69,-3
+1996-97,League Two,13,Scunthorpe,46,18,9,19,63,59,62,-3
+1996-97,League Two,14,Rochdale,46,14,16,16,58,58,58,0
+1996-97,League Two,15,Barnet,46,14,16,16,58,46,51,-5
+1996-97,League Two,16,Hull,46,13,18,15,57,44,50,-6
+1996-97,League Two,17,Leyton Orient,46,15,12,19,57,50,58,-8
+1996-97,League Two,18,Darlington,46,14,10,22,52,64,78,-14
+1996-97,League Two,19,Doncaster,46,14,10,22,52,52,66,-14
+1996-97,League Two,20,Hartlepool,46,14,9,23,51,53,66,-13
+1996-97,League Two,21,Torquay,46,13,11,22,50,46,62,-16
+1996-97,League Two,22,Brighton,46,13,10,23,49,53,70,-17
+1996-97,League Two,23,Exeter,46,12,12,22,48,48,73,-25
+1996-97,League Two,24,Hereford,46,11,14,21,47,50,65,-15
+1997-98,League Two,1,Notts County,46,29,12,5,99,82,43,+39
+1997-98,League Two,2,Macclesfield,46,23,13,10,82,63,44,+19
+1997-98,League Two,3,Lincoln,46,20,15,11,75,60,51,+9
+1997-98,League Two,4,Colchester,46,21,11,14,74,72,60,+12
+1997-98,League Two,5,Torquay,46,21,11,14,74,68,59,+9
+1997-98,League Two,6,Scarborough,46,19,15,12,72,67,58,+9
+1997-98,League Two,7,Barnet,46,19,13,14,70,61,51,+10
+1997-98,League Two,8,Leyton Orient,46,19,12,15,69,62,47,+15
+1997-98,League Two,9,Scunthorpe,46,19,12,15,69,56,52,+4
+1997-98,League Two,10,Peterboro,46,18,13,15,67,63,51,+12
+1997-98,League Two,11,Rotherham,46,16,19,11,67,67,61,+6
+1997-98,League Two,12,Mansfield,46,16,17,13,65,64,55,+9
+1997-98,League Two,13,Shrewsbury,46,16,13,17,61,61,62,-1
+1997-98,League Two,14,Chester,46,17,10,19,61,60,61,-1
+1997-98,League Two,15,Cambridge,46,14,18,14,60,63,57,+6
+1997-98,League Two,16,Exeter,46,15,15,16,60,68,63,+5
+1997-98,League Two,17,Hartlepool,46,12,23,11,59,61,53,+8
+1997-98,League Two,18,Rochdale,46,17,7,22,58,56,55,+1
+1997-98,League Two,19,Darlington,46,14,12,20,54,56,72,-16
+1997-98,League Two,20,Cardiff,46,9,23,14,50,48,52,-4
+1997-98,League Two,21,Swansea,46,13,11,22,50,49,62,-13
+1997-98,League Two,22,Hull,46,11,8,27,41,56,83,-27
+1997-98,League Two,23,Brighton,46,6,17,23,35,38,66,-28
+1997-98,League Two,24,Doncaster,46,4,8,34,20,30,113,-83
+1998-99,League Two,1,Brentford,46,26,7,13,85,79,56,+23
+1998-99,League Two,2,Cambridge,46,23,12,11,81,78,48,+30
+1998-99,League Two,3,Cardiff,46,22,14,10,80,60,39,+21
+1998-99,League Two,4,Scunthorpe,46,22,8,16,74,69,58,+11
+1998-99,League Two,5,Rotherham,46,20,13,13,73,79,61,+18
+1998-99,League Two,6,Leyton Orient,46,19,15,12,72,68,59,+9
+1998-99,League Two,7,Swansea,46,19,14,13,71,56,48,+8
+1998-99,League Two,8,Mansfield,46,19,10,17,67,60,58,+2
+1998-99,League Two,9,Peterboro,46,18,12,16,66,72,56,+16
+1998-99,League Two,10,Halifax,46,17,15,14,66,58,56,+2
+1998-99,League Two,11,Darlington,46,18,11,17,65,69,58,+11
+1998-99,League Two,12,Exeter,46,17,12,17,63,47,50,-3
+1998-99,League Two,13,Plymouth,46,17,10,19,61,58,54,+4
+1998-99,League Two,14,Chester,46,13,18,15,57,57,66,-9
+1998-99,League Two,15,Shrewsbury,46,14,14,18,56,52,63,-11
+1998-99,League Two,16,Barnet,46,14,13,19,55,54,71,-17
+1998-99,League Two,17,Brighton,46,16,7,23,55,49,66,-17
+1998-99,League Two,18,Southend,46,14,12,20,54,52,58,-6
+1998-99,League Two,19,Rochdale,46,13,15,18,54,42,55,-13
+1998-99,League Two,20,Torquay,46,12,17,17,53,47,58,-11
+1998-99,League Two,21,Hull,46,14,11,21,53,44,62,-18
+1998-99,League Two,22,Hartlepool,46,13,12,21,51,52,65,-13
+1998-99,League Two,23,Carlisle,46,11,16,19,49,43,53,-10
+1998-99,League Two,24,Scarborough,46,14,6,26,48,50,77,-27
+1999-00,League Two,1,Swansea,46,24,13,9,85,51,30,+21
+1999-00,League Two,2,Rotherham,46,24,12,10,84,72,36,+36
+1999-00,League Two,3,Northampton,46,25,7,14,82,63,45,+18
+1999-00,League Two,4,Darlington,46,21,16,9,79,66,36,+30
+1999-00,League Two,5,Peterboro,46,22,12,12,78,63,54,+9
+1999-00,League Two,6,Barnet,46,21,12,13,75,59,53,+6
+1999-00,League Two,7,Hartlepool,46,21,10,15,73,60,47,+13
+1999-00,League Two,8,Cheltenham,46,20,10,16,70,50,42,+8
+1999-00,League Two,9,Torquay,46,19,12,15,69,62,52,+10
+1999-00,League Two,10,Brighton,46,17,16,13,67,64,46,+18
+1999-00,League Two,11,Plymouth,46,16,18,12,66,55,51,+4
+1999-00,League Two,12,Rochdale,46,17,15,14,66,55,54,+1
+1999-00,League Two,13,Macclesfield,46,18,11,17,65,66,61,+5
+1999-00,League Two,14,Hull,46,15,14,17,59,43,43,0
+1999-00,League Two,15,Lincoln,46,15,14,17,59,67,69,-2
+1999-00,League Two,16,Southend,46,15,11,20,56,53,61,-8
+1999-00,League Two,17,Mansfield,46,16,8,22,56,50,65,-15
+1999-00,League Two,18,Halifax,46,15,9,22,54,44,58,-14
+1999-00,League Two,19,Leyton Orient,46,13,13,20,52,47,52,-5
+1999-00,League Two,20,York,46,12,16,18,52,39,53,-14
+1999-00,League Two,21,Exeter,46,11,11,24,44,46,72,-26
+1999-00,League Two,22,Shrewsbury,46,9,13,24,40,40,67,-27
+1999-00,League Two,23,Carlisle,46,9,12,25,39,42,75,-33
+1999-00,League Two,24,Chester,46,10,9,27,39,44,79,-35
+2000-01,League Two,1,Brighton,46,28,8,10,92,73,35,+38
+2000-01,League Two,2,Chesterfield,46,25,14,7,89,79,42,+37
+2000-01,League Two,3,Cardiff,46,23,13,10,82,95,58,+37
+2000-01,League Two,4,Hartlepool,46,21,14,11,77,71,54,+17
+2000-01,League Two,5,Leyton Orient,46,20,15,11,75,59,51,+8
+2000-01,League Two,6,Hull,46,19,17,10,74,47,39,+8
+2000-01,League Two,7,Blackpool,46,22,6,18,72,74,58,+16
+2000-01,League Two,8,Rochdale,46,18,17,11,71,59,48,+11
+2000-01,League Two,9,Cheltenham,46,18,14,14,68,59,52,+7
+2000-01,League Two,10,Scunthorpe,46,18,11,17,65,62,52,+10
+2000-01,League Two,11,Southend,46,15,18,13,63,55,53,+2
+2000-01,League Two,12,Plymouth,46,15,13,18,58,54,61,-7
+2000-01,League Two,13,Mansfield,46,15,13,18,58,64,72,-8
+2000-01,League Two,14,Macclesfield,46,14,14,18,56,51,62,-11
+2000-01,League Two,15,Shrewsbury,46,15,10,21,55,49,65,-16
+2000-01,League Two,16,Kidderminster,46,13,14,19,53,47,61,-14
+2000-01,League Two,17,York,46,13,13,20,52,42,63,-21
+2000-01,League Two,18,Lincoln,46,12,15,19,51,58,66,-8
+2000-01,League Two,19,Exeter,46,12,14,20,50,40,58,-18
+2000-01,League Two,20,Darlington,46,12,13,21,49,44,56,-12
+2000-01,League Two,21,Torquay,46,12,13,21,49,52,77,-25
+2000-01,League Two,22,Carlisle,46,11,15,20,48,42,65,-23
+2000-01,League Two,23,Halifax,46,12,11,23,47,54,68,-14
+2000-01,League Two,24,Barnet,46,12,9,25,45,67,81,-14
+2001-02,League Two,1,Plymouth,46,31,9,6,102,71,28,+43
+2001-02,League Two,2,Luton,46,30,7,9,97,96,48,+48
+2001-02,League Two,3,Mansfield,46,24,7,15,79,72,60,+12
+2001-02,League Two,4,Cheltenham,46,21,15,10,78,66,49,+17
+2001-02,League Two,5,Rochdale,46,21,15,10,78,65,52,+13
+2001-02,League Two,6,Rushden & D,46,20,13,13,73,69,53,+16
+2001-02,League Two,7,Hartlepool,46,20,11,15,71,74,48,+26
+2001-02,League Two,8,Scunthorpe,46,19,14,13,71,74,56,+18
+2001-02,League Two,9,Shrewsbury,46,20,10,16,70,64,53,+11
+2001-02,League Two,10,Kidderminster,46,19,9,18,66,56,47,+9
+2001-02,League Two,11,Hull,46,16,13,17,61,57,51,+6
+2001-02,League Two,12,Southend,46,15,13,18,58,51,54,-3
+2001-02,League Two,13,Macclesfield,46,15,13,18,58,41,52,-11
+2001-02,League Two,14,York,46,16,9,21,57,54,67,-13
+2001-02,League Two,15,Darlington,46,15,11,20,56,60,71,-11
+2001-02,League Two,16,Exeter,46,14,13,19,55,48,73,-25
+2001-02,League Two,17,Carlisle,46,12,16,18,52,49,56,-7
+2001-02,League Two,18,Leyton Orient,46,13,13,20,52,55,71,-16
+2001-02,League Two,19,Torquay,46,12,15,19,51,46,63,-17
+2001-02,League Two,20,Swansea,46,13,12,21,51,53,77,-24
+2001-02,League Two,21,Oxford,46,11,14,21,47,53,62,-9
+2001-02,League Two,22,Lincoln,46,10,16,20,46,44,62,-18
+2001-02,League Two,23,Bristol Rvs,46,11,12,23,45,40,60,-20
+2001-02,League Two,24,Halifax,46,8,12,26,36,39,84,-45
+2002-03,League Two,1,Hartlepool,30,19,6,5,63,49,31,+18
+2002-03,League Two,2,Rushden & D,29,15,9,5,54,46,28,+18
+2002-03,League Two,3,Oxford,28,13,7,8,46,38,25,+13
+2002-03,League Two,4,Scunthorpe,29,12,9,8,45,44,34,+10
+2002-03,League Two,5,Torquay,29,12,9,8,45,50,48,+2
+2002-03,League Two,6,Bury,28,12,9,7,45,40,38,+2
+2002-03,League Two,7,Bournemouth,26,11,10,5,43,35,32,+3
+2002-03,League Two,8,York,28,11,8,9,41,33,35,-2
+2002-03,League Two,9,Cambridge,27,11,7,9,40,45,41,+4
+2002-03,League Two,10,Lincoln,28,10,10,8,40,28,25,+3
+2002-03,League Two,11,Wrexham,25,10,9,6,39,40,33,+7
+2002-03,League Two,12,Kidderminster,27,10,9,8,39,38,35,+3
+2002-03,League Two,13,Hull,29,8,14,7,38,33,27,+6
+2002-03,League Two,14,Southend,29,12,2,15,38,31,38,-7
+2002-03,League Two,15,Leyton Orient,28,10,6,12,36,32,34,-2
+2002-03,League Two,16,Darlington,27,7,12,8,33,34,35,-1
+2002-03,League Two,17,Rochdale,26,7,9,10,30,38,39,-1
+2002-03,League Two,18,Shrewsbury,27,7,9,11,30,38,50,-12
+2002-03,League Two,19,Boston,29,7,8,14,29,33,41,-8
+2002-03,League Two,20,Carlisle,29,8,5,16,29,33,47,-14
+2002-03,League Two,21,Macclesfield,28,7,7,14,28,34,40,-6
+2002-03,League Two,22,Exeter,28,6,10,12,28,32,41,-9
+2002-03,League Two,23,Bristol Rvs,29,6,8,15,26,31,41,-10
+2002-03,League Two,24,Swansea,27,5,6,16,21,25,42,-17
+2003-04,League Two,1,Doncaster,40,23,10,7,79,71,32,+39
+2003-04,League Two,2,Hull,41,22,12,7,78,73,39,+34
+2003-04,League Two,3,Huddersfield,40,19,11,10,68,60,48,+12
+2003-04,League Two,4,Torquay,40,18,12,10,66,55,39,+16
+2003-04,League Two,5,Mansfield,39,19,8,12,65,70,53,+17
+2003-04,League Two,6,Lincoln,38,17,13,8,64,58,39,+19
+2003-04,League Two,7,Yeovil,38,20,4,14,64,62,46,+16
+2003-04,League Two,8,Oxford,39,16,15,8,63,47,34,+13
+2003-04,League Two,9,Northampton,38,17,9,12,60,46,43,+3
+2003-04,League Two,10,Swansea,41,14,12,15,54,54,55,-1
+2003-04,League Two,11,Boston,41,15,9,17,54,46,49,-3
+2003-04,League Two,12,Bristol Rvs,39,13,11,15,50,44,48,-4
+2003-04,League Two,13,Bury,40,14,7,19,49,50,60,-10
+2003-04,League Two,14,Kidderminster,38,13,10,15,49,41,51,-10
+2003-04,League Two,15,Cambridge,40,12,12,16,48,49,62,-13
+2003-04,League Two,16,Macclesfield,39,12,11,16,47,47,57,-10
+2003-04,League Two,17,Southend,39,12,10,17,46,45,57,-12
+2003-04,League Two,18,Rochdale,39,11,11,17,44,43,51,-8
+2003-04,League Two,19,Cheltenham,38,11,10,17,43,53,68,-15
+2003-04,League Two,20,Scunthorpe,40,10,12,18,42,63,66,-3
+2003-04,League Two,21,Leyton Orient,40,9,14,17,41,39,59,-20
+2003-04,League Two,22,Darlington,40,10,10,20,40,42,56,-14
+2003-04,League Two,23,York,38,9,13,16,40,29,52,-23
+2003-04,League Two,24,Carlisle,39,10,6,23,36,38,61,-23
 2004-05,League Two,1,Yeovil,37,21,7,9,70,79,52,+27
 2004-05,League Two,2,Scunthorpe,36,18,10,8,64,59,36,+23
 2004-05,League Two,3,Southend,39,18,9,12,63,51,43,+8
