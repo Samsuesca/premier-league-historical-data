@@ -48,3 +48,7 @@ Thumbs.db
 *.csv.bak
 temp/
 cache/
+
+# Logging directory (keep folder, ignore logs)
+logs/*.log
+!logs/.gitkeep

@@ -13,9 +13,28 @@ import logging
 from io import StringIO
 from abc import ABC, abstractmethod
 import numpy as np
+from pathlib import Path
+from datetime import datetime
 
-logging.basicConfig(level=logging.INFO, format='%(message)s')
+# Configurar logging con archivo y consola
+log_dir = Path('logs')
+log_dir.mkdir(exist_ok=True)
+
+# Nombre de archivo con timestamp
+log_filename = log_dir / f'scraper_english_leagues_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+
+# Configurar logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(log_filename, encoding='utf-8'),
+        logging.StreamHandler()  # También mostrar en consola
+    ]
+)
 logger = logging.getLogger(__name__)
+
+logger.info(f"Logging iniciado - archivo: {log_filename}")
 
 
 class EnglishLeagueScraper(ABC):
@@ -448,7 +467,7 @@ def scrape_all_divisions():
 
 
 def create_tracking(df):
-    """Crea base de datos de tracking longitudinal por división"""
+    """Crea base de datos de tracking longitudinal por división (con codificación numérica)"""
     logger.info("")
     logger.info("="*70)
     logger.info("CREANDO TRACKING LONGITUDINAL")
@@ -456,7 +475,14 @@ def create_tracking(df):
 
     all_teams = sorted(df['Equipo'].unique())
     all_seasons = sorted(df['Temporada'].unique())
+
+    # Definir jerarquía de divisiones (1 = mejor)
     all_divisions = ['Premier League', 'Championship', 'League One', 'League Two', 'National League']
+    division_map = {d: i + 1 for i, d in enumerate(all_divisions)}
+
+    # Crear variable numérica de división en el dataframe original
+    df = df.copy()
+    df['Division_Num'] = df['Division'].map(division_map)
 
     tracking = []
     for team in all_teams:
@@ -467,11 +493,14 @@ def create_tracking(df):
             data = df[(df['Equipo'] == team) & (df['Temporada'] == season)]
             if len(data) > 0:
                 division = data.iloc[0]['Division']
+                division_num = data.iloc[0]['Division_Num']
                 row[f'{season}_Division'] = division
+                row[f'{season}_Division_Num'] = division_num
                 row[f'{season}_Pos'] = data.iloc[0]['Pos']
                 row[f'{season}_Pts'] = data.iloc[0]['Pts']
             else:
                 row[f'{season}_Division'] = None
+                row[f'{season}_Division_Num'] = None
                 row[f'{season}_Pos'] = None
                 row[f'{season}_Pts'] = None
 
@@ -479,14 +508,22 @@ def create_tracking(df):
         team_data = df[df['Equipo'] == team]
         row['Total_Temporadas'] = len(team_data)
         row['Divisiones_Jugadas'] = team_data['Division'].nunique()
-        row['Mejor_Division'] = team_data['Division'].min() if len(team_data) > 0 else None
+
+        # Mejor división (numérica: menor = mejor)
+        if len(team_data) > 0:
+            row['Mejor_Division_Num'] = team_data['Division_Num'].min()
+            # Convertir de nuevo a texto (opcional)
+            inv_map = {v: k for k, v in division_map.items()}
+            row['Mejor_Division'] = inv_map.get(row['Mejor_Division_Num'], None)
+        else:
+            row['Mejor_Division_Num'] = None
+            row['Mejor_Division'] = None
 
         # Mejor posición global
         if len(team_data) > 0:
-            # Calcular "puntuación" por división: Premier=1, Championship=2, etc.
-            division_map = {d: i+1 for i, d in enumerate(all_divisions)}
-            team_data['Division_Score'] = team_data['Division'].map(division_map)
-            team_data['Global_Score'] = team_data['Division_Score'] * 100 + team_data['Pos']
+            team_data = team_data.assign(
+                Global_Score=team_data['Division_Num'] * 100 + team_data['Pos']
+            )
             row['Mejor_Posicion_Global'] = team_data['Global_Score'].min()
         else:
             row['Mejor_Posicion_Global'] = None
@@ -498,6 +535,7 @@ def create_tracking(df):
 
     output = 'english_leagues_tracking.csv'
     tracking_df.to_csv(output, index=False, encoding='utf-8-sig')
+
 
     logger.info(f"✓ Tracking guardado: {output}")
     logger.info(f"  {len(tracking_df)} equipos únicos rastreados")

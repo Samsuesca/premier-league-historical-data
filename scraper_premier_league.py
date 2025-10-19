@@ -9,9 +9,28 @@ import time
 import logging
 from io import StringIO
 import numpy as np
+from pathlib import Path
+from datetime import datetime
 
-logging.basicConfig(level=logging.INFO, format='%(message)s')
+# Configurar logging con archivo y consola
+log_dir = Path('logs')
+log_dir.mkdir(exist_ok=True)
+
+# Nombre de archivo con timestamp
+log_filename = log_dir / f'scraper_premier_league_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+
+# Configurar logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(log_filename, encoding='utf-8'),
+        logging.StreamHandler()  # También mostrar en consola
+    ]
+)
 logger = logging.getLogger(__name__)
+
+logger.info(f"Logging iniciado - archivo: {log_filename}")
 
 
 def get_football_data_url(season):

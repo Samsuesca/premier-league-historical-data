@@ -5,10 +5,32 @@ Valida que los datos de todas las divisiones estén correctos y completos
 
 import pandas as pd
 import numpy as np
+import logging
+from pathlib import Path
+from datetime import datetime
+
+# Configurar logging
+log_dir = Path('logs')
+log_dir.mkdir(exist_ok=True)
+
+log_filename = log_dir / f'verificar_english_leagues_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(log_filename, encoding='utf-8'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
+logger.info(f"Logging iniciado - archivo: {log_filename}")
 
 print("="*70)
 print("VERIFICACIÓN DE DATOS - English Football Pyramid")
 print("="*70)
+logger.info("Iniciando verificación de datos de English Football Pyramid")
 
 # Cargar datos
 try:
