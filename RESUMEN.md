@@ -1,35 +1,57 @@
-# RESUMEN RÁPIDO - Premier League Data
+# RESUMEN RÁPIDO - English Football Pyramid
 
 ## ✅ Estado Actual del Proyecto
 
-**✨ PROYECTO COMPLETADO - v2.0**
+**✨ FASE 3 COMPLETADA - v3.0** ⭐ NUEVO
 
-- 📊 **644 registros** de 32 temporadas (1993-2025)
-- ✅ **100% datos verificados** - 0 errores
-- 🎯 **51 equipos únicos** rastreados
+- 📊 **2,516 registros** de 5 divisiones completas (1993-2025)
+- ✅ **100% datos verificados** - 0 errores en todas las divisiones
+- 🎯 **159 equipos únicos** rastreados longitudinalmente
+- 🏆 **5 divisiones** del sistema piramidal inglés
 - 🔄 **Fuente única confiable**: football-data.co.uk
+- 📈 **Tracking completo**: Ascensos, descensos y trayectorias
+
+### Desglose por División
+
+| División        | Temporadas | Equipos | Registros |
+|-----------------|------------|---------|-----------|
+| Premier League  | 32         | 51      | 644       |
+| Championship    | 21         | 57      | 504       |
+| League One      | 20         | 78      | 480       |
+| League Two      | 21         | 71      | 504       |
+| National League | 16         | 90      | 384       |
 
 ## 🚀 Inicio Rápido
 
-### Extraer datos actualizados:
+### Opción A: Solo Premier League
 ```bash
 python scraper_premier_league.py
+python verificar_datos.py
 ```
 
-### Análisis:
+### Opción B: Todas las Divisiones (Recomendado) ⭐
 ```bash
-jupyter notebook analisis_premier_league.ipynb
+python scraper_english_leagues.py
+python verificar_english_leagues.py
 ```
 
 ## 📁 Archivos Importantes
 
+### Fase 3 - Multi-División ⭐ NUEVO
 | Archivo | Descripción |
 |---------|-------------|
-| `scraper_premier_league.py` | ⭐ Scraper principal |
-| `premier_league_COMPLETO_football_data.csv` | ⭐ Datos completos |
-| `premier_league_tracking_COMPLETO.csv` | ⭐ Tracking equipos |
-| `analisis_premier_league.ipynb` | Análisis y visualizaciones |
-| `archive/` | Versiones anteriores |
+| `scraper_english_leagues.py` | ⭐⭐ Scraper todas las divisiones |
+| `verificar_english_leagues.py` | Validación multi-división |
+| `english_leagues_completo.csv` | ⭐⭐ Datos 5 divisiones (2,516 registros) |
+| `english_leagues_tracking.csv` | Tracking longitudinal (159 equipos) |
+
+### Fase 2 - Premier League
+| Archivo | Descripción |
+|---------|-------------|
+| `scraper_premier_league.py` | Scraper Premier League |
+| `premier_league_COMPLETO_football_data.csv` | Datos Premier League (644 registros) |
+| `premier_league_tracking_COMPLETO.csv` | Tracking Premier League (51 equipos) |
+| `analisis_premier_league.ipynb` | Notebook de análisis |
 
 ## 📊 Datos Disponibles
 

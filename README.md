@@ -1,49 +1,85 @@
-# Premier League Historical Data Analysis (1993-2025)
+# English Football Pyramid - Historical Data Analysis (1993-2025)
 
-Sistema completo de extracción y análisis de datos históricos de la Premier League desde 1993 hasta 2025.
+Sistema completo de extracción y análisis de datos históricos del fútbol inglés, cubriendo las 5 divisiones principales desde 1993 hasta 2025.
 
 ## 📋 Descripción
 
-Este proyecto proporciona una base de datos limpia y verificada de todas las temporadas de la Premier League, incluyendo clasificaciones finales, estadísticas de equipos y seguimiento histórico.
+Este proyecto proporciona bases de datos limpias y verificadas de todas las temporadas históricas del fútbol inglés profesional:
+- **Premier League** (Nivel 1): 1993-2025
+- **Championship** (Nivel 2): 2004-2025
+- **League One** (Nivel 3): 2004-2025
+- **League Two** (Nivel 4): 2004-2025
+- **National League** (Nivel 5): 2005-2025
+
+Incluye clasificaciones finales, estadísticas de equipos y seguimiento longitudinal completo.
 
 ## 🎯 Características
 
+### Fase 2: Premier League (v2.0) ✅
 - **Datos completos**: 32 temporadas (1993-94 hasta 2024-25)
 - **100% verificados**: Validación automática de consistencia
-- **Fuente confiable**: football-data.co.uk
-- **Tracking histórico**: Seguimiento de cada equipo a través de los años
 - **644 registros** de 51 equipos únicos
+- **0 errores** en validación
+
+### Fase 3: English Football Pyramid Expansion ⭐ NUEVO
+- **5 divisiones** completas del sistema piramidal inglés
+- **2,516 registros totales** verificados
+- **159 equipos únicos** rastreados a través de todas las divisiones
+- **Tracking longitudinal**: Seguimiento de ascensos/descensos y trayectorias completas
+- **Fuente única confiable**: football-data.co.uk
 
 ## 📁 Archivos Principales
 
 ```
 futbol/
-├── scraper_premier_league.py              # Scraper principal ⭐
-├── analisis_premier_league.ipynb          # Notebook de análisis
-├── premier_league_COMPLETO_football_data.csv    # Datos completos ⭐
-├── premier_league_tracking_COMPLETO.csv         # Tracking por equipo ⭐
-├── README.md                              # Este archivo
-├── RESUMEN.md                             # Guía rápida
-└── archive/                               # Versiones anteriores
+├── scraper_premier_league.py                    # Scraper Premier League (Fase 2) ⭐
+├── scraper_english_leagues.py                   # Scraper todas las divisiones (Fase 3) ⭐⭐ NUEVO
+├── verificar_datos.py                           # Validación Premier League
+├── verificar_english_leagues.py                 # Validación multi-división ⭐ NUEVO
+├── premier_league_COMPLETO_football_data.csv    # Datos Premier League ⭐
+├── english_leagues_completo.csv                 # Datos 5 divisiones ⭐⭐ NUEVO
+├── premier_league_tracking_COMPLETO.csv         # Tracking Premier League
+├── english_leagues_tracking.csv                 # Tracking longitudinal ⭐ NUEVO
+├── analisis_premier_league.ipynb                # Análisis Premier League
+├── README.md                                    # Este archivo
+├── RESUMEN.md                                   # Guía rápida
+├── CLAUDE.md                                    # Guía para Claude Code
+├── Prompt.md                                    # Especificaciones Fase 3
+└── archive/                                     # Versiones anteriores (v1.0 Wikipedia)
 ```
 
 ## 🚀 Uso Rápido
 
-### 1. Extraer Datos Actualizados
+### Opción A: Solo Premier League (Fase 2)
 
 ```bash
+# Extraer datos de Premier League
 python scraper_premier_league.py
-```
 
-Esto descarga y procesa todas las temporadas, generando:
-- `premier_league_COMPLETO_football_data.csv`
-- `premier_league_tracking_COMPLETO.csv`
+# Verificar datos
+python verificar_datos.py
 
-### 2. Análisis en Jupyter
-
-```bash
+# Analizar
 jupyter notebook analisis_premier_league.ipynb
 ```
+
+Genera:
+- `premier_league_COMPLETO_football_data.csv` (644 registros)
+- `premier_league_tracking_COMPLETO.csv` (51 equipos)
+
+### Opción B: Todas las Divisiones (Fase 3) ⭐ RECOMENDADO
+
+```bash
+# Extraer datos de todas las divisiones (Premier a National League)
+python scraper_english_leagues.py
+
+# Verificar datos extendidos
+python verificar_english_leagues.py
+```
+
+Genera:
+- `english_leagues_completo.csv` (2,516 registros de 5 divisiones)
+- `english_leagues_tracking.csv` (159 equipos con trayectorias completas)
 
 ## 📊 Estructura de Datos
 
@@ -130,7 +166,90 @@ El scraper incluye validación automática:
 
 **Resultado:** 0 errores en 644 registros
 
-## 🏆 Top 10 Equipos Históricos
+## 📈 English Football Pyramid Expansion (Fase 3) ⭐ NUEVO
+
+### Estructura Multi-División
+
+**Dataset Unificado**: `english_leagues_completo.csv`
+
+| Columna   | Descripción                       | Tipo    |
+|-----------|-----------------------------------|---------|
+| Temporada | Temporada (ej: "2015-16")        | string  |
+| Division  | División (Premier League, etc)    | string  |
+| Pos       | Posición final                    | int     |
+| Equipo    | Nombre del equipo                 | string  |
+| PJ        | Partidos jugados                  | int     |
+| G         | Partidos ganados                  | int     |
+| E         | Partidos empatados                | int     |
+| P         | Partidos perdidos                 | int     |
+| Pts       | Puntos totales                    | int     |
+| GF        | Goles a favor                     | int     |
+| GC        | Goles en contra                   | int     |
+| Dif       | Diferencia de goles               | string  |
+
+### Tracking Longitudinal
+
+**Archivo**: `english_leagues_tracking.csv`
+
+Sigue la trayectoria completa de cada equipo a través de todas las divisiones:
+- Posición y puntos en cada temporada
+- División jugada por temporada
+- Total de temporadas jugadas
+- Número de divisiones diferentes jugadas
+- Mejor división alcanzada
+
+### Resumen por División
+
+| División        | Temporadas | Equipos | Registros | Periodo      |
+|-----------------|------------|---------|-----------|--------------|
+| Premier League  | 32         | 51      | 644       | 1993-2025    |
+| Championship    | 21         | 57      | 504       | 2004-2025    |
+| League One      | 20         | 78      | 480       | 2004-2025    |
+| League Two      | 21         | 71      | 504       | 2004-2025    |
+| National League | 16         | 90      | 384       | 2005-2025    |
+| **TOTAL**       | **32**     | **159** | **2,516** | **1993-2025**|
+
+### Casos de Uso - Análisis Multi-División
+
+#### Trayectoria completa de un equipo
+```python
+import pandas as pd
+
+df = pd.read_csv('english_leagues_completo.csv')
+tracking = pd.read_csv('english_leagues_tracking.csv')
+
+# Ver historial completo de Leicester
+leicester = df[df['Equipo'] == 'Leicester'].sort_values('Temporada')
+print(leicester[['Temporada', 'Division', 'Pos', 'Pts']])
+```
+
+#### Equipos con mayor movilidad
+```python
+# Equipos que han jugado en más divisiones
+movilidad = tracking[['Equipo', 'Total_Temporadas', 'Divisiones_Jugadas', 'Mejor_Division']]
+mas_viajados = movilidad.nlargest(10, 'Divisiones_Jugadas')
+print(mas_viajados)
+```
+
+#### Análisis de ascensos/descensos
+```python
+# Encontrar equipos que ascendieron de Championship a Premier League
+for season in df['Temporada'].unique():
+    premier = df[(df['Temporada'] == season) & (df['Division'] == 'Premier League')]
+    print(f"{season}: {premier['Equipo'].tolist()}")
+```
+
+### Récords por División
+
+| División        | Récord de Puntos | Equipo        | Temporada |
+|-----------------|------------------|---------------|-----------|
+| Premier League  | 100 pts          | Man City      | 2017-18   |
+| Championship    | 106 pts          | Reading       | 2005-06   |
+| League One      | 111 pts          | Birmingham    | 2024-25   |
+| League Two      | 99 pts           | Northampton   | 2015-16   |
+| National League | 111 pts          | Wrexham       | 2022-23   |
+
+## 🏆 Top 10 Equipos Históricos (Premier League)
 
 | Equipo      | Temporadas | Mejor Pos | Peor Pos |
 |-------------|------------|-----------|----------|
@@ -145,6 +264,16 @@ El scraper incluye validación automática:
 | Aston Villa | 29         | 4         | 20       |
 | Man City    | 27         | 1         | 18       |
 
+## 🎢 Equipos con Mayor Movilidad (Todas las Divisiones)
+
+| Equipo       | Temporadas | Divisiones Jugadas | Mejor División |
+|--------------|------------|--------------------|----------------|
+| Luton        | 25         | 5                  | Premier League |
+| Coventry     | 28         | 4                  | Championship   |
+| Bolton       | 29         | 4                  | Championship   |
+| Portsmouth   | 23         | 4                  | Championship   |
+| Bournemouth  | 20         | 4                  | Championship   |
+
 ## 📌 Notas Importantes
 
 1. **Temporada 1992-93 no incluida**: football-data.co.uk empieza en 1993-94
@@ -153,7 +282,15 @@ El scraper incluye validación automática:
 
 ## 🔄 Historia del Proyecto
 
-### v2.0 - Versión Actual (Octubre 2024)
+### v3.0 - Fase 3: English Football Pyramid Expansion (Enero 2025) ⭐
+- ✅ Extensión a 5 divisiones completas del fútbol inglés
+- ✅ 2,516 registros totales verificados (0 errores)
+- ✅ 159 equipos únicos rastreados
+- ✅ Tracking longitudinal con seguimiento de ascensos/descensos
+- ✅ Arquitectura modular con clase base abstracta
+- ✅ Compatibilidad total con dataset Premier League v2.0
+
+### v2.0 - Premier League Data (Octubre 2024)
 - ✅ Migración a football-data.co.uk como fuente única
 - ✅ 100% de datos consistentes y verificados
 - ✅ 32 temporadas completas

@@ -1,0 +1,2517 @@
+﻿Temporada,Division,Pos,Equipo,PJ,G,E,P,Pts,GF,GC,Dif
+1993-94,Premier League,1,Man United,42,27,11,4,92,80,38,+42
+1993-94,Premier League,2,Blackburn,42,25,9,8,84,63,36,+27
+1993-94,Premier League,3,Newcastle,42,23,8,11,77,82,41,+41
+1993-94,Premier League,4,Arsenal,42,18,17,7,71,53,28,+25
+1993-94,Premier League,5,Leeds,42,18,16,8,70,65,39,+26
+1993-94,Premier League,6,Wimbledon,42,18,11,13,65,56,53,+3
+1993-94,Premier League,7,Sheffield Weds,42,16,16,10,64,76,54,+22
+1993-94,Premier League,8,Liverpool,42,17,9,16,60,59,55,+4
+1993-94,Premier League,9,QPR,42,16,12,14,60,62,61,+1
+1993-94,Premier League,10,Aston Villa,42,15,12,15,57,46,50,-4
+1993-94,Premier League,11,Coventry,42,14,14,14,56,43,45,-2
+1993-94,Premier League,12,Norwich,42,12,17,13,53,65,61,+4
+1993-94,Premier League,13,West Ham,42,13,13,16,52,47,58,-11
+1993-94,Premier League,14,Chelsea,42,13,12,17,51,49,53,-4
+1993-94,Premier League,15,Tottenham,42,11,12,19,45,54,59,-5
+1993-94,Premier League,16,Man City,42,9,18,15,45,38,49,-11
+1993-94,Premier League,17,Everton,42,12,8,22,44,42,63,-21
+1993-94,Premier League,18,Southampton,42,12,7,23,43,49,66,-17
+1993-94,Premier League,19,Ipswich,42,9,16,17,43,35,58,-23
+1993-94,Premier League,20,Sheffield United,42,8,18,16,42,42,60,-18
+1993-94,Premier League,21,Oldham,42,9,13,20,40,42,68,-26
+1993-94,Premier League,22,Swindon,42,5,15,22,30,47,100,-53
+1994-95,Premier League,1,Blackburn,42,27,8,7,89,80,39,+41
+1994-95,Premier League,2,Man United,42,26,10,6,88,77,28,+49
+1994-95,Premier League,3,Nott'm Forest,42,22,11,9,77,72,43,+29
+1994-95,Premier League,4,Liverpool,42,21,11,10,74,65,37,+28
+1994-95,Premier League,5,Leeds,42,20,13,9,73,59,38,+21
+1994-95,Premier League,6,Newcastle,42,20,12,10,72,67,47,+20
+1994-95,Premier League,7,Tottenham,42,16,14,12,62,66,58,+8
+1994-95,Premier League,8,QPR,42,17,9,16,60,61,59,+2
+1994-95,Premier League,9,Wimbledon,42,15,11,16,56,48,65,-17
+1994-95,Premier League,10,Southampton,42,12,18,12,54,61,63,-2
+1994-95,Premier League,11,Chelsea,42,13,15,14,54,50,55,-5
+1994-95,Premier League,12,Arsenal,42,13,12,17,51,52,49,+3
+1994-95,Premier League,13,Sheffield Weds,42,13,12,17,51,49,57,-8
+1994-95,Premier League,14,West Ham,42,13,11,18,50,44,48,-4
+1994-95,Premier League,15,Everton,42,11,17,14,50,44,51,-7
+1994-95,Premier League,16,Coventry,42,12,14,16,50,44,62,-18
+1994-95,Premier League,17,Man City,42,12,13,17,49,53,64,-11
+1994-95,Premier League,18,Aston Villa,42,11,15,16,48,51,56,-5
+1994-95,Premier League,19,Crystal Palace,42,11,12,19,45,34,49,-15
+1994-95,Premier League,20,Norwich,42,10,13,19,43,37,54,-17
+1994-95,Premier League,21,Leicester,42,6,11,25,29,45,80,-35
+1994-95,Premier League,22,Ipswich,42,7,6,29,27,36,93,-57
+1995-96,Premier League,1,Man United,38,25,7,6,82,73,35,+38
+1995-96,Premier League,2,Newcastle,38,24,6,8,78,66,37,+29
+1995-96,Premier League,3,Liverpool,38,20,11,7,71,70,34,+36
+1995-96,Premier League,4,Aston Villa,38,18,9,11,63,52,35,+17
+1995-96,Premier League,5,Arsenal,38,17,12,9,63,49,32,+17
+1995-96,Premier League,6,Everton,38,17,10,11,61,64,44,+20
+1995-96,Premier League,7,Blackburn,38,18,7,13,61,61,47,+14
+1995-96,Premier League,8,Tottenham,38,16,13,9,61,50,38,+12
+1995-96,Premier League,9,Nott'm Forest,38,15,13,10,58,50,54,-4
+1995-96,Premier League,10,West Ham,38,14,9,15,51,43,52,-9
+1995-96,Premier League,11,Chelsea,38,12,14,12,50,46,44,+2
+1995-96,Premier League,12,Middlesbrough,38,11,10,17,43,35,50,-15
+1995-96,Premier League,13,Leeds,38,12,7,19,43,40,57,-17
+1995-96,Premier League,14,Wimbledon,38,10,11,17,41,55,70,-15
+1995-96,Premier League,15,Sheffield Weds,38,10,10,18,40,48,61,-13
+1995-96,Premier League,16,Coventry,38,8,14,16,38,42,60,-18
+1995-96,Premier League,17,Southampton,38,9,11,18,38,34,52,-18
+1995-96,Premier League,18,Man City,38,9,11,18,38,33,58,-25
+1995-96,Premier League,19,QPR,38,9,6,23,33,38,57,-19
+1995-96,Premier League,20,Bolton,38,8,5,25,29,39,71,-32
+1996-97,Premier League,1,Man United,38,21,12,5,75,76,44,+32
+1996-97,Premier League,2,Newcastle,38,19,11,8,68,73,40,+33
+1996-97,Premier League,3,Arsenal,38,19,11,8,68,62,32,+30
+1996-97,Premier League,4,Liverpool,38,19,11,8,68,62,37,+25
+1996-97,Premier League,5,Aston Villa,38,17,10,11,61,47,34,+13
+1996-97,Premier League,6,Chelsea,38,16,11,11,59,58,55,+3
+1996-97,Premier League,7,Sheffield Weds,38,14,15,9,57,50,51,-1
+1996-97,Premier League,8,Wimbledon,38,15,11,12,56,49,46,+3
+1996-97,Premier League,9,Leicester,38,12,11,15,47,46,54,-8
+1996-97,Premier League,10,Tottenham,38,13,7,18,46,44,51,-7
+1996-97,Premier League,11,Leeds,38,11,13,14,46,28,38,-10
+1996-97,Premier League,12,Derby,38,11,13,14,46,45,58,-13
+1996-97,Premier League,13,Blackburn,38,9,15,14,42,42,43,-1
+1996-97,Premier League,14,Middlesbrough,38,10,12,16,42,51,60,-9
+1996-97,Premier League,15,West Ham,38,10,12,16,42,39,48,-9
+1996-97,Premier League,16,Everton,38,10,12,16,42,44,57,-13
+1996-97,Premier League,17,Southampton,38,10,11,17,41,50,56,-6
+1996-97,Premier League,18,Coventry,38,9,14,15,41,38,54,-16
+1996-97,Premier League,19,Sunderland,38,10,10,18,40,35,53,-18
+1996-97,Premier League,20,Nott'm Forest,38,6,16,16,34,31,59,-28
+1997-98,Premier League,1,Arsenal,38,23,9,6,78,68,33,+35
+1997-98,Premier League,2,Man United,38,23,8,7,77,73,26,+47
+1997-98,Premier League,3,Liverpool,38,18,11,9,65,68,42,+26
+1997-98,Premier League,4,Chelsea,38,20,3,15,63,71,43,+28
+1997-98,Premier League,5,Leeds,38,17,8,13,59,57,46,+11
+1997-98,Premier League,6,Blackburn,38,16,10,12,58,57,52,+5
+1997-98,Premier League,7,Aston Villa,38,17,6,15,57,49,48,+1
+1997-98,Premier League,8,West Ham,38,16,8,14,56,56,57,-1
+1997-98,Premier League,9,Derby,38,16,7,15,55,52,49,+3
+1997-98,Premier League,10,Leicester,38,13,14,11,53,51,41,+10
+1997-98,Premier League,11,Coventry,38,12,16,10,52,46,44,+2
+1997-98,Premier League,12,Southampton,38,14,6,18,48,50,55,-5
+1997-98,Premier League,13,Newcastle,38,11,11,16,44,35,44,-9
+1997-98,Premier League,14,Tottenham,38,11,11,16,44,44,56,-12
+1997-98,Premier League,15,Wimbledon,38,10,14,14,44,34,46,-12
+1997-98,Premier League,16,Sheffield Weds,38,12,8,18,44,52,67,-15
+1997-98,Premier League,17,Everton,38,9,13,16,40,41,56,-15
+1997-98,Premier League,18,Bolton,38,9,13,16,40,41,61,-20
+1997-98,Premier League,19,Barnsley,38,10,5,23,35,37,82,-45
+1997-98,Premier League,20,Crystal Palace,38,8,9,21,33,37,71,-34
+1998-99,Premier League,1,Man United,38,22,13,3,79,80,37,+43
+1998-99,Premier League,2,Arsenal,38,22,12,4,78,59,17,+42
+1998-99,Premier League,3,Chelsea,38,20,15,3,75,57,30,+27
+1998-99,Premier League,4,Leeds,38,18,13,7,67,62,34,+28
+1998-99,Premier League,5,West Ham,38,16,9,13,57,46,53,-7
+1998-99,Premier League,6,Aston Villa,38,15,10,13,55,51,46,+5
+1998-99,Premier League,7,Liverpool,38,15,9,14,54,68,49,+19
+1998-99,Premier League,8,Derby,38,13,13,12,52,40,45,-5
+1998-99,Premier League,9,Middlesbrough,38,12,15,11,51,48,54,-6
+1998-99,Premier League,10,Leicester,38,12,13,13,49,40,46,-6
+1998-99,Premier League,11,Tottenham,38,11,14,13,47,47,50,-3
+1998-99,Premier League,12,Sheffield Weds,38,13,7,18,46,41,42,-1
+1998-99,Premier League,13,Newcastle,38,11,13,14,46,48,54,-6
+1998-99,Premier League,14,Everton,38,11,10,17,43,42,47,-5
+1998-99,Premier League,15,Coventry,38,11,9,18,42,39,51,-12
+1998-99,Premier League,16,Wimbledon,38,10,12,16,42,40,63,-23
+1998-99,Premier League,17,Southampton,38,11,8,19,41,37,64,-27
+1998-99,Premier League,18,Charlton,38,8,12,18,36,41,56,-15
+1998-99,Premier League,19,Blackburn,38,7,14,17,35,38,52,-14
+1998-99,Premier League,20,Nott'm Forest,38,7,9,22,30,35,69,-34
+1999-00,Premier League,1,Man United,38,28,7,3,91,97,45,+52
+1999-00,Premier League,2,Arsenal,38,22,7,9,73,73,43,+30
+1999-00,Premier League,3,Leeds,38,21,6,11,69,58,43,+15
+1999-00,Premier League,4,Liverpool,38,19,10,9,67,51,30,+21
+1999-00,Premier League,5,Chelsea,38,18,11,9,65,53,34,+19
+1999-00,Premier League,6,Aston Villa,38,15,13,10,58,46,35,+11
+1999-00,Premier League,7,Sunderland,38,16,10,12,58,57,56,+1
+1999-00,Premier League,8,Leicester,38,16,7,15,55,55,55,0
+1999-00,Premier League,9,West Ham,38,15,10,13,55,52,53,-1
+1999-00,Premier League,10,Tottenham,38,15,8,15,53,57,49,+8
+1999-00,Premier League,11,Newcastle,38,14,10,14,52,63,54,+9
+1999-00,Premier League,12,Middlesbrough,38,14,10,14,52,46,52,-6
+1999-00,Premier League,13,Everton,38,12,14,12,50,59,49,+10
+1999-00,Premier League,14,Coventry,38,12,8,18,44,47,54,-7
+1999-00,Premier League,15,Southampton,38,12,8,18,44,45,62,-17
+1999-00,Premier League,16,Derby,38,9,11,18,38,44,57,-13
+1999-00,Premier League,17,Bradford,38,9,9,20,36,38,68,-30
+1999-00,Premier League,18,Wimbledon,38,7,12,19,33,46,74,-28
+1999-00,Premier League,19,Sheffield Weds,38,8,7,23,31,38,70,-32
+1999-00,Premier League,20,Watford,38,6,6,26,24,35,77,-42
+2000-01,Premier League,1,Man United,38,24,8,6,80,79,31,+48
+2000-01,Premier League,2,Arsenal,38,20,10,8,70,63,38,+25
+2000-01,Premier League,3,Liverpool,38,20,9,9,69,71,39,+32
+2000-01,Premier League,4,Leeds,38,20,8,10,68,64,43,+21
+2000-01,Premier League,5,Ipswich,38,20,6,12,66,57,42,+15
+2000-01,Premier League,6,Chelsea,38,17,10,11,61,68,45,+23
+2000-01,Premier League,7,Sunderland,38,15,12,11,57,46,41,+5
+2000-01,Premier League,8,Aston Villa,38,13,15,10,54,46,43,+3
+2000-01,Premier League,9,Charlton,38,14,10,14,52,50,57,-7
+2000-01,Premier League,10,Southampton,38,14,10,14,52,40,48,-8
+2000-01,Premier League,11,Newcastle,38,14,9,15,51,44,50,-6
+2000-01,Premier League,12,Tottenham,38,13,10,15,49,47,54,-7
+2000-01,Premier League,13,Leicester,38,14,6,18,48,39,51,-12
+2000-01,Premier League,14,Middlesbrough,38,9,15,14,42,44,44,0
+2000-01,Premier League,15,West Ham,38,10,12,16,42,45,50,-5
+2000-01,Premier League,16,Everton,38,11,9,18,42,45,59,-14
+2000-01,Premier League,17,Derby,38,10,12,16,42,37,59,-22
+2000-01,Premier League,18,Man City,38,8,10,20,34,41,65,-24
+2000-01,Premier League,19,Coventry,38,8,10,20,34,36,63,-27
+2000-01,Premier League,20,Bradford,38,5,11,22,26,30,70,-40
+2001-02,Premier League,1,Arsenal,38,26,9,3,87,79,36,+43
+2001-02,Premier League,2,Liverpool,38,24,8,6,80,67,30,+37
+2001-02,Premier League,3,Man United,38,24,5,9,77,87,45,+42
+2001-02,Premier League,4,Newcastle,38,21,8,9,71,74,52,+22
+2001-02,Premier League,5,Leeds,38,18,12,8,66,53,37,+16
+2001-02,Premier League,6,Chelsea,38,17,13,8,64,66,38,+28
+2001-02,Premier League,7,West Ham,38,15,8,15,53,48,57,-9
+2001-02,Premier League,8,Aston Villa,38,12,14,12,50,46,47,-1
+2001-02,Premier League,9,Tottenham,38,14,8,16,50,49,53,-4
+2001-02,Premier League,10,Blackburn,38,12,10,16,46,55,51,+4
+2001-02,Premier League,11,Southampton,38,12,9,17,45,46,54,-8
+2001-02,Premier League,12,Middlesbrough,38,12,9,17,45,35,47,-12
+2001-02,Premier League,13,Fulham,38,10,14,14,44,36,44,-8
+2001-02,Premier League,14,Charlton,38,10,14,14,44,38,49,-11
+2001-02,Premier League,15,Everton,38,11,10,17,43,45,57,-12
+2001-02,Premier League,16,Bolton,38,9,13,16,40,44,62,-18
+2001-02,Premier League,17,Sunderland,38,10,10,18,40,29,51,-22
+2001-02,Premier League,18,Ipswich,38,9,9,20,36,41,64,-23
+2001-02,Premier League,19,Derby,38,8,6,24,30,33,63,-30
+2001-02,Premier League,20,Leicester,38,5,13,20,28,30,64,-34
+2002-03,Premier League,1,Man United,38,25,8,5,83,74,34,+40
+2002-03,Premier League,2,Arsenal,38,23,9,6,78,85,42,+43
+2002-03,Premier League,3,Newcastle,38,21,6,11,69,63,48,+15
+2002-03,Premier League,4,Chelsea,38,19,10,9,67,68,38,+30
+2002-03,Premier League,5,Liverpool,38,18,10,10,64,61,41,+20
+2002-03,Premier League,6,Blackburn,38,16,12,10,60,52,43,+9
+2002-03,Premier League,7,Everton,38,17,8,13,59,48,49,-1
+2002-03,Premier League,8,Southampton,38,13,13,12,52,43,46,-3
+2002-03,Premier League,9,Man City,38,15,6,17,51,47,54,-7
+2002-03,Premier League,10,Tottenham,38,14,8,16,50,51,62,-11
+2002-03,Premier League,11,Middlesbrough,38,13,10,15,49,48,44,+4
+2002-03,Premier League,12,Charlton,38,14,7,17,49,45,56,-11
+2002-03,Premier League,13,Birmingham,38,13,9,16,48,41,49,-8
+2002-03,Premier League,14,Fulham,38,13,9,16,48,41,50,-9
+2002-03,Premier League,15,Leeds,38,14,5,19,47,58,57,+1
+2002-03,Premier League,16,Aston Villa,38,12,9,17,45,42,47,-5
+2002-03,Premier League,17,Bolton,38,10,14,14,44,41,51,-10
+2002-03,Premier League,18,West Ham,38,10,12,16,42,42,59,-17
+2002-03,Premier League,19,West Brom,38,6,8,24,26,29,65,-36
+2002-03,Premier League,20,Sunderland,38,4,7,27,19,21,65,-44
+2003-04,Premier League,1,Arsenal,33,22,11,0,77,61,23,+38
+2003-04,Premier League,2,Chelsea,33,22,5,6,71,63,27,+36
+2003-04,Premier League,3,Man United,34,20,6,8,66,59,33,+26
+2003-04,Premier League,4,Liverpool,33,15,10,8,55,48,31,+17
+2003-04,Premier League,5,Newcastle,34,13,13,8,52,47,35,+12
+2003-04,Premier League,6,Aston Villa,34,14,9,11,51,42,37,+5
+2003-04,Premier League,7,Birmingham,34,12,12,10,48,39,41,-2
+2003-04,Premier League,8,Bolton,34,12,10,12,46,42,51,-9
+2003-04,Premier League,9,Fulham,33,12,9,12,45,45,41,+4
+2003-04,Premier League,10,Charlton,34,12,9,13,45,46,48,-2
+2003-04,Premier League,11,Middlesbrough,35,12,8,15,44,40,46,-6
+2003-04,Premier League,12,Tottenham,33,12,5,16,41,43,50,-7
+2003-04,Premier League,13,Southampton,33,10,10,13,40,32,35,-3
+2003-04,Premier League,14,Blackburn,33,10,7,16,37,44,49,-5
+2003-04,Premier League,15,Man City,33,8,11,14,35,44,45,-1
+2003-04,Premier League,16,Portsmouth,34,9,8,17,35,37,51,-14
+2003-04,Premier League,17,Everton,34,8,10,16,34,40,50,-10
+2003-04,Premier League,18,Leicester,33,6,15,12,33,45,56,-11
+2003-04,Premier League,19,Wolves,33,7,10,16,31,32,65,-33
+2003-04,Premier League,20,Leeds,33,6,8,19,26,34,69,-35
+2004-05,Premier League,1,Chelsea,33,25,7,1,82,62,12,+50
+2004-05,Premier League,2,Arsenal,33,21,8,4,71,73,33,+40
+2004-05,Premier League,3,Man United,33,19,10,4,67,48,20,+28
+2004-05,Premier League,4,Everton,33,17,6,10,57,40,33,+7
+2004-05,Premier League,5,Liverpool,34,16,6,12,54,48,35,+13
+2004-05,Premier League,6,Bolton,34,15,8,11,53,44,38,+6
+2004-05,Premier League,7,Tottenham,34,13,9,12,48,42,38,+4
+2004-05,Premier League,8,Middlesbrough,33,12,10,11,46,46,44,+2
+2004-05,Premier League,9,Aston Villa,34,12,10,12,46,41,42,-1
+2004-05,Premier League,10,Charlton,34,12,9,13,45,40,50,-10
+2004-05,Premier League,11,Man City,34,11,11,12,44,42,37,+5
+2004-05,Premier League,12,Blackburn,33,9,12,12,39,29,37,-8
+2004-05,Premier League,13,Birmingham,34,9,11,14,38,35,42,-7
+2004-05,Premier League,14,Newcastle,32,9,11,12,38,42,51,-9
+2004-05,Premier League,15,Fulham,33,9,8,16,35,39,53,-14
+2004-05,Premier League,16,Portsmouth,34,9,8,17,35,38,53,-15
+2004-05,Premier League,17,West Brom,33,5,14,14,29,32,53,-21
+2004-05,Premier League,18,Southampton,34,5,13,16,28,37,55,-18
+2004-05,Premier League,19,Crystal Palace,34,6,9,19,27,36,58,-22
+2004-05,Premier League,20,Norwich,34,5,12,17,27,37,67,-30
+2005-06,Premier League,1,Chelsea,38,29,4,5,91,72,22,+50
+2005-06,Premier League,2,Man United,38,25,8,5,83,72,34,+38
+2005-06,Premier League,3,Liverpool,38,25,7,6,82,57,25,+32
+2005-06,Premier League,4,Arsenal,38,20,7,11,67,68,31,+37
+2005-06,Premier League,5,Tottenham,38,18,11,9,65,53,38,+15
+2005-06,Premier League,6,Blackburn,38,19,6,13,63,51,42,+9
+2005-06,Premier League,7,Newcastle,38,17,7,14,58,47,42,+5
+2005-06,Premier League,8,Bolton,38,15,11,12,56,49,41,+8
+2005-06,Premier League,9,West Ham,38,16,7,15,55,52,55,-3
+2005-06,Premier League,10,Wigan,38,15,6,17,51,45,52,-7
+2005-06,Premier League,11,Everton,38,14,8,16,50,34,49,-15
+2005-06,Premier League,12,Fulham,38,14,6,18,48,48,58,-10
+2005-06,Premier League,13,Charlton,38,13,8,17,47,41,55,-14
+2005-06,Premier League,14,Middlesbrough,38,12,9,17,45,48,58,-10
+2005-06,Premier League,15,Man City,38,13,4,21,43,43,48,-5
+2005-06,Premier League,16,Aston Villa,38,10,12,16,42,42,55,-13
+2005-06,Premier League,17,Portsmouth,38,10,8,20,38,37,62,-25
+2005-06,Premier League,18,Birmingham,38,8,10,20,34,28,50,-22
+2005-06,Premier League,19,West Brom,38,7,9,22,30,31,58,-27
+2005-06,Premier League,20,Sunderland,38,3,6,29,15,26,69,-43
+2006-07,Premier League,1,Man United,38,28,5,5,89,83,27,+56
+2006-07,Premier League,2,Chelsea,38,24,11,3,83,64,24,+40
+2006-07,Premier League,3,Liverpool,38,20,8,10,68,57,27,+30
+2006-07,Premier League,4,Arsenal,38,19,11,8,68,63,35,+28
+2006-07,Premier League,5,Tottenham,38,17,9,12,60,57,54,+3
+2006-07,Premier League,6,Everton,38,15,13,10,58,52,36,+16
+2006-07,Premier League,7,Bolton,38,16,8,14,56,47,52,-5
+2006-07,Premier League,8,Reading,38,16,7,15,55,52,47,+5
+2006-07,Premier League,9,Portsmouth,38,14,12,12,54,45,42,+3
+2006-07,Premier League,10,Blackburn,38,15,7,16,52,52,54,-2
+2006-07,Premier League,11,Aston Villa,38,11,17,10,50,43,41,+2
+2006-07,Premier League,12,Middlesbrough,38,12,10,16,46,44,49,-5
+2006-07,Premier League,13,Newcastle,38,11,10,17,43,38,47,-9
+2006-07,Premier League,14,Man City,38,11,9,18,42,29,44,-15
+2006-07,Premier League,15,West Ham,38,12,5,21,41,35,59,-24
+2006-07,Premier League,16,Fulham,38,8,15,15,39,38,60,-22
+2006-07,Premier League,17,Wigan,38,10,8,20,38,37,59,-22
+2006-07,Premier League,18,Sheffield United,38,10,8,20,38,32,55,-23
+2006-07,Premier League,19,Charlton,38,8,10,20,34,34,60,-26
+2006-07,Premier League,20,Watford,38,5,13,20,28,29,59,-30
+2007-08,Premier League,1,Man United,38,27,6,5,87,80,22,+58
+2007-08,Premier League,2,Chelsea,38,25,10,3,85,65,26,+39
+2007-08,Premier League,3,Arsenal,38,24,11,3,83,74,31,+43
+2007-08,Premier League,4,Liverpool,38,21,13,4,76,67,28,+39
+2007-08,Premier League,5,Everton,38,19,8,11,65,55,33,+22
+2007-08,Premier League,6,Aston Villa,38,16,12,10,60,71,51,+20
+2007-08,Premier League,7,Blackburn,38,15,13,10,58,50,48,+2
+2007-08,Premier League,8,Portsmouth,38,16,9,13,57,48,40,+8
+2007-08,Premier League,9,Man City,38,15,10,13,55,45,53,-8
+2007-08,Premier League,10,West Ham,38,13,10,15,49,42,50,-8
+2007-08,Premier League,11,Tottenham,38,11,13,14,46,66,61,+5
+2007-08,Premier League,12,Newcastle,38,11,10,17,43,45,65,-20
+2007-08,Premier League,13,Middlesbrough,38,10,12,16,42,43,53,-10
+2007-08,Premier League,14,Wigan,38,10,10,18,40,34,51,-17
+2007-08,Premier League,15,Sunderland,38,11,6,21,39,36,59,-23
+2007-08,Premier League,16,Bolton,38,9,10,19,37,36,54,-18
+2007-08,Premier League,17,Fulham,38,8,12,18,36,38,60,-22
+2007-08,Premier League,18,Reading,38,10,6,22,36,41,66,-25
+2007-08,Premier League,19,Birmingham,38,8,11,19,35,46,62,-16
+2007-08,Premier League,20,Derby,38,1,8,29,11,20,89,-69
+2008-09,Premier League,1,Man United,38,28,6,4,90,68,24,+44
+2008-09,Premier League,2,Liverpool,38,25,11,2,86,77,27,+50
+2008-09,Premier League,3,Chelsea,38,25,8,5,83,68,24,+44
+2008-09,Premier League,4,Arsenal,38,20,12,6,72,68,37,+31
+2008-09,Premier League,5,Everton,38,17,12,9,63,55,37,+18
+2008-09,Premier League,6,Aston Villa,38,17,11,10,62,54,48,+6
+2008-09,Premier League,7,Fulham,38,14,11,13,53,39,34,+5
+2008-09,Premier League,8,Tottenham,38,14,9,15,51,45,45,0
+2008-09,Premier League,9,West Ham,38,14,9,15,51,42,45,-3
+2008-09,Premier League,10,Man City,38,15,5,18,50,58,50,+8
+2008-09,Premier League,11,Wigan,38,12,9,17,45,34,45,-11
+2008-09,Premier League,12,Stoke,38,12,9,17,45,38,55,-17
+2008-09,Premier League,13,Bolton,38,11,8,19,41,41,53,-12
+2008-09,Premier League,14,Portsmouth,38,10,11,17,41,38,57,-19
+2008-09,Premier League,15,Blackburn,38,10,11,17,41,40,60,-20
+2008-09,Premier League,16,Sunderland,38,9,9,20,36,34,54,-20
+2008-09,Premier League,17,Hull,38,8,11,19,35,39,64,-25
+2008-09,Premier League,18,Newcastle,38,7,13,18,34,40,59,-19
+2008-09,Premier League,19,Middlesbrough,38,7,11,20,32,28,57,-29
+2008-09,Premier League,20,West Brom,38,8,8,22,32,36,67,-31
+2009-10,Premier League,1,Chelsea,38,27,5,6,86,103,32,+71
+2009-10,Premier League,2,Man United,38,27,4,7,85,86,28,+58
+2009-10,Premier League,3,Arsenal,38,23,6,9,75,83,41,+42
+2009-10,Premier League,4,Tottenham,38,21,7,10,70,67,41,+26
+2009-10,Premier League,5,Man City,38,18,13,7,67,73,45,+28
+2009-10,Premier League,6,Aston Villa,38,17,13,8,64,52,39,+13
+2009-10,Premier League,7,Liverpool,38,18,9,11,63,61,35,+26
+2009-10,Premier League,8,Everton,38,16,13,9,61,60,49,+11
+2009-10,Premier League,9,Birmingham,38,13,11,14,50,38,47,-9
+2009-10,Premier League,10,Blackburn,38,13,11,14,50,41,55,-14
+2009-10,Premier League,11,Stoke,38,11,14,13,47,34,48,-14
+2009-10,Premier League,12,Fulham,38,12,10,16,46,39,46,-7
+2009-10,Premier League,13,Sunderland,38,11,11,16,44,48,56,-8
+2009-10,Premier League,14,Bolton,38,10,9,19,39,42,67,-25
+2009-10,Premier League,15,Wolves,38,9,11,18,38,32,56,-24
+2009-10,Premier League,16,Wigan,38,9,9,20,36,37,79,-42
+2009-10,Premier League,17,West Ham,38,8,11,19,35,47,66,-19
+2009-10,Premier League,18,Burnley,38,8,6,24,30,42,82,-40
+2009-10,Premier League,19,Hull,38,6,12,20,30,34,75,-41
+2009-10,Premier League,20,Portsmouth,38,7,7,24,28,34,66,-32
+2010-11,Premier League,1,Man United,38,23,11,4,80,78,37,+41
+2010-11,Premier League,2,Chelsea,38,21,8,9,71,69,33,+36
+2010-11,Premier League,3,Man City,38,21,8,9,71,60,33,+27
+2010-11,Premier League,4,Arsenal,38,19,11,8,68,72,43,+29
+2010-11,Premier League,5,Tottenham,38,16,14,8,62,55,46,+9
+2010-11,Premier League,6,Liverpool,38,17,7,14,58,59,44,+15
+2010-11,Premier League,7,Everton,38,13,15,10,54,51,45,+6
+2010-11,Premier League,8,Fulham,38,11,16,11,49,49,43,+6
+2010-11,Premier League,9,Aston Villa,38,12,12,14,48,48,59,-11
+2010-11,Premier League,10,Sunderland,38,12,11,15,47,45,56,-11
+2010-11,Premier League,11,West Brom,38,12,11,15,47,56,71,-15
+2010-11,Premier League,12,Newcastle,38,11,13,14,46,56,57,-1
+2010-11,Premier League,13,Stoke,38,13,7,18,46,46,48,-2
+2010-11,Premier League,14,Bolton,38,12,10,16,46,52,56,-4
+2010-11,Premier League,15,Blackburn,38,11,10,17,43,46,59,-13
+2010-11,Premier League,16,Wigan,38,9,15,14,42,40,61,-21
+2010-11,Premier League,17,Wolves,38,11,7,20,40,46,66,-20
+2010-11,Premier League,18,Birmingham,38,8,15,15,39,37,58,-21
+2010-11,Premier League,19,Blackpool,38,10,9,19,39,55,78,-23
+2010-11,Premier League,20,West Ham,38,7,12,19,33,43,70,-27
+2011-12,Premier League,1,Man City,38,28,5,5,89,93,29,+64
+2011-12,Premier League,2,Man United,38,28,5,5,89,89,33,+56
+2011-12,Premier League,3,Arsenal,38,21,7,10,70,74,49,+25
+2011-12,Premier League,4,Tottenham,38,20,9,9,69,66,41,+25
+2011-12,Premier League,5,Newcastle,38,19,8,11,65,56,51,+5
+2011-12,Premier League,6,Chelsea,38,18,10,10,64,65,46,+19
+2011-12,Premier League,7,Everton,38,15,11,12,56,50,40,+10
+2011-12,Premier League,8,Liverpool,38,14,10,14,52,47,40,+7
+2011-12,Premier League,9,Fulham,38,14,10,14,52,48,51,-3
+2011-12,Premier League,10,West Brom,38,13,8,17,47,45,52,-7
+2011-12,Premier League,11,Swansea,38,12,11,15,47,44,51,-7
+2011-12,Premier League,12,Norwich,38,12,11,15,47,52,66,-14
+2011-12,Premier League,13,Sunderland,38,11,12,15,45,45,46,-1
+2011-12,Premier League,14,Stoke,38,11,12,15,45,36,53,-17
+2011-12,Premier League,15,Wigan,38,11,10,17,43,42,62,-20
+2011-12,Premier League,16,Aston Villa,38,7,17,14,38,37,53,-16
+2011-12,Premier League,17,QPR,38,10,7,21,37,43,66,-23
+2011-12,Premier League,18,Bolton,38,10,6,22,36,46,77,-31
+2011-12,Premier League,19,Blackburn,38,8,7,23,31,48,78,-30
+2011-12,Premier League,20,Wolves,38,5,10,23,25,40,82,-42
+2012-13,Premier League,1,Man United,38,28,5,5,89,86,43,+43
+2012-13,Premier League,2,Man City,38,23,9,6,78,66,34,+32
+2012-13,Premier League,3,Chelsea,38,22,9,7,75,75,39,+36
+2012-13,Premier League,4,Arsenal,38,21,10,7,73,72,37,+35
+2012-13,Premier League,5,Tottenham,38,21,9,8,72,66,46,+20
+2012-13,Premier League,6,Everton,38,16,15,7,63,55,40,+15
+2012-13,Premier League,7,Liverpool,38,16,13,9,61,71,43,+28
+2012-13,Premier League,8,West Brom,38,14,7,17,49,53,57,-4
+2012-13,Premier League,9,Swansea,38,11,13,14,46,47,51,-4
+2012-13,Premier League,10,West Ham,38,12,10,16,46,45,53,-8
+2012-13,Premier League,11,Norwich,38,10,14,14,44,41,58,-17
+2012-13,Premier League,12,Fulham,38,11,10,17,43,50,60,-10
+2012-13,Premier League,13,Stoke,38,9,15,14,42,34,45,-11
+2012-13,Premier League,14,Southampton,38,9,14,15,41,49,60,-11
+2012-13,Premier League,15,Aston Villa,38,10,11,17,41,47,69,-22
+2012-13,Premier League,16,Newcastle,38,11,8,19,41,45,68,-23
+2012-13,Premier League,17,Sunderland,38,9,12,17,39,41,54,-13
+2012-13,Premier League,18,Wigan,38,9,9,20,36,47,73,-26
+2012-13,Premier League,19,Reading,38,6,10,22,28,43,73,-30
+2012-13,Premier League,20,QPR,38,4,13,21,25,30,60,-30
+2013-14,Premier League,1,Man City,38,27,5,6,86,102,37,+65
+2013-14,Premier League,2,Liverpool,38,26,6,6,84,101,50,+51
+2013-14,Premier League,3,Chelsea,38,25,7,6,82,71,27,+44
+2013-14,Premier League,4,Arsenal,38,24,7,7,79,68,41,+27
+2013-14,Premier League,5,Everton,38,21,9,8,72,61,39,+22
+2013-14,Premier League,6,Tottenham,38,21,6,11,69,55,51,+4
+2013-14,Premier League,7,Man United,38,19,7,12,64,64,43,+21
+2013-14,Premier League,8,Southampton,38,15,11,12,56,54,46,+8
+2013-14,Premier League,9,Stoke,38,13,11,14,50,45,52,-7
+2013-14,Premier League,10,Newcastle,38,15,4,19,49,43,59,-16
+2013-14,Premier League,11,Crystal Palace,38,13,6,19,45,33,48,-15
+2013-14,Premier League,12,Swansea,38,11,9,18,42,54,54,0
+2013-14,Premier League,13,West Ham,38,11,7,20,40,40,51,-11
+2013-14,Premier League,14,Sunderland,38,10,8,20,38,41,60,-19
+2013-14,Premier League,15,Aston Villa,38,10,8,20,38,39,61,-22
+2013-14,Premier League,16,Hull,38,10,7,21,37,38,53,-15
+2013-14,Premier League,17,West Brom,38,7,15,16,36,43,59,-16
+2013-14,Premier League,18,Norwich,38,8,9,21,33,28,62,-34
+2013-14,Premier League,19,Fulham,38,9,5,24,32,40,85,-45
+2013-14,Premier League,20,Cardiff,38,7,9,22,30,32,74,-42
+2014-15,Premier League,1,Chelsea,38,26,9,3,87,73,32,+41
+2014-15,Premier League,2,Man City,38,24,7,7,79,83,38,+45
+2014-15,Premier League,3,Arsenal,38,22,9,7,75,71,36,+35
+2014-15,Premier League,4,Man United,38,20,10,8,70,62,37,+25
+2014-15,Premier League,5,Tottenham,38,19,7,12,64,58,53,+5
+2014-15,Premier League,6,Liverpool,38,18,8,12,62,52,48,+4
+2014-15,Premier League,7,Southampton,38,18,6,14,60,54,33,+21
+2014-15,Premier League,8,Swansea,38,16,8,14,56,46,49,-3
+2014-15,Premier League,9,Stoke,38,15,9,14,54,48,45,+3
+2014-15,Premier League,10,Crystal Palace,38,13,9,16,48,47,51,-4
+2014-15,Premier League,11,Everton,38,12,11,15,47,48,50,-2
+2014-15,Premier League,12,West Ham,38,12,11,15,47,44,47,-3
+2014-15,Premier League,13,West Brom,38,11,11,16,44,38,51,-13
+2014-15,Premier League,14,Leicester,38,11,8,19,41,46,55,-9
+2014-15,Premier League,15,Newcastle,38,10,9,19,39,40,63,-23
+2014-15,Premier League,16,Sunderland,38,7,17,14,38,31,53,-22
+2014-15,Premier League,17,Aston Villa,38,10,8,20,38,31,57,-26
+2014-15,Premier League,18,Hull,38,8,11,19,35,33,51,-18
+2014-15,Premier League,19,Burnley,38,7,12,19,33,28,53,-25
+2014-15,Premier League,20,QPR,38,8,6,24,30,42,73,-31
+2015-16,Premier League,1,Leicester,38,23,12,3,81,68,36,+32
+2015-16,Premier League,2,Arsenal,38,20,11,7,71,65,36,+29
+2015-16,Premier League,3,Tottenham,38,19,13,6,70,69,35,+34
+2015-16,Premier League,4,Man City,38,19,9,10,66,71,41,+30
+2015-16,Premier League,5,Man United,38,19,9,10,66,49,35,+14
+2015-16,Premier League,6,Southampton,38,18,9,11,63,59,41,+18
+2015-16,Premier League,7,West Ham,38,16,14,8,62,65,51,+14
+2015-16,Premier League,8,Liverpool,38,16,12,10,60,63,50,+13
+2015-16,Premier League,9,Stoke,38,14,9,15,51,41,55,-14
+2015-16,Premier League,10,Chelsea,38,12,14,12,50,59,53,+6
+2015-16,Premier League,11,Everton,38,11,14,13,47,59,55,+4
+2015-16,Premier League,12,Swansea,38,12,11,15,47,42,52,-10
+2015-16,Premier League,13,Watford,38,12,9,17,45,40,50,-10
+2015-16,Premier League,14,West Brom,38,10,13,15,43,34,48,-14
+2015-16,Premier League,15,Crystal Palace,38,11,9,18,42,39,51,-12
+2015-16,Premier League,16,Bournemouth,38,11,9,18,42,45,67,-22
+2015-16,Premier League,17,Sunderland,38,9,12,17,39,48,62,-14
+2015-16,Premier League,18,Newcastle,38,9,10,19,37,44,65,-21
+2015-16,Premier League,19,Norwich,38,9,7,22,34,39,67,-28
+2015-16,Premier League,20,Aston Villa,38,3,8,27,17,27,76,-49
+2016-17,Premier League,1,Chelsea,38,30,3,5,93,85,33,+52
+2016-17,Premier League,2,Tottenham,38,26,8,4,86,86,26,+60
+2016-17,Premier League,3,Man City,38,23,9,6,78,80,39,+41
+2016-17,Premier League,4,Liverpool,38,22,10,6,76,78,42,+36
+2016-17,Premier League,5,Arsenal,38,23,6,9,75,77,44,+33
+2016-17,Premier League,6,Man United,38,18,15,5,69,54,29,+25
+2016-17,Premier League,7,Everton,38,17,10,11,61,62,44,+18
+2016-17,Premier League,8,Southampton,38,12,10,16,46,41,48,-7
+2016-17,Premier League,9,Bournemouth,38,12,10,16,46,55,67,-12
+2016-17,Premier League,10,West Brom,38,12,9,17,45,43,51,-8
+2016-17,Premier League,11,West Ham,38,12,9,17,45,47,64,-17
+2016-17,Premier League,12,Leicester,38,12,8,18,44,48,63,-15
+2016-17,Premier League,13,Stoke,38,11,11,16,44,41,56,-15
+2016-17,Premier League,14,Crystal Palace,38,12,5,21,41,50,63,-13
+2016-17,Premier League,15,Swansea,38,12,5,21,41,45,70,-25
+2016-17,Premier League,16,Burnley,38,11,7,20,40,39,55,-16
+2016-17,Premier League,17,Watford,38,11,7,20,40,40,68,-28
+2016-17,Premier League,18,Hull,38,9,7,22,34,37,80,-43
+2016-17,Premier League,19,Middlesbrough,38,5,13,20,28,27,53,-26
+2016-17,Premier League,20,Sunderland,38,6,6,26,24,29,69,-40
+2017-18,Premier League,1,Man City,38,32,4,2,100,106,27,+79
+2017-18,Premier League,2,Man United,38,25,6,7,81,68,28,+40
+2017-18,Premier League,3,Tottenham,38,23,8,7,77,74,36,+38
+2017-18,Premier League,4,Liverpool,38,21,12,5,75,84,38,+46
+2017-18,Premier League,5,Chelsea,38,21,7,10,70,62,38,+24
+2017-18,Premier League,6,Arsenal,38,19,6,13,63,74,51,+23
+2017-18,Premier League,7,Burnley,38,14,12,12,54,36,39,-3
+2017-18,Premier League,8,Everton,38,13,10,15,49,44,58,-14
+2017-18,Premier League,9,Leicester,38,12,11,15,47,56,60,-4
+2017-18,Premier League,10,Newcastle,38,12,8,18,44,39,47,-8
+2017-18,Premier League,11,Crystal Palace,38,11,11,16,44,45,55,-10
+2017-18,Premier League,12,Bournemouth,38,11,11,16,44,45,61,-16
+2017-18,Premier League,13,West Ham,38,10,12,16,42,48,68,-20
+2017-18,Premier League,14,Watford,38,11,8,19,41,44,64,-20
+2017-18,Premier League,15,Brighton,38,9,13,16,40,34,54,-20
+2017-18,Premier League,16,Huddersfield,38,9,10,19,37,28,58,-30
+2017-18,Premier League,17,Southampton,38,7,15,16,36,37,56,-19
+2017-18,Premier League,18,Swansea,38,8,9,21,33,28,56,-28
+2017-18,Premier League,19,Stoke,38,7,12,19,33,35,68,-33
+2017-18,Premier League,20,West Brom,38,6,13,19,31,31,56,-25
+2018-19,Premier League,1,Man City,38,32,2,4,98,95,23,+72
+2018-19,Premier League,2,Liverpool,38,30,7,1,97,89,22,+67
+2018-19,Premier League,3,Chelsea,38,21,9,8,72,63,39,+24
+2018-19,Premier League,4,Tottenham,38,23,2,13,71,67,39,+28
+2018-19,Premier League,5,Arsenal,38,21,7,10,70,73,51,+22
+2018-19,Premier League,6,Man United,38,19,9,10,66,65,54,+11
+2018-19,Premier League,7,Wolves,38,16,9,13,57,47,46,+1
+2018-19,Premier League,8,Everton,38,15,9,14,54,54,46,+8
+2018-19,Premier League,9,Leicester,38,15,7,16,52,51,48,+3
+2018-19,Premier League,10,West Ham,38,15,7,16,52,52,55,-3
+2018-19,Premier League,11,Watford,38,14,8,16,50,52,59,-7
+2018-19,Premier League,12,Crystal Palace,38,14,7,17,49,51,53,-2
+2018-19,Premier League,13,Newcastle,38,12,9,17,45,42,48,-6
+2018-19,Premier League,14,Bournemouth,38,13,6,19,45,56,70,-14
+2018-19,Premier League,15,Burnley,38,11,7,20,40,45,68,-23
+2018-19,Premier League,16,Southampton,38,9,12,17,39,45,65,-20
+2018-19,Premier League,17,Brighton,38,9,9,20,36,35,60,-25
+2018-19,Premier League,18,Cardiff,38,10,4,24,34,34,69,-35
+2018-19,Premier League,19,Fulham,38,7,5,26,26,34,81,-47
+2018-19,Premier League,20,Huddersfield,38,3,7,28,16,22,76,-54
+2019-20,Premier League,1,Liverpool,38,32,3,3,99,85,33,+52
+2019-20,Premier League,2,Man City,38,26,3,9,81,102,35,+67
+2019-20,Premier League,3,Man United,38,18,12,8,66,66,36,+30
+2019-20,Premier League,4,Chelsea,38,20,6,12,66,69,54,+15
+2019-20,Premier League,5,Leicester,38,18,8,12,62,67,41,+26
+2019-20,Premier League,6,Tottenham,38,16,11,11,59,61,47,+14
+2019-20,Premier League,7,Wolves,38,15,14,9,59,51,40,+11
+2019-20,Premier League,8,Arsenal,38,14,14,10,56,56,48,+8
+2019-20,Premier League,9,Sheffield United,38,14,12,12,54,39,39,0
+2019-20,Premier League,10,Burnley,38,15,9,14,54,43,50,-7
+2019-20,Premier League,11,Southampton,38,15,7,16,52,51,60,-9
+2019-20,Premier League,12,Everton,38,13,10,15,49,44,56,-12
+2019-20,Premier League,13,Newcastle,38,11,11,16,44,38,58,-20
+2019-20,Premier League,14,Crystal Palace,38,11,10,17,43,31,50,-19
+2019-20,Premier League,15,Brighton,38,9,14,15,41,39,54,-15
+2019-20,Premier League,16,West Ham,38,10,9,19,39,49,62,-13
+2019-20,Premier League,17,Aston Villa,38,9,8,21,35,41,67,-26
+2019-20,Premier League,18,Bournemouth,38,9,7,22,34,40,65,-25
+2019-20,Premier League,19,Watford,38,8,10,20,34,36,64,-28
+2019-20,Premier League,20,Norwich,38,5,6,27,21,26,75,-49
+2020-21,Premier League,1,Man City,38,27,5,6,86,83,32,+51
+2020-21,Premier League,2,Man United,38,21,11,6,74,73,44,+29
+2020-21,Premier League,3,Liverpool,38,20,9,9,69,68,42,+26
+2020-21,Premier League,4,Chelsea,38,19,10,9,67,58,36,+22
+2020-21,Premier League,5,Leicester,38,20,6,12,66,68,50,+18
+2020-21,Premier League,6,West Ham,38,19,8,11,65,62,47,+15
+2020-21,Premier League,7,Tottenham,38,18,8,12,62,68,45,+23
+2020-21,Premier League,8,Arsenal,38,18,7,13,61,55,39,+16
+2020-21,Premier League,9,Leeds,38,18,5,15,59,62,54,+8
+2020-21,Premier League,10,Everton,38,17,8,13,59,47,48,-1
+2020-21,Premier League,11,Aston Villa,38,16,7,15,55,55,46,+9
+2020-21,Premier League,12,Newcastle,38,12,9,17,45,46,62,-16
+2020-21,Premier League,13,Wolves,38,12,9,17,45,36,52,-16
+2020-21,Premier League,14,Crystal Palace,38,12,8,18,44,41,66,-25
+2020-21,Premier League,15,Southampton,38,12,7,19,43,47,68,-21
+2020-21,Premier League,16,Brighton,38,9,14,15,41,40,46,-6
+2020-21,Premier League,17,Burnley,38,10,9,19,39,33,55,-22
+2020-21,Premier League,18,Fulham,38,5,13,20,28,27,53,-26
+2020-21,Premier League,19,West Brom,38,5,11,22,26,35,76,-41
+2020-21,Premier League,20,Sheffield United,38,7,2,29,23,20,63,-43
+2021-22,Premier League,1,Man City,38,29,6,3,93,99,26,+73
+2021-22,Premier League,2,Liverpool,38,28,8,2,92,94,26,+68
+2021-22,Premier League,3,Chelsea,38,21,11,6,74,76,33,+43
+2021-22,Premier League,4,Tottenham,38,22,5,11,71,69,40,+29
+2021-22,Premier League,5,Arsenal,38,22,3,13,69,61,48,+13
+2021-22,Premier League,6,Man United,38,16,10,12,58,57,57,0
+2021-22,Premier League,7,West Ham,38,16,8,14,56,60,51,+9
+2021-22,Premier League,8,Leicester,38,14,10,14,52,62,59,+3
+2021-22,Premier League,9,Brighton,38,12,15,11,51,42,44,-2
+2021-22,Premier League,10,Wolves,38,15,6,17,51,38,43,-5
+2021-22,Premier League,11,Newcastle,38,13,10,15,49,44,62,-18
+2021-22,Premier League,12,Crystal Palace,38,11,15,12,48,50,46,+4
+2021-22,Premier League,13,Brentford,38,13,7,18,46,48,56,-8
+2021-22,Premier League,14,Aston Villa,38,13,6,19,45,52,54,-2
+2021-22,Premier League,15,Southampton,38,9,13,16,40,43,67,-24
+2021-22,Premier League,16,Everton,38,11,6,21,39,43,66,-23
+2021-22,Premier League,17,Leeds,38,9,11,18,38,42,79,-37
+2021-22,Premier League,18,Burnley,38,7,14,17,35,34,53,-19
+2021-22,Premier League,19,Watford,38,6,5,27,23,34,77,-43
+2021-22,Premier League,20,Norwich,38,5,7,26,22,23,84,-61
+2022-23,Premier League,1,Man City,38,28,5,5,89,94,33,+61
+2022-23,Premier League,2,Arsenal,38,26,6,6,84,88,43,+45
+2022-23,Premier League,3,Man United,38,23,6,9,75,58,43,+15
+2022-23,Premier League,4,Newcastle,38,19,14,5,71,68,33,+35
+2022-23,Premier League,5,Liverpool,38,19,10,9,67,75,47,+28
+2022-23,Premier League,6,Brighton,38,18,8,12,62,72,53,+19
+2022-23,Premier League,7,Aston Villa,38,18,7,13,61,51,46,+5
+2022-23,Premier League,8,Tottenham,38,18,6,14,60,70,63,+7
+2022-23,Premier League,9,Brentford,38,15,14,9,59,58,46,+12
+2022-23,Premier League,10,Fulham,38,15,7,16,52,55,53,+2
+2022-23,Premier League,11,Crystal Palace,38,11,12,15,45,40,49,-9
+2022-23,Premier League,12,Chelsea,38,11,11,16,44,38,47,-9
+2022-23,Premier League,13,Wolves,38,11,8,19,41,31,58,-27
+2022-23,Premier League,14,West Ham,38,11,7,20,40,42,55,-13
+2022-23,Premier League,15,Bournemouth,38,11,6,21,39,37,71,-34
+2022-23,Premier League,16,Nott'm Forest,38,9,11,18,38,38,68,-30
+2022-23,Premier League,17,Everton,38,8,12,18,36,34,57,-23
+2022-23,Premier League,18,Leicester,38,9,7,22,34,51,68,-17
+2022-23,Premier League,19,Leeds,38,7,10,21,31,48,78,-30
+2022-23,Premier League,20,Southampton,38,6,7,25,25,36,73,-37
+2023-24,Premier League,1,Man City,38,28,7,3,91,96,34,+62
+2023-24,Premier League,2,Arsenal,38,28,5,5,89,91,29,+62
+2023-24,Premier League,3,Liverpool,38,24,10,4,82,86,41,+45
+2023-24,Premier League,4,Aston Villa,38,20,8,10,68,76,61,+15
+2023-24,Premier League,5,Tottenham,38,20,6,12,66,74,61,+13
+2023-24,Premier League,6,Chelsea,38,18,9,11,63,77,63,+14
+2023-24,Premier League,7,Newcastle,38,18,6,14,60,85,62,+23
+2023-24,Premier League,8,Man United,38,18,6,14,60,57,58,-1
+2023-24,Premier League,9,West Ham,38,14,10,14,52,60,74,-14
+2023-24,Premier League,10,Crystal Palace,38,13,10,15,49,57,58,-1
+2023-24,Premier League,11,Brighton,38,12,12,14,48,55,62,-7
+2023-24,Premier League,12,Everton,38,13,9,16,48,40,51,-11
+2023-24,Premier League,13,Bournemouth,38,13,9,16,48,54,67,-13
+2023-24,Premier League,14,Fulham,38,13,8,17,47,55,61,-6
+2023-24,Premier League,15,Wolves,38,13,7,18,46,50,65,-15
+2023-24,Premier League,16,Brentford,38,10,9,19,39,56,65,-9
+2023-24,Premier League,17,Nott'm Forest,38,9,9,20,36,49,67,-18
+2023-24,Premier League,18,Luton,38,6,8,24,26,52,85,-33
+2023-24,Premier League,19,Burnley,38,5,9,24,24,41,78,-37
+2023-24,Premier League,20,Sheffield United,38,3,7,28,16,35,104,-69
+2024-25,Premier League,1,Liverpool,38,25,9,4,84,86,41,+45
+2024-25,Premier League,2,Arsenal,38,20,14,4,74,69,34,+35
+2024-25,Premier League,3,Man City,38,21,8,9,71,72,44,+28
+2024-25,Premier League,4,Chelsea,38,20,9,9,69,64,43,+21
+2024-25,Premier League,5,Newcastle,38,20,6,12,66,68,47,+21
+2024-25,Premier League,6,Aston Villa,38,19,9,10,66,58,51,+7
+2024-25,Premier League,7,Nott'm Forest,38,19,8,11,65,58,46,+12
+2024-25,Premier League,8,Brighton,38,16,13,9,61,66,59,+7
+2024-25,Premier League,9,Bournemouth,38,15,11,12,56,58,46,+12
+2024-25,Premier League,10,Brentford,38,16,8,14,56,66,57,+9
+2024-25,Premier League,11,Fulham,38,15,9,14,54,54,54,0
+2024-25,Premier League,12,Crystal Palace,38,13,14,11,53,51,51,0
+2024-25,Premier League,13,Everton,38,11,15,12,48,42,44,-2
+2024-25,Premier League,14,West Ham,38,11,10,17,43,46,62,-16
+2024-25,Premier League,15,Man United,38,11,9,18,42,44,54,-10
+2024-25,Premier League,16,Wolves,38,12,6,20,42,54,69,-15
+2024-25,Premier League,17,Tottenham,38,11,5,22,38,64,65,-1
+2024-25,Premier League,18,Leicester,38,6,7,25,25,33,80,-47
+2024-25,Premier League,19,Ipswich,38,4,10,24,22,36,82,-46
+2024-25,Premier League,20,Southampton,38,2,6,30,12,26,86,-60
+2004-05,Championship,1,Wigan,33,19,9,5,66,62,26,+36
+2004-05,Championship,2,West Ham,35,18,8,9,62,56,41,+15
+2004-05,Championship,3,Sunderland,33,17,7,9,58,50,32,+18
+2004-05,Championship,4,Derby,32,17,6,9,57,47,35,+12
+2004-05,Championship,5,Reading,35,16,9,10,57,39,31,+8
+2004-05,Championship,6,Ipswich,31,15,10,6,55,53,38,+15
+2004-05,Championship,7,Preston,32,15,8,9,53,49,39,+10
+2004-05,Championship,8,Wolves,35,11,17,7,50,56,45,+11
+2004-05,Championship,9,QPR,34,14,8,12,50,39,38,+1
+2004-05,Championship,10,Millwall,32,13,9,10,48,36,29,+7
+2004-05,Championship,11,Sheffield United,34,12,12,10,48,40,39,+1
+2004-05,Championship,12,Stoke,32,13,6,13,45,26,25,+1
+2004-05,Championship,13,Leeds,33,10,14,9,44,27,30,-3
+2004-05,Championship,14,Leicester,33,9,13,11,40,38,38,0
+2004-05,Championship,15,Plymouth,34,11,6,17,39,37,51,-14
+2004-05,Championship,16,Crewe,30,9,10,11,37,42,48,-6
+2004-05,Championship,17,Brighton,32,9,10,13,37,32,45,-13
+2004-05,Championship,18,Watford,33,8,12,13,36,38,43,-5
+2004-05,Championship,19,Burnley,28,8,10,10,34,21,22,-1
+2004-05,Championship,20,Cardiff,32,8,10,14,34,31,38,-7
+2004-05,Championship,21,Gillingham,33,8,9,16,33,33,51,-18
+2004-05,Championship,22,Coventry,34,7,9,18,30,41,60,-19
+2004-05,Championship,23,Nott'm Forest,33,5,12,16,27,29,52,-23
+2004-05,Championship,24,Rotherham,31,4,8,19,20,20,46,-26
+2005-06,Championship,1,Reading,46,31,13,2,106,99,32,+67
+2005-06,Championship,2,Sheffield United,46,26,12,8,90,76,46,+30
+2005-06,Championship,3,Watford,46,22,15,9,81,77,53,+24
+2005-06,Championship,4,Preston,46,20,20,6,80,59,30,+29
+2005-06,Championship,5,Leeds,46,21,15,10,78,57,38,+19
+2005-06,Championship,6,Crystal Palace,46,21,12,13,75,67,48,+19
+2005-06,Championship,7,Wolves,46,16,19,11,67,50,42,+8
+2005-06,Championship,8,Coventry,46,16,15,15,63,62,65,-3
+2005-06,Championship,9,Norwich,46,18,8,20,62,56,65,-9
+2005-06,Championship,10,Luton,46,17,10,19,61,66,67,-1
+2005-06,Championship,11,Cardiff,46,16,12,18,60,58,59,-1
+2005-06,Championship,12,Southampton,46,13,19,14,58,49,50,-1
+2005-06,Championship,13,Stoke,46,17,7,22,58,54,63,-9
+2005-06,Championship,14,Plymouth,46,13,17,16,56,39,46,-7
+2005-06,Championship,15,Ipswich,46,14,14,18,56,53,66,-13
+2005-06,Championship,16,Leicester,46,13,15,18,54,51,59,-8
+2005-06,Championship,17,Burnley,46,14,12,20,54,46,54,-8
+2005-06,Championship,18,Hull,46,12,16,18,52,49,55,-6
+2005-06,Championship,19,Sheffield Weds,46,13,13,20,52,39,52,-13
+2005-06,Championship,20,Derby,46,10,20,16,50,53,67,-14
+2005-06,Championship,21,QPR,46,12,14,20,50,50,65,-15
+2005-06,Championship,22,Crewe,46,9,15,22,42,57,86,-29
+2005-06,Championship,23,Millwall,46,8,16,22,40,35,62,-27
+2005-06,Championship,24,Brighton,46,7,17,22,38,39,71,-32
+2006-07,Championship,1,Sunderland,46,27,7,12,88,76,47,+29
+2006-07,Championship,2,Birmingham,46,26,8,12,86,67,42,+25
+2006-07,Championship,3,Derby,46,25,9,12,84,62,46,+16
+2006-07,Championship,4,West Brom,46,22,10,14,76,81,55,+26
+2006-07,Championship,5,Wolves,46,22,10,14,76,59,56,+3
+2006-07,Championship,6,Southampton,46,21,12,13,75,77,53,+24
+2006-07,Championship,7,Preston,46,22,8,16,74,64,53,+11
+2006-07,Championship,8,Stoke,46,19,16,11,73,62,41,+21
+2006-07,Championship,9,Sheffield Weds,46,20,11,15,71,70,66,+4
+2006-07,Championship,10,Colchester,46,20,9,17,69,70,56,+14
+2006-07,Championship,11,Plymouth,46,17,16,13,67,63,62,+1
+2006-07,Championship,12,Crystal Palace,46,18,11,17,65,59,51,+8
+2006-07,Championship,13,Cardiff,46,17,13,16,64,57,53,+4
+2006-07,Championship,14,Ipswich,46,18,8,20,62,64,59,+5
+2006-07,Championship,15,Burnley,46,15,12,19,57,52,49,+3
+2006-07,Championship,16,Norwich,46,16,9,21,57,56,71,-15
+2006-07,Championship,17,Coventry,46,16,8,22,56,47,62,-15
+2006-07,Championship,18,QPR,46,14,11,21,53,54,68,-14
+2006-07,Championship,19,Leicester,46,13,14,19,53,49,64,-15
+2006-07,Championship,20,Barnsley,46,15,5,26,50,53,85,-32
+2006-07,Championship,21,Hull,46,13,10,23,49,51,67,-16
+2006-07,Championship,22,Leeds,46,13,7,26,46,46,72,-26
+2006-07,Championship,23,Southend,46,10,12,24,42,47,80,-33
+2006-07,Championship,24,Luton,46,10,10,26,40,53,81,-28
+2007-08,Championship,1,West Brom,46,23,12,11,81,88,55,+33
+2007-08,Championship,2,Stoke,46,21,16,9,79,69,55,+14
+2007-08,Championship,3,Hull,46,21,12,13,75,65,47,+18
+2007-08,Championship,4,Bristol City,46,20,14,12,74,54,53,+1
+2007-08,Championship,5,Crystal Palace,46,18,17,11,71,58,42,+16
+2007-08,Championship,6,Watford,46,18,16,12,70,62,56,+6
+2007-08,Championship,7,Wolves,46,18,16,12,70,53,48,+5
+2007-08,Championship,8,Ipswich,46,18,15,13,69,65,56,+9
+2007-08,Championship,9,Sheffield United,46,17,15,14,66,56,51,+5
+2007-08,Championship,10,Plymouth,46,17,13,16,64,60,50,+10
+2007-08,Championship,11,Charlton,46,17,13,16,64,63,58,+5
+2007-08,Championship,12,Cardiff,46,16,16,14,64,59,55,+4
+2007-08,Championship,13,Burnley,46,16,14,16,62,60,67,-7
+2007-08,Championship,14,QPR,46,14,16,16,58,60,66,-6
+2007-08,Championship,15,Preston,46,15,11,20,56,50,56,-6
+2007-08,Championship,16,Sheffield Weds,46,14,13,19,55,54,55,-1
+2007-08,Championship,17,Norwich,46,15,10,21,55,49,59,-10
+2007-08,Championship,18,Barnsley,46,14,13,19,55,52,65,-13
+2007-08,Championship,19,Blackpool,46,12,18,16,54,59,64,-5
+2007-08,Championship,20,Southampton,46,13,15,18,54,56,72,-16
+2007-08,Championship,21,Coventry,46,14,11,21,53,52,64,-12
+2007-08,Championship,22,Leicester,46,12,16,18,52,42,45,-3
+2007-08,Championship,23,Scunthorpe,46,11,13,22,46,46,69,-23
+2007-08,Championship,24,Colchester,46,7,17,22,38,62,86,-24
+2008-09,Championship,1,Wolves,46,27,9,10,90,80,52,+28
+2008-09,Championship,2,Birmingham,46,23,14,9,83,54,37,+17
+2008-09,Championship,3,Sheffield United,46,22,14,10,80,64,39,+25
+2008-09,Championship,4,Reading,46,21,14,11,77,72,40,+32
+2008-09,Championship,5,Burnley,46,21,13,12,76,72,60,+12
+2008-09,Championship,6,Preston,46,21,11,14,74,66,54,+12
+2008-09,Championship,7,Cardiff,46,19,17,10,74,65,53,+12
+2008-09,Championship,8,Swansea,46,16,20,10,68,63,50,+13
+2008-09,Championship,9,Ipswich,46,17,15,14,66,62,53,+9
+2008-09,Championship,10,Bristol City,46,15,16,15,61,54,54,0
+2008-09,Championship,11,QPR,46,15,16,15,61,42,44,-2
+2008-09,Championship,12,Sheffield Weds,46,16,13,17,61,51,58,-7
+2008-09,Championship,13,Watford,46,16,10,20,58,68,72,-4
+2008-09,Championship,14,Doncaster,46,17,7,22,58,42,53,-11
+2008-09,Championship,15,Crystal Palace,46,15,12,19,57,52,55,-3
+2008-09,Championship,16,Blackpool,46,13,17,16,56,47,58,-11
+2008-09,Championship,17,Coventry,46,13,15,18,54,47,58,-11
+2008-09,Championship,18,Derby,46,14,12,20,54,55,67,-12
+2008-09,Championship,19,Nott'm Forest,46,13,14,19,53,50,65,-15
+2008-09,Championship,20,Barnsley,46,13,13,20,52,45,58,-13
+2008-09,Championship,21,Plymouth,46,13,12,21,51,44,57,-13
+2008-09,Championship,22,Norwich,46,12,10,24,46,57,70,-13
+2008-09,Championship,23,Southampton,46,10,15,21,45,46,69,-23
+2008-09,Championship,24,Charlton,46,8,15,23,39,52,74,-22
+2009-10,Championship,1,Newcastle,46,30,12,4,102,90,35,+55
+2009-10,Championship,2,West Brom,46,26,13,7,91,89,48,+41
+2009-10,Championship,3,Nott'm Forest,46,22,13,11,79,65,40,+25
+2009-10,Championship,4,Cardiff,46,22,10,14,76,73,54,+19
+2009-10,Championship,5,Leicester,46,21,13,12,76,61,45,+16
+2009-10,Championship,6,Blackpool,46,19,13,14,70,74,58,+16
+2009-10,Championship,7,Swansea,46,17,18,11,69,40,37,+3
+2009-10,Championship,8,Sheffield United,46,17,14,15,65,62,55,+7
+2009-10,Championship,9,Reading,46,17,12,17,63,68,63,+5
+2009-10,Championship,10,Bristol City,46,15,18,13,63,56,65,-9
+2009-10,Championship,11,Middlesbrough,46,16,14,16,62,58,50,+8
+2009-10,Championship,12,Doncaster,46,15,15,16,60,59,58,+1
+2009-10,Championship,13,Crystal Palace,46,14,17,15,59,50,53,-3
+2009-10,Championship,14,QPR,46,14,15,17,57,58,65,-7
+2009-10,Championship,15,Derby,46,15,11,20,56,53,63,-10
+2009-10,Championship,16,Ipswich,46,12,20,14,56,50,61,-11
+2009-10,Championship,17,Watford,46,14,12,20,54,61,68,-7
+2009-10,Championship,18,Preston,46,13,15,18,54,58,73,-15
+2009-10,Championship,19,Barnsley,46,14,12,20,54,53,69,-16
+2009-10,Championship,20,Coventry,46,13,15,18,54,47,64,-17
+2009-10,Championship,21,Scunthorpe,46,14,10,22,52,62,84,-22
+2009-10,Championship,22,Sheffield Weds,46,11,14,21,47,49,69,-20
+2009-10,Championship,23,Plymouth,46,11,8,27,41,43,68,-25
+2009-10,Championship,24,Peterboro,46,8,10,28,34,46,80,-34
+2010-11,Championship,1,QPR,46,24,16,6,88,71,32,+39
+2010-11,Championship,2,Norwich,46,23,15,8,84,83,58,+25
+2010-11,Championship,3,Swansea,46,24,8,14,80,69,42,+27
+2010-11,Championship,4,Cardiff,46,23,11,12,80,76,54,+22
+2010-11,Championship,5,Reading,46,20,17,9,77,77,51,+26
+2010-11,Championship,6,Nott'm Forest,46,20,15,11,75,69,50,+19
+2010-11,Championship,7,Leeds,46,19,15,12,72,81,70,+11
+2010-11,Championship,8,Burnley,46,18,14,14,68,65,61,+4
+2010-11,Championship,9,Millwall,46,18,13,15,67,62,48,+14
+2010-11,Championship,10,Leicester,46,19,10,17,67,76,71,+5
+2010-11,Championship,11,Hull,46,16,17,13,65,52,51,+1
+2010-11,Championship,12,Middlesbrough,46,17,11,18,62,68,68,0
+2010-11,Championship,13,Ipswich,46,18,8,20,62,62,68,-6
+2010-11,Championship,14,Watford,46,16,13,17,61,77,71,+6
+2010-11,Championship,15,Bristol City,46,17,9,20,60,62,65,-3
+2010-11,Championship,16,Portsmouth,46,15,13,18,58,53,60,-7
+2010-11,Championship,17,Barnsley,46,14,14,18,56,55,66,-11
+2010-11,Championship,18,Coventry,46,14,13,19,55,54,58,-4
+2010-11,Championship,19,Derby,46,13,10,23,49,58,71,-13
+2010-11,Championship,20,Crystal Palace,46,12,12,22,48,44,69,-25
+2010-11,Championship,21,Doncaster,46,11,15,20,48,55,81,-26
+2010-11,Championship,22,Preston,46,10,12,24,42,54,79,-25
+2010-11,Championship,23,Sheffield United,46,11,9,26,42,44,79,-35
+2010-11,Championship,24,Scunthorpe,46,12,6,28,42,43,87,-44
+2011-12,Championship,1,Reading,46,27,8,11,89,69,41,+28
+2011-12,Championship,2,Southampton,46,26,10,10,88,85,46,+39
+2011-12,Championship,3,West Ham,46,24,14,8,86,81,48,+33
+2011-12,Championship,4,Birmingham,46,20,16,10,76,78,51,+27
+2011-12,Championship,5,Blackpool,46,20,15,11,75,79,59,+20
+2011-12,Championship,6,Cardiff,46,19,18,9,75,66,53,+13
+2011-12,Championship,7,Middlesbrough,46,18,16,12,70,52,51,+1
+2011-12,Championship,8,Hull,46,19,11,16,68,47,44,+3
+2011-12,Championship,9,Leicester,46,18,12,16,66,66,55,+11
+2011-12,Championship,10,Brighton,46,17,15,14,66,52,52,0
+2011-12,Championship,11,Watford,46,16,16,14,64,56,64,-8
+2011-12,Championship,12,Derby,46,18,10,18,64,50,58,-8
+2011-12,Championship,13,Burnley,46,17,11,18,62,61,58,+3
+2011-12,Championship,14,Leeds,46,17,10,19,61,65,68,-3
+2011-12,Championship,15,Ipswich,46,17,10,19,61,69,77,-8
+2011-12,Championship,16,Millwall,46,15,12,19,57,55,57,-2
+2011-12,Championship,17,Crystal Palace,46,13,17,16,56,46,51,-5
+2011-12,Championship,18,Portsmouth,46,13,11,22,50,50,59,-9
+2011-12,Championship,19,Peterboro,46,13,11,22,50,67,77,-10
+2011-12,Championship,20,Nott'm Forest,46,14,8,24,50,48,63,-15
+2011-12,Championship,21,Bristol City,46,12,13,21,49,44,68,-24
+2011-12,Championship,22,Barnsley,46,13,9,24,48,49,74,-25
+2011-12,Championship,23,Coventry,46,9,13,24,40,41,65,-24
+2011-12,Championship,24,Doncaster,46,8,12,26,36,43,80,-37
+2012-13,Championship,1,Cardiff,46,25,12,9,87,72,45,+27
+2012-13,Championship,2,Hull,46,24,7,15,79,61,52,+9
+2012-13,Championship,3,Watford,46,23,8,15,77,85,58,+27
+2012-13,Championship,4,Brighton,46,19,18,9,75,69,43,+26
+2012-13,Championship,5,Crystal Palace,46,19,15,12,72,73,62,+11
+2012-13,Championship,6,Leicester,46,19,11,16,68,71,48,+23
+2012-13,Championship,7,Bolton,46,18,14,14,68,69,61,+8
+2012-13,Championship,8,Nott'm Forest,46,17,16,13,67,63,59,+4
+2012-13,Championship,9,Charlton,46,17,14,15,65,65,59,+6
+2012-13,Championship,10,Derby,46,16,13,17,61,65,62,+3
+2012-13,Championship,11,Burnley,46,16,13,17,61,62,60,+2
+2012-13,Championship,12,Birmingham,46,15,16,15,61,63,69,-6
+2012-13,Championship,13,Leeds,46,17,10,19,61,57,66,-9
+2012-13,Championship,14,Ipswich,46,16,12,18,60,48,61,-13
+2012-13,Championship,15,Blackpool,46,14,17,15,59,62,63,-1
+2012-13,Championship,16,Middlesbrough,46,18,5,23,59,61,70,-9
+2012-13,Championship,17,Blackburn,46,14,16,16,58,55,62,-7
+2012-13,Championship,18,Sheffield Weds,46,16,10,20,58,53,61,-8
+2012-13,Championship,19,Huddersfield,46,15,13,18,58,53,73,-20
+2012-13,Championship,20,Millwall,46,15,11,20,56,51,62,-11
+2012-13,Championship,21,Barnsley,46,14,13,19,55,56,70,-14
+2012-13,Championship,22,Peterboro,46,15,9,22,54,66,75,-9
+2012-13,Championship,23,Wolves,46,14,9,23,51,55,69,-14
+2012-13,Championship,24,Bristol City,46,11,8,27,41,59,84,-25
+2013-14,Championship,1,Leicester,46,31,9,6,102,83,43,+40
+2013-14,Championship,2,Burnley,46,26,15,5,93,72,37,+35
+2013-14,Championship,3,Derby,46,25,10,11,85,84,52,+32
+2013-14,Championship,4,QPR,46,23,11,12,80,60,44,+16
+2013-14,Championship,5,Wigan,46,21,10,15,73,61,48,+13
+2013-14,Championship,6,Brighton,46,19,15,12,72,55,40,+15
+2013-14,Championship,7,Reading,46,19,14,13,71,70,56,+14
+2013-14,Championship,8,Blackburn,46,18,16,12,70,70,62,+8
+2013-14,Championship,9,Ipswich,46,18,14,14,68,60,54,+6
+2013-14,Championship,10,Bournemouth,46,18,12,16,66,67,66,+1
+2013-14,Championship,11,Nott'm Forest,46,16,17,13,65,67,64,+3
+2013-14,Championship,12,Middlesbrough,46,16,16,14,64,62,50,+12
+2013-14,Championship,13,Watford,46,15,15,16,60,74,64,+10
+2013-14,Championship,14,Bolton,46,14,17,15,59,59,60,-1
+2013-14,Championship,15,Leeds,46,16,9,21,57,59,67,-8
+2013-14,Championship,16,Sheffield Weds,46,13,14,19,53,63,65,-2
+2013-14,Championship,17,Huddersfield,46,14,11,21,53,58,65,-7
+2013-14,Championship,18,Charlton,46,13,12,21,51,41,61,-20
+2013-14,Championship,19,Millwall,46,11,15,20,48,46,74,-28
+2013-14,Championship,20,Blackpool,46,11,13,22,46,38,66,-28
+2013-14,Championship,21,Birmingham,46,11,11,24,44,58,74,-16
+2013-14,Championship,22,Doncaster,46,11,11,24,44,39,70,-31
+2013-14,Championship,23,Barnsley,46,9,12,25,39,44,77,-33
+2013-14,Championship,24,Yeovil,46,8,13,25,37,44,75,-31
+2014-15,Championship,1,Bournemouth,46,26,12,8,90,98,45,+53
+2014-15,Championship,2,Watford,46,27,8,11,89,91,50,+41
+2014-15,Championship,3,Norwich,46,25,11,10,86,88,48,+40
+2014-15,Championship,4,Middlesbrough,46,25,10,11,85,68,37,+31
+2014-15,Championship,5,Brentford,46,23,9,14,78,78,59,+19
+2014-15,Championship,6,Ipswich,46,22,12,12,78,72,54,+18
+2014-15,Championship,7,Wolves,46,22,12,12,78,70,56,+14
+2014-15,Championship,8,Derby,46,21,14,11,77,85,56,+29
+2014-15,Championship,9,Blackburn,46,17,16,13,67,66,59,+7
+2014-15,Championship,10,Birmingham,46,16,15,15,63,54,64,-10
+2014-15,Championship,11,Cardiff,46,16,14,16,62,57,61,-4
+2014-15,Championship,12,Charlton,46,14,18,14,60,54,60,-6
+2014-15,Championship,13,Sheffield Weds,46,14,18,14,60,43,49,-6
+2014-15,Championship,14,Nott'm Forest,46,15,14,17,59,71,69,+2
+2014-15,Championship,15,Leeds,46,15,11,20,56,50,61,-11
+2014-15,Championship,16,Huddersfield,46,13,16,17,55,58,75,-17
+2014-15,Championship,17,Fulham,46,14,10,22,52,62,83,-21
+2014-15,Championship,18,Bolton,46,13,12,21,51,54,67,-13
+2014-15,Championship,19,Reading,46,13,11,22,50,48,69,-21
+2014-15,Championship,20,Rotherham,46,11,16,19,49,46,67,-21
+2014-15,Championship,21,Brighton,46,10,17,19,47,44,54,-10
+2014-15,Championship,22,Millwall,46,9,14,23,41,42,76,-34
+2014-15,Championship,23,Wigan,46,9,12,25,39,39,64,-25
+2014-15,Championship,24,Blackpool,46,4,14,28,26,36,91,-55
+2015-16,Championship,1,Burnley,46,26,15,5,93,72,35,+37
+2015-16,Championship,2,Middlesbrough,46,26,11,9,89,63,31,+32
+2015-16,Championship,3,Brighton,46,24,17,5,89,72,42,+30
+2015-16,Championship,4,Hull,46,24,11,11,83,69,35,+34
+2015-16,Championship,5,Derby,46,21,15,10,78,66,43,+23
+2015-16,Championship,6,Sheffield Weds,46,19,17,10,74,66,45,+21
+2015-16,Championship,7,Ipswich,46,18,15,13,69,53,51,+2
+2015-16,Championship,8,Cardiff,46,17,17,12,68,56,51,+5
+2015-16,Championship,9,Brentford,46,19,8,19,65,72,67,+5
+2015-16,Championship,10,Birmingham,46,16,15,15,63,53,49,+4
+2015-16,Championship,11,Preston,46,15,17,14,62,45,45,0
+2015-16,Championship,12,QPR,46,14,18,14,60,54,54,0
+2015-16,Championship,13,Leeds,46,14,17,15,59,50,58,-8
+2015-16,Championship,14,Wolves,46,14,16,16,58,53,58,-5
+2015-16,Championship,15,Blackburn,46,13,16,17,55,46,46,0
+2015-16,Championship,16,Nott'm Forest,46,13,16,17,55,43,47,-4
+2015-16,Championship,17,Reading,46,13,13,20,52,52,59,-7
+2015-16,Championship,18,Bristol City,46,13,13,20,52,54,71,-17
+2015-16,Championship,19,Huddersfield,46,13,12,21,51,59,70,-11
+2015-16,Championship,20,Fulham,46,12,15,19,51,66,79,-13
+2015-16,Championship,21,Rotherham,46,13,10,23,49,53,71,-18
+2015-16,Championship,22,Charlton,46,9,13,24,40,40,80,-40
+2015-16,Championship,23,Milton Keynes Dons,46,9,12,25,39,39,69,-30
+2015-16,Championship,24,Bolton,46,5,15,26,30,41,81,-40
+2016-17,Championship,1,Newcastle,46,29,7,10,94,85,40,+45
+2016-17,Championship,2,Brighton,46,28,9,9,93,74,40,+34
+2016-17,Championship,3,Reading,46,26,7,13,85,68,64,+4
+2016-17,Championship,4,Sheffield Weds,46,24,9,13,81,60,45,+15
+2016-17,Championship,5,Huddersfield,46,25,6,15,81,56,58,-2
+2016-17,Championship,6,Fulham,46,22,14,10,80,85,57,+28
+2016-17,Championship,7,Leeds,46,22,9,15,75,61,47,+14
+2016-17,Championship,8,Norwich,46,20,10,16,70,85,69,+16
+2016-17,Championship,9,Derby,46,18,13,15,67,54,50,+4
+2016-17,Championship,10,Brentford,46,18,10,18,64,75,65,+10
+2016-17,Championship,11,Preston,46,16,14,16,62,64,63,+1
+2016-17,Championship,12,Cardiff,46,17,11,18,62,60,61,-1
+2016-17,Championship,13,Aston Villa,46,16,14,16,62,47,48,-1
+2016-17,Championship,14,Barnsley,46,15,13,18,58,64,67,-3
+2016-17,Championship,15,Wolves,46,16,10,20,58,54,58,-4
+2016-17,Championship,16,Ipswich,46,13,16,17,55,48,58,-10
+2016-17,Championship,17,Bristol City,46,15,9,22,54,60,66,-6
+2016-17,Championship,18,QPR,46,15,8,23,53,52,66,-14
+2016-17,Championship,19,Birmingham,46,13,14,19,53,45,64,-19
+2016-17,Championship,20,Burton,46,13,13,20,52,49,63,-14
+2016-17,Championship,21,Nott'm Forest,46,14,9,23,51,62,72,-10
+2016-17,Championship,22,Blackburn,46,12,15,19,51,53,65,-12
+2016-17,Championship,23,Wigan,46,10,12,24,42,40,57,-17
+2016-17,Championship,24,Rotherham,46,5,8,33,23,40,98,-58
+2017-18,Championship,1,Wolves,46,30,9,7,99,82,39,+43
+2017-18,Championship,2,Cardiff,46,27,9,10,90,69,39,+30
+2017-18,Championship,3,Fulham,46,25,13,8,88,79,46,+33
+2017-18,Championship,4,Aston Villa,46,24,11,11,83,72,42,+30
+2017-18,Championship,5,Middlesbrough,46,22,10,14,76,67,45,+22
+2017-18,Championship,6,Derby,46,20,15,11,75,70,48,+22
+2017-18,Championship,7,Preston,46,19,16,11,73,57,46,+11
+2017-18,Championship,8,Millwall,46,19,15,12,72,56,45,+11
+2017-18,Championship,9,Brentford,46,18,15,13,69,62,52,+10
+2017-18,Championship,10,Sheffield United,46,20,9,17,69,62,55,+7
+2017-18,Championship,11,Bristol City,46,17,16,13,67,67,58,+9
+2017-18,Championship,12,Ipswich,46,17,9,20,60,57,60,-3
+2017-18,Championship,13,Leeds,46,17,9,20,60,59,64,-5
+2017-18,Championship,14,Norwich,46,15,15,16,60,49,60,-11
+2017-18,Championship,15,Sheffield Weds,46,14,15,17,57,59,60,-1
+2017-18,Championship,16,QPR,46,15,11,20,56,58,70,-12
+2017-18,Championship,17,Nott'm Forest,46,15,8,23,53,51,65,-14
+2017-18,Championship,18,Hull,46,11,16,19,49,70,70,0
+2017-18,Championship,19,Birmingham,46,13,7,26,46,38,68,-30
+2017-18,Championship,20,Reading,46,10,14,22,44,48,70,-22
+2017-18,Championship,21,Bolton,46,10,13,23,43,39,74,-35
+2017-18,Championship,22,Barnsley,46,9,14,23,41,48,72,-24
+2017-18,Championship,23,Burton,46,10,11,25,41,38,81,-43
+2017-18,Championship,24,Sunderland,46,7,16,23,37,52,80,-28
+2018-19,Championship,1,Norwich,46,27,13,6,94,93,57,+36
+2018-19,Championship,2,Sheffield United,46,26,11,9,89,78,41,+37
+2018-19,Championship,3,Leeds,46,25,8,13,83,73,50,+23
+2018-19,Championship,4,West Brom,46,23,11,12,80,87,62,+25
+2018-19,Championship,5,Aston Villa,46,20,16,10,76,82,61,+21
+2018-19,Championship,6,Derby,46,20,14,12,74,69,54,+15
+2018-19,Championship,7,Middlesbrough,46,20,13,13,73,49,41,+8
+2018-19,Championship,8,Bristol City,46,19,13,14,70,59,53,+6
+2018-19,Championship,9,Nott'm Forest,46,17,15,14,66,61,54,+7
+2018-19,Championship,10,Swansea,46,18,11,17,65,65,62,+3
+2018-19,Championship,11,Brentford,46,17,13,16,64,73,59,+14
+2018-19,Championship,12,Sheffield Weds,46,16,16,14,64,60,62,-2
+2018-19,Championship,13,Hull,46,17,11,18,62,66,68,-2
+2018-19,Championship,14,Birmingham,46,14,19,13,61,64,58,+6
+2018-19,Championship,15,Preston,46,16,13,17,61,67,67,0
+2018-19,Championship,16,Blackburn,46,16,12,18,60,64,69,-5
+2018-19,Championship,17,Stoke,46,11,22,13,55,45,52,-7
+2018-19,Championship,18,Wigan,46,13,13,20,52,51,64,-13
+2018-19,Championship,19,QPR,46,14,9,23,51,53,71,-18
+2018-19,Championship,20,Reading,46,10,17,19,47,49,66,-17
+2018-19,Championship,21,Millwall,46,10,14,22,44,48,64,-16
+2018-19,Championship,22,Rotherham,46,8,16,22,40,52,83,-31
+2018-19,Championship,23,Bolton,46,8,8,30,32,29,78,-49
+2018-19,Championship,24,Ipswich,46,5,16,25,31,36,77,-41
+2019-20,Championship,1,Leeds,46,28,9,9,93,77,35,+42
+2019-20,Championship,2,West Brom,46,22,17,7,83,77,45,+32
+2019-20,Championship,3,Brentford,46,24,9,13,81,80,38,+42
+2019-20,Championship,4,Fulham,46,23,12,11,81,64,48,+16
+2019-20,Championship,5,Cardiff,46,19,16,11,73,68,58,+10
+2019-20,Championship,6,Swansea,46,18,16,12,70,62,53,+9
+2019-20,Championship,7,Nott'm Forest,46,18,16,12,70,58,50,+8
+2019-20,Championship,8,Millwall,46,17,17,12,68,57,51,+6
+2019-20,Championship,9,Preston,46,18,12,16,66,59,54,+5
+2019-20,Championship,10,Derby,46,17,13,16,64,62,64,-2
+2019-20,Championship,11,Blackburn,46,17,12,17,63,66,63,+3
+2019-20,Championship,12,Bristol City,46,17,12,17,63,60,65,-5
+2019-20,Championship,13,Wigan,46,15,14,17,59,57,56,+1
+2019-20,Championship,14,QPR,46,16,10,20,58,67,76,-9
+2019-20,Championship,15,Reading,46,15,11,20,56,59,58,+1
+2019-20,Championship,16,Stoke,46,16,8,22,56,62,68,-6
+2019-20,Championship,17,Sheffield Weds,46,15,11,20,56,58,66,-8
+2019-20,Championship,18,Middlesbrough,46,13,14,19,53,48,61,-13
+2019-20,Championship,19,Huddersfield,46,13,12,21,51,52,70,-18
+2019-20,Championship,20,Luton,46,14,9,23,51,54,82,-28
+2019-20,Championship,21,Birmingham,46,12,14,20,50,54,75,-21
+2019-20,Championship,22,Barnsley,46,12,13,21,49,49,69,-20
+2019-20,Championship,23,Charlton,46,12,12,22,48,50,65,-15
+2019-20,Championship,24,Hull,46,12,9,25,45,57,87,-30
+2020-21,Championship,1,Norwich,46,29,10,7,97,75,36,+39
+2020-21,Championship,2,Watford,46,27,10,9,91,63,30,+33
+2020-21,Championship,3,Brentford,46,24,15,7,87,79,42,+37
+2020-21,Championship,4,Swansea,46,23,11,12,80,56,39,+17
+2020-21,Championship,5,Barnsley,46,23,9,14,78,58,50,+8
+2020-21,Championship,6,Bournemouth,46,22,11,13,77,73,46,+27
+2020-21,Championship,7,Reading,46,19,13,14,70,62,54,+8
+2020-21,Championship,8,Cardiff,46,18,14,14,68,66,49,+17
+2020-21,Championship,9,QPR,46,19,11,16,68,57,55,+2
+2020-21,Championship,10,Middlesbrough,46,18,10,18,64,55,53,+2
+2020-21,Championship,11,Millwall,46,15,17,14,62,47,52,-5
+2020-21,Championship,12,Luton,46,17,11,18,62,41,52,-11
+2020-21,Championship,13,Preston,46,18,7,21,61,49,56,-7
+2020-21,Championship,14,Stoke,46,15,15,16,60,50,52,-2
+2020-21,Championship,15,Blackburn,46,15,12,19,57,65,54,+11
+2020-21,Championship,16,Coventry,46,14,13,19,55,49,61,-12
+2020-21,Championship,17,Nott'm Forest,46,12,16,18,52,37,45,-8
+2020-21,Championship,18,Birmingham,46,13,13,20,52,37,61,-24
+2020-21,Championship,19,Bristol City,46,15,6,25,51,46,68,-22
+2020-21,Championship,20,Huddersfield,46,12,13,21,49,50,71,-21
+2020-21,Championship,21,Sheffield Weds,46,12,11,23,47,40,61,-21
+2020-21,Championship,22,Derby,46,11,11,24,44,36,58,-22
+2020-21,Championship,23,Wycombe,46,11,10,25,43,39,69,-30
+2020-21,Championship,24,Rotherham,46,11,9,26,42,44,60,-16
+2021-22,Championship,1,Fulham,46,27,9,10,90,106,43,+63
+2021-22,Championship,2,Bournemouth,46,25,13,8,88,74,39,+35
+2021-22,Championship,3,Huddersfield,46,23,13,10,82,64,47,+17
+2021-22,Championship,4,Nott'm Forest,46,23,11,12,80,73,40,+33
+2021-22,Championship,5,Sheffield United,46,21,12,13,75,63,45,+18
+2021-22,Championship,6,Luton,46,21,12,13,75,63,55,+8
+2021-22,Championship,7,Middlesbrough,46,20,10,16,70,59,50,+9
+2021-22,Championship,8,Blackburn,46,19,12,15,69,59,50,+9
+2021-22,Championship,9,Millwall,46,18,15,13,69,53,45,+8
+2021-22,Championship,10,West Brom,46,18,13,15,67,52,45,+7
+2021-22,Championship,11,QPR,46,19,9,18,66,60,59,+1
+2021-22,Championship,12,Coventry,46,17,13,16,64,60,59,+1
+2021-22,Championship,13,Preston,46,16,16,14,64,52,56,-4
+2021-22,Championship,14,Stoke,46,17,11,18,62,57,52,+5
+2021-22,Championship,15,Swansea,46,16,13,17,61,58,68,-10
+2021-22,Championship,16,Blackpool,46,16,12,18,60,54,58,-4
+2021-22,Championship,17,Derby,46,14,13,19,55,45,53,-8
+2021-22,Championship,18,Bristol City,46,15,10,21,55,62,77,-15
+2021-22,Championship,19,Cardiff,46,15,8,23,53,50,68,-18
+2021-22,Championship,20,Hull,46,14,9,23,51,41,54,-13
+2021-22,Championship,21,Birmingham,46,11,14,21,47,50,75,-25
+2021-22,Championship,22,Reading,46,13,8,25,47,54,87,-33
+2021-22,Championship,23,Peterboro,46,9,10,27,37,43,87,-44
+2021-22,Championship,24,Barnsley,46,6,12,28,30,33,73,-40
+2022-23,Championship,1,Burnley,46,29,14,3,101,87,35,+52
+2022-23,Championship,2,Sheffield United,46,28,7,11,91,73,39,+34
+2022-23,Championship,3,Luton,46,21,17,8,80,57,39,+18
+2022-23,Championship,4,Middlesbrough,46,22,9,15,75,84,56,+28
+2022-23,Championship,5,Coventry,46,18,16,12,70,58,46,+12
+2022-23,Championship,6,Sunderland,46,18,15,13,69,68,55,+13
+2022-23,Championship,7,Blackburn,46,20,9,17,69,52,54,-2
+2022-23,Championship,8,Millwall,46,19,11,16,68,57,50,+7
+2022-23,Championship,9,West Brom,46,18,12,16,66,59,53,+6
+2022-23,Championship,10,Swansea,46,18,12,16,66,68,64,+4
+2022-23,Championship,11,Watford,46,16,15,15,63,56,53,+3
+2022-23,Championship,12,Preston,46,17,12,17,63,45,59,-14
+2022-23,Championship,13,Norwich,46,17,11,18,62,57,54,+3
+2022-23,Championship,14,Bristol City,46,15,14,17,59,55,56,-1
+2022-23,Championship,15,Hull,46,14,16,16,58,51,61,-10
+2022-23,Championship,16,Stoke,46,14,11,21,53,55,54,+1
+2022-23,Championship,17,Birmingham,46,14,11,21,53,47,58,-11
+2022-23,Championship,18,Huddersfield,46,14,11,21,53,47,62,-15
+2022-23,Championship,19,Rotherham,46,11,17,18,50,49,60,-11
+2022-23,Championship,20,Reading,46,13,11,22,50,46,68,-22
+2022-23,Championship,21,QPR,46,13,11,22,50,44,71,-27
+2022-23,Championship,22,Cardiff,46,13,10,23,49,41,58,-17
+2022-23,Championship,23,Wigan,46,10,15,21,45,38,65,-27
+2022-23,Championship,24,Blackpool,46,11,11,24,44,48,72,-24
+2023-24,Championship,1,Leicester,46,31,4,11,97,89,41,+48
+2023-24,Championship,2,Ipswich,46,28,12,6,96,92,57,+35
+2023-24,Championship,3,Leeds,46,27,9,10,90,81,43,+38
+2023-24,Championship,4,Southampton,46,26,9,11,87,87,63,+24
+2023-24,Championship,5,West Brom,46,21,12,13,75,70,47,+23
+2023-24,Championship,6,Norwich,46,21,10,15,73,79,64,+15
+2023-24,Championship,7,Hull,46,19,13,14,70,68,60,+8
+2023-24,Championship,8,Middlesbrough,46,20,9,17,69,71,62,+9
+2023-24,Championship,9,Coventry,46,17,13,16,64,70,59,+11
+2023-24,Championship,10,Preston,46,18,9,19,63,56,67,-11
+2023-24,Championship,11,Bristol City,46,17,11,18,62,53,51,+2
+2023-24,Championship,12,Cardiff,46,19,5,22,62,53,70,-17
+2023-24,Championship,13,Millwall,46,16,11,19,59,45,55,-10
+2023-24,Championship,14,Swansea,46,15,12,19,57,59,65,-6
+2023-24,Championship,15,Watford,46,13,17,16,56,61,61,0
+2023-24,Championship,16,Sunderland,46,16,8,22,56,52,54,-2
+2023-24,Championship,17,Stoke,46,15,11,20,56,49,60,-11
+2023-24,Championship,18,QPR,46,15,11,20,56,47,58,-11
+2023-24,Championship,19,Blackburn,46,14,11,21,53,60,74,-14
+2023-24,Championship,20,Sheffield Weds,46,15,8,23,53,44,68,-24
+2023-24,Championship,21,Plymouth,46,13,12,21,51,59,70,-11
+2023-24,Championship,22,Birmingham,46,13,11,22,50,50,65,-15
+2023-24,Championship,23,Huddersfield,46,9,18,19,45,48,77,-29
+2023-24,Championship,24,Rotherham,46,5,12,29,27,37,89,-52
+2024-25,Championship,1,Leeds,46,29,13,4,100,95,30,+65
+2024-25,Championship,2,Burnley,46,28,16,2,100,69,16,+53
+2024-25,Championship,3,Sheffield United,46,28,8,10,92,63,36,+27
+2024-25,Championship,4,Sunderland,46,21,13,12,76,58,44,+14
+2024-25,Championship,5,Coventry,46,20,9,17,69,64,58,+6
+2024-25,Championship,6,Bristol City,46,17,17,12,68,59,55,+4
+2024-25,Championship,7,Blackburn,46,19,9,18,66,53,48,+5
+2024-25,Championship,8,Millwall,46,18,12,16,66,47,49,-2
+2024-25,Championship,9,West Brom,46,15,19,12,64,57,47,+10
+2024-25,Championship,10,Middlesbrough,46,18,10,18,64,64,56,+8
+2024-25,Championship,11,Swansea,46,17,10,19,61,51,56,-5
+2024-25,Championship,12,Sheffield Weds,46,15,13,18,58,60,69,-9
+2024-25,Championship,13,Norwich,46,14,15,17,57,71,68,+3
+2024-25,Championship,14,Watford,46,16,9,21,57,53,61,-8
+2024-25,Championship,15,QPR,46,14,14,18,56,53,63,-10
+2024-25,Championship,16,Portsmouth,46,14,12,20,54,58,71,-13
+2024-25,Championship,17,Oxford,46,13,14,19,53,49,65,-16
+2024-25,Championship,18,Stoke,46,12,15,19,51,45,62,-17
+2024-25,Championship,19,Derby,46,13,11,22,50,48,56,-8
+2024-25,Championship,20,Preston,46,10,20,16,50,48,59,-11
+2024-25,Championship,21,Hull,46,12,13,21,49,44,54,-10
+2024-25,Championship,22,Luton,46,13,10,23,49,45,69,-24
+2024-25,Championship,23,Plymouth,46,11,13,22,46,51,88,-37
+2024-25,Championship,24,Cardiff,46,9,17,20,44,48,73,-25
+2004-05,League One,1,Hull,31,20,6,5,66,60,29,+31
+2004-05,League One,2,Luton,30,17,8,5,59,51,34,+17
+2004-05,League One,3,Tranmere,31,16,8,7,56,56,36,+20
+2004-05,League One,4,Hartlepool,30,17,4,9,55,51,35,+16
+2004-05,League One,5,Brentford,31,16,5,10,53,41,43,-2
+2004-05,League One,6,Bournemouth,29,14,8,7,50,53,40,+13
+2004-05,League One,7,Bradford,34,13,10,11,49,49,46,+3
+2004-05,League One,8,Sheffield Weds,30,13,8,9,47,54,46,+8
+2004-05,League One,9,Swindon,34,12,11,11,47,50,46,+4
+2004-05,League One,10,Doncaster,32,11,14,7,47,44,41,+3
+2004-05,League One,11,Walsall,35,12,9,14,45,49,54,-5
+2004-05,League One,12,Bristol City,30,10,13,7,43,44,38,+6
+2004-05,League One,13,Port Vale,33,13,3,17,42,35,41,-6
+2004-05,League One,14,Barnsley,31,9,14,8,41,50,44,+6
+2004-05,League One,15,Colchester,31,10,9,12,39,45,39,+6
+2004-05,League One,16,Chesterfield,32,9,11,12,38,44,50,-6
+2004-05,League One,17,Blackpool,29,9,10,10,37,40,41,-1
+2004-05,League One,18,Huddersfield,30,10,7,13,37,44,52,-8
+2004-05,League One,19,Wrexham,30,8,11,11,35,34,48,-14
+2004-05,League One,20,Milton Keynes Dons,34,7,13,14,34,37,51,-14
+2004-05,League One,21,Oldham,30,8,7,15,31,40,49,-9
+2004-05,League One,22,Peterboro,33,5,10,18,25,38,54,-16
+2004-05,League One,23,Stockport,32,6,7,19,25,37,60,-23
+2004-05,League One,24,Torquay,30,3,10,17,19,30,59,-29
+2005-06,League One,1,Southend,46,23,13,10,82,72,43,+29
+2005-06,League One,2,Colchester,46,22,13,11,79,58,40,+18
+2005-06,League One,3,Brentford,46,20,16,10,76,72,52,+20
+2005-06,League One,4,Huddersfield,46,19,16,11,73,72,59,+13
+2005-06,League One,5,Barnsley,46,18,18,10,72,62,44,+18
+2005-06,League One,6,Swansea,46,18,17,11,71,78,55,+23
+2005-06,League One,7,Nott'm Forest,46,19,12,15,69,67,52,+15
+2005-06,League One,8,Doncaster,46,20,9,17,69,55,51,+4
+2005-06,League One,9,Bristol City,46,18,11,17,65,66,62,+4
+2005-06,League One,10,Oldham,46,18,11,17,65,58,60,-2
+2005-06,League One,11,Bradford,46,14,19,13,61,51,49,+2
+2005-06,League One,12,Scunthorpe,46,15,15,16,60,68,73,-5
+2005-06,League One,13,Port Vale,46,16,12,18,60,49,54,-5
+2005-06,League One,14,Gillingham,46,16,12,18,60,50,64,-14
+2005-06,League One,15,Yeovil,46,15,11,20,56,54,62,-8
+2005-06,League One,16,Chesterfield,46,14,14,18,56,63,73,-10
+2005-06,League One,17,Bournemouth,46,12,19,15,55,49,53,-4
+2005-06,League One,18,Tranmere,46,13,15,18,54,50,52,-2
+2005-06,League One,19,Blackpool,46,12,17,17,53,56,64,-8
+2005-06,League One,20,Rotherham,46,12,16,18,52,52,62,-10
+2005-06,League One,21,Hartlepool,46,11,17,18,50,44,59,-15
+2005-06,League One,22,Milton Keynes Dons,46,12,14,20,50,45,66,-21
+2005-06,League One,23,Swindon,46,11,15,20,48,46,65,-19
+2005-06,League One,24,Walsall,46,11,14,21,47,47,70,-23
+2006-07,League One,1,Scunthorpe,46,26,13,7,91,73,35,+38
+2006-07,League One,2,Bristol City,46,25,10,11,85,63,39,+24
+2006-07,League One,3,Blackpool,46,24,11,11,83,76,49,+27
+2006-07,League One,4,Nott'm Forest,46,23,13,10,82,65,41,+24
+2006-07,League One,5,Yeovil,46,23,10,13,79,55,39,+16
+2006-07,League One,6,Oldham,46,21,12,13,75,69,47,+22
+2006-07,League One,7,Swansea,46,20,12,14,72,69,53,+16
+2006-07,League One,8,Carlisle,46,19,11,16,68,54,55,-1
+2006-07,League One,9,Tranmere,46,18,13,15,67,58,53,+5
+2006-07,League One,10,Millwall,46,19,9,18,66,59,62,-3
+2006-07,League One,11,Doncaster,46,16,15,15,63,52,47,+5
+2006-07,League One,12,Port Vale,46,18,6,22,60,64,65,-1
+2006-07,League One,13,Crewe,46,17,9,20,60,66,72,-6
+2006-07,League One,14,Northampton,46,15,14,17,59,48,51,-3
+2006-07,League One,15,Huddersfield,46,14,17,15,59,60,69,-9
+2006-07,League One,16,Gillingham,46,17,8,21,59,56,77,-21
+2006-07,League One,17,Cheltenham,46,15,9,22,54,49,61,-12
+2006-07,League One,18,Brighton,46,14,11,21,53,49,58,-9
+2006-07,League One,19,Bournemouth,46,13,13,20,52,50,64,-14
+2006-07,League One,20,Leyton Orient,46,12,15,19,51,61,77,-16
+2006-07,League One,21,Rotherham,46,13,9,24,48,58,75,-17
+2006-07,League One,22,Chesterfield,46,12,11,23,47,45,53,-8
+2006-07,League One,23,Bradford,46,11,14,21,47,47,65,-18
+2006-07,League One,24,Brentford,46,8,13,25,37,40,79,-39
+2007-08,League One,1,Swansea,46,27,11,8,92,82,42,+40
+2007-08,League One,2,Leeds,46,27,10,9,91,72,38,+34
+2007-08,League One,3,Nott'm Forest,46,22,16,8,82,64,32,+32
+2007-08,League One,4,Doncaster,46,23,11,12,80,65,41,+24
+2007-08,League One,5,Carlisle,46,23,11,12,80,64,46,+18
+2007-08,League One,6,Southend,46,22,10,14,76,70,55,+15
+2007-08,League One,7,Brighton,46,19,12,15,69,58,50,+8
+2007-08,League One,8,Oldham,46,18,13,15,67,58,46,+12
+2007-08,League One,9,Northampton,46,17,15,14,66,60,55,+5
+2007-08,League One,10,Huddersfield,46,20,6,20,66,50,62,-12
+2007-08,League One,11,Tranmere,46,18,11,17,65,52,47,+5
+2007-08,League One,12,Walsall,46,16,16,14,64,52,46,+6
+2007-08,League One,13,Swindon,46,16,13,17,61,63,56,+7
+2007-08,League One,14,Leyton Orient,46,16,12,18,60,49,63,-14
+2007-08,League One,15,Bournemouth,46,17,7,22,58,62,72,-10
+2007-08,League One,16,Hartlepool,46,15,9,22,54,63,66,-3
+2007-08,League One,17,Bristol Rvs,46,12,17,17,53,45,53,-8
+2007-08,League One,18,Millwall,46,14,10,22,52,45,60,-15
+2007-08,League One,19,Yeovil,46,14,10,22,52,38,59,-21
+2007-08,League One,20,Cheltenham,46,13,12,21,51,42,64,-22
+2007-08,League One,21,Crewe,46,12,14,20,50,47,65,-18
+2007-08,League One,22,Gillingham,46,11,13,22,46,44,73,-29
+2007-08,League One,23,Luton,46,11,10,25,43,43,63,-20
+2007-08,League One,24,Port Vale,46,9,11,26,38,47,81,-34
+2008-09,League One,1,Leicester,46,27,15,4,96,84,39,+45
+2008-09,League One,2,Peterboro,46,26,11,9,89,78,54,+24
+2008-09,League One,3,Milton Keynes Dons,46,26,9,11,87,83,47,+36
+2008-09,League One,4,Leeds,46,26,6,14,84,77,49,+28
+2008-09,League One,5,Millwall,46,25,7,14,82,63,53,+10
+2008-09,League One,6,Scunthorpe,46,22,10,14,76,82,63,+19
+2008-09,League One,7,Tranmere,46,21,11,14,74,62,49,+13
+2008-09,League One,8,Southend,46,21,8,17,71,58,61,-3
+2008-09,League One,9,Huddersfield,46,18,14,14,68,62,65,-3
+2008-09,League One,10,Oldham,46,16,17,13,65,66,65,+1
+2008-09,League One,11,Bristol Rvs,46,17,12,17,63,79,61,+18
+2008-09,League One,12,Colchester,46,18,9,19,63,58,58,0
+2008-09,League One,13,Walsall,46,17,10,19,61,61,66,-5
+2008-09,League One,14,Stockport,46,16,12,18,60,59,57,+2
+2008-09,League One,15,Leyton Orient,46,15,11,20,56,45,57,-12
+2008-09,League One,16,Swindon,46,12,17,17,53,68,71,-3
+2008-09,League One,17,Brighton,46,13,13,20,52,55,70,-15
+2008-09,League One,18,Yeovil,46,12,15,19,51,41,66,-25
+2008-09,League One,19,Hartlepool,46,13,11,22,50,66,79,-13
+2008-09,League One,20,Carlisle,46,12,14,20,50,56,69,-13
+2008-09,League One,21,Northampton,46,12,13,21,49,61,65,-4
+2008-09,League One,22,Crewe,46,12,10,24,46,59,82,-23
+2008-09,League One,23,Cheltenham,46,9,12,25,39,51,91,-40
+2008-09,League One,24,Hereford,46,9,7,30,34,42,79,-37
+2009-10,League One,1,Norwich,46,29,8,9,95,89,47,+42
+2009-10,League One,2,Leeds,46,25,11,10,86,77,44,+33
+2009-10,League One,3,Millwall,46,24,13,9,85,76,44,+32
+2009-10,League One,4,Charlton,46,23,15,8,84,71,48,+23
+2009-10,League One,5,Southampton,46,23,14,9,83,85,47,+38
+2009-10,League One,6,Swindon,46,22,16,8,82,73,57,+16
+2009-10,League One,7,Huddersfield,46,23,11,12,80,82,56,+26
+2009-10,League One,8,Colchester,46,20,12,14,72,64,52,+12
+2009-10,League One,9,Brentford,46,14,20,12,62,55,52,+3
+2009-10,League One,10,Walsall,46,16,14,16,62,60,63,-3
+2009-10,League One,11,Bristol Rvs,46,19,5,22,62,59,70,-11
+2009-10,League One,12,Milton Keynes Dons,46,17,9,20,60,60,68,-8
+2009-10,League One,13,Brighton,46,15,14,17,59,56,60,-4
+2009-10,League One,14,Carlisle,46,15,13,18,58,63,66,-3
+2009-10,League One,15,Yeovil,46,13,14,19,53,55,59,-4
+2009-10,League One,16,Hartlepool,46,14,11,21,53,59,67,-8
+2009-10,League One,17,Oldham,46,13,13,20,52,39,57,-18
+2009-10,League One,18,Leyton Orient,46,13,12,21,51,53,63,-10
+2009-10,League One,19,Exeter,46,11,18,17,51,48,60,-12
+2009-10,League One,20,Tranmere,46,14,9,23,51,45,72,-27
+2009-10,League One,21,Gillingham,46,12,14,20,50,48,64,-16
+2009-10,League One,22,Wycombe,46,10,15,21,45,56,76,-20
+2009-10,League One,23,Southend,46,10,13,23,43,51,72,-21
+2009-10,League One,24,Stockport,46,5,10,31,25,35,95,-60
+2010-11,League One,1,Brighton,46,28,11,7,95,85,40,+45
+2010-11,League One,2,Southampton,46,28,8,10,92,86,38,+48
+2010-11,League One,3,Huddersfield,46,25,12,9,87,77,48,+29
+2010-11,League One,4,Peterboro,46,23,10,13,79,106,75,+31
+2010-11,League One,5,Milton Keynes Dons,46,23,8,15,77,67,60,+7
+2010-11,League One,6,Bournemouth,46,19,14,13,71,75,54,+21
+2010-11,League One,7,Leyton Orient,46,19,13,14,70,71,62,+9
+2010-11,League One,8,Exeter,46,20,10,16,70,66,73,-7
+2010-11,League One,9,Rochdale,46,18,14,14,68,63,55,+8
+2010-11,League One,10,Colchester,46,16,14,16,62,57,63,-6
+2010-11,League One,11,Brentford,46,17,10,19,61,55,62,-7
+2010-11,League One,12,Carlisle,46,16,11,19,59,60,62,-2
+2010-11,League One,13,Charlton,46,15,14,17,59,62,66,-4
+2010-11,League One,14,Yeovil,46,16,11,19,59,56,66,-10
+2010-11,League One,15,Sheffield Weds,46,16,10,20,58,67,67,0
+2010-11,League One,16,Hartlepool,46,15,12,19,57,47,65,-18
+2010-11,League One,17,Oldham,46,13,17,16,56,53,60,-7
+2010-11,League One,18,Tranmere,46,15,11,20,56,53,60,-7
+2010-11,League One,19,Plymouth,46,15,7,24,52,51,74,-23
+2010-11,League One,20,Notts County,46,14,8,24,50,46,60,-14
+2010-11,League One,21,Walsall,46,12,12,22,48,56,75,-19
+2010-11,League One,22,Dag and Red,46,12,11,23,47,52,70,-18
+2010-11,League One,23,Bristol Rvs,46,11,12,23,45,48,82,-34
+2010-11,League One,24,Swindon,46,9,14,23,41,50,72,-22
+2011-12,League One,1,Charlton,46,30,11,5,101,82,36,+46
+2011-12,League One,2,Sheffield Weds,46,28,9,9,93,81,48,+33
+2011-12,League One,3,Sheffield United,46,27,9,10,90,92,51,+41
+2011-12,League One,4,Huddersfield,46,21,18,7,81,79,47,+32
+2011-12,League One,5,Milton Keynes Dons,46,22,14,10,80,84,47,+37
+2011-12,League One,6,Stevenage,46,18,19,9,73,69,44,+25
+2011-12,League One,7,Notts County,46,21,10,15,73,75,63,+12
+2011-12,League One,8,Carlisle,46,18,15,13,69,65,66,-1
+2011-12,League One,9,Brentford,46,18,13,15,67,63,52,+11
+2011-12,League One,10,Colchester,46,13,20,13,59,61,66,-5
+2011-12,League One,11,Bournemouth,46,15,13,18,58,48,52,-4
+2011-12,League One,12,Tranmere,46,14,14,18,56,49,53,-4
+2011-12,League One,13,Hartlepool,46,14,14,18,56,50,55,-5
+2011-12,League One,14,Bury,46,15,11,20,56,60,79,-19
+2011-12,League One,15,Preston,46,13,15,18,54,54,68,-14
+2011-12,League One,16,Oldham,46,14,12,20,54,50,66,-16
+2011-12,League One,17,Yeovil,46,14,12,20,54,59,80,-21
+2011-12,League One,18,Scunthorpe,46,10,22,14,52,55,59,-4
+2011-12,League One,19,Walsall,46,10,20,16,50,51,57,-6
+2011-12,League One,20,Leyton Orient,46,13,11,22,50,48,75,-27
+2011-12,League One,21,Wycombe,46,11,10,25,43,65,88,-23
+2011-12,League One,22,Chesterfield,46,10,12,24,42,56,81,-25
+2011-12,League One,23,Exeter,46,10,12,24,42,46,75,-29
+2011-12,League One,24,Rochdale,46,8,14,24,38,47,81,-34
+2012-13,League One,1,Doncaster,46,25,9,12,84,62,44,+18
+2012-13,League One,2,Bournemouth,46,24,11,11,83,76,53,+23
+2012-13,League One,3,Brentford,46,21,16,9,79,62,47,+15
+2012-13,League One,4,Yeovil,46,23,8,15,77,71,56,+15
+2012-13,League One,5,Sheffield United,46,19,18,9,75,56,42,+14
+2012-13,League One,6,Swindon,46,20,14,12,74,72,39,+33
+2012-13,League One,7,Leyton Orient,46,21,8,17,71,55,48,+7
+2012-13,League One,8,Milton Keynes Dons,46,19,13,14,70,62,45,+17
+2012-13,League One,9,Walsall,46,17,17,12,68,65,58,+7
+2012-13,League One,10,Crawley Town,46,18,14,14,68,59,58,+1
+2012-13,League One,11,Tranmere,46,19,10,17,67,58,48,+10
+2012-13,League One,12,Notts County,46,16,17,13,65,61,49,+12
+2012-13,League One,13,Coventry,46,18,11,17,65,66,59,+7
+2012-13,League One,14,Crewe,46,18,10,18,64,54,62,-8
+2012-13,League One,15,Preston,46,14,17,15,59,54,49,+5
+2012-13,League One,16,Shrewsbury,46,13,16,17,55,54,59,-5
+2012-13,League One,17,Carlisle,46,14,13,19,55,56,77,-21
+2012-13,League One,18,Stevenage,46,15,9,22,54,47,64,-17
+2012-13,League One,19,Oldham,46,14,9,23,51,46,59,-13
+2012-13,League One,20,Colchester,46,14,9,23,51,47,68,-21
+2012-13,League One,21,Scunthorpe,46,13,9,24,48,49,73,-24
+2012-13,League One,22,Portsmouth,46,10,12,24,42,50,69,-19
+2012-13,League One,23,Bury,46,9,14,23,41,45,73,-28
+2012-13,League One,24,Hartlepool,46,9,14,23,41,39,67,-28
+2013-14,League One,1,Wolves,46,31,10,5,103,89,31,+58
+2013-14,League One,2,Brentford,46,28,10,8,94,72,43,+29
+2013-14,League One,3,Leyton Orient,46,25,11,10,86,85,45,+40
+2013-14,League One,4,Rotherham,46,24,14,8,86,86,58,+28
+2013-14,League One,5,Preston,46,23,16,7,85,72,46,+26
+2013-14,League One,6,Peterboro,46,23,5,18,74,72,58,+14
+2013-14,League One,7,Sheffield United,46,18,13,15,67,48,46,+2
+2013-14,League One,8,Swindon,46,19,9,18,66,63,59,+4
+2013-14,League One,9,Coventry,46,16,13,17,61,74,77,-3
+2013-14,League One,10,Port Vale,46,18,7,21,61,59,73,-14
+2013-14,League One,11,Milton Keynes Dons,46,17,9,20,60,63,65,-2
+2013-14,League One,12,Bradford,46,14,17,15,59,57,54,+3
+2013-14,League One,13,Bristol City,46,13,19,14,58,70,67,+3
+2013-14,League One,14,Walsall,46,14,16,16,58,49,49,0
+2013-14,League One,15,Crawley Town,46,14,15,17,57,48,54,-6
+2013-14,League One,16,Oldham,46,14,14,18,56,50,59,-9
+2013-14,League One,17,Colchester,46,13,14,19,53,53,61,-8
+2013-14,League One,18,Gillingham,46,15,8,23,53,60,79,-19
+2013-14,League One,19,Crewe,46,13,12,21,51,54,80,-26
+2013-14,League One,20,Notts County,46,15,5,26,50,64,77,-13
+2013-14,League One,21,Tranmere,46,12,11,23,47,52,79,-27
+2013-14,League One,22,Carlisle,46,11,12,23,45,43,76,-33
+2013-14,League One,23,Shrewsbury,46,9,15,22,42,44,65,-21
+2013-14,League One,24,Stevenage,46,11,9,26,42,46,72,-26
+2014-15,League One,1,Bristol City,46,29,12,5,99,96,38,+58
+2014-15,League One,2,Milton Keynes Dons,46,27,10,9,91,101,44,+57
+2014-15,League One,3,Preston,46,25,14,7,89,79,40,+39
+2014-15,League One,4,Swindon,46,23,10,13,79,76,57,+19
+2014-15,League One,5,Sheffield United,46,19,14,13,71,66,53,+13
+2014-15,League One,6,Chesterfield,46,19,12,15,69,68,55,+13
+2014-15,League One,7,Bradford,46,17,14,15,65,55,55,0
+2014-15,League One,8,Rochdale,46,19,6,21,63,72,66,+6
+2014-15,League One,9,Peterboro,46,18,9,19,63,53,56,-3
+2014-15,League One,10,Fleetwood Town,46,17,12,17,63,49,52,-3
+2014-15,League One,11,Barnsley,46,17,11,18,62,62,61,+1
+2014-15,League One,12,Gillingham,46,16,14,16,62,65,66,-1
+2014-15,League One,13,Doncaster,46,16,13,17,61,58,62,-4
+2014-15,League One,14,Walsall,46,14,17,15,59,50,54,-4
+2014-15,League One,15,Oldham,46,14,15,17,57,54,67,-13
+2014-15,League One,16,Scunthorpe,46,14,14,18,56,62,75,-13
+2014-15,League One,17,Coventry,46,13,16,17,55,49,60,-11
+2014-15,League One,18,Port Vale,46,15,9,22,54,55,65,-10
+2014-15,League One,19,Colchester,46,14,10,22,52,58,77,-19
+2014-15,League One,20,Crewe,46,14,10,22,52,43,75,-32
+2014-15,League One,21,Notts County,46,12,14,20,50,45,63,-18
+2014-15,League One,22,Crawley Town,46,13,11,22,50,53,79,-26
+2014-15,League One,23,Leyton Orient,46,12,13,21,49,59,69,-10
+2014-15,League One,24,Yeovil,46,10,10,26,40,36,75,-39
+2015-16,League One,1,Wigan,46,24,15,7,87,82,45,+37
+2015-16,League One,2,Burton,46,25,10,11,85,57,37,+20
+2015-16,League One,3,Walsall,46,24,12,10,84,71,49,+22
+2015-16,League One,4,Millwall,46,24,9,13,81,73,49,+24
+2015-16,League One,5,Bradford,46,23,11,12,80,55,40,+15
+2015-16,League One,6,Barnsley,46,22,8,16,74,70,54,+16
+2015-16,League One,7,Scunthorpe,46,21,11,14,74,60,47,+13
+2015-16,League One,8,Coventry,46,19,12,15,69,67,49,+18
+2015-16,League One,9,Gillingham,46,19,12,15,69,71,56,+15
+2015-16,League One,10,Rochdale,46,19,12,15,69,68,61,+7
+2015-16,League One,11,Sheffield United,46,18,12,16,66,64,59,+5
+2015-16,League One,12,Port Vale,46,18,11,17,65,56,58,-2
+2015-16,League One,13,Peterboro,46,19,6,21,63,82,73,+9
+2015-16,League One,14,Bury,46,16,12,18,60,56,73,-17
+2015-16,League One,15,Southend,46,16,11,19,59,58,64,-6
+2015-16,League One,16,Swindon,46,16,11,19,59,64,71,-7
+2015-16,League One,17,Oldham,46,12,18,16,54,44,58,-14
+2015-16,League One,18,Chesterfield,46,15,8,23,53,58,70,-12
+2015-16,League One,19,Fleetwood Town,46,12,15,19,51,52,56,-4
+2015-16,League One,20,Shrewsbury,46,13,11,22,50,58,79,-21
+2015-16,League One,21,Doncaster,46,11,13,22,46,48,64,-16
+2015-16,League One,22,Blackpool,46,12,10,24,46,40,63,-23
+2015-16,League One,23,Colchester,46,9,13,24,40,57,99,-42
+2015-16,League One,24,Crewe,46,7,13,26,34,46,83,-37
+2016-17,League One,1,Sheffield United,46,30,10,6,100,92,47,+45
+2016-17,League One,2,Bolton,46,25,11,10,86,68,36,+32
+2016-17,League One,3,Scunthorpe,46,24,10,12,82,80,54,+26
+2016-17,League One,4,Fleetwood Town,46,23,13,10,82,64,43,+21
+2016-17,League One,5,Bradford,46,20,19,7,79,62,43,+19
+2016-17,League One,6,Millwall,46,20,13,13,73,66,57,+9
+2016-17,League One,7,Southend,46,20,12,14,72,70,53,+17
+2016-17,League One,8,Oxford,46,20,9,17,69,65,52,+13
+2016-17,League One,9,Rochdale,46,19,12,15,69,71,62,+9
+2016-17,League One,10,Bristol Rvs,46,18,12,16,66,68,70,-2
+2016-17,League One,11,Peterboro,46,17,11,18,62,62,62,0
+2016-17,League One,12,Milton Keynes Dons,46,16,13,17,61,60,58,+2
+2016-17,League One,13,Charlton,46,14,18,14,60,60,53,+7
+2016-17,League One,14,Walsall,46,14,16,16,58,51,58,-7
+2016-17,League One,15,AFC Wimbledon,46,13,18,15,57,52,55,-3
+2016-17,League One,16,Northampton,46,14,11,21,53,60,73,-13
+2016-17,League One,17,Oldham,46,12,17,17,53,31,44,-13
+2016-17,League One,18,Shrewsbury,46,13,12,21,51,46,63,-17
+2016-17,League One,19,Bury,46,13,11,22,50,61,73,-12
+2016-17,League One,20,Gillingham,46,12,14,20,50,59,79,-20
+2016-17,League One,21,Port Vale,46,12,13,21,49,45,70,-25
+2016-17,League One,22,Swindon,46,11,11,24,44,44,66,-22
+2016-17,League One,23,Coventry,46,9,12,25,39,37,68,-31
+2016-17,League One,24,Chesterfield,46,9,10,27,37,43,78,-35
+2017-18,League One,1,Wigan,46,29,11,6,98,89,29,+60
+2017-18,League One,2,Blackburn,46,28,12,6,96,82,40,+42
+2017-18,League One,3,Shrewsbury,46,25,12,9,87,60,39,+21
+2017-18,League One,4,Rotherham,46,24,7,15,79,73,53,+20
+2017-18,League One,5,Scunthorpe,46,19,17,10,74,65,50,+15
+2017-18,League One,6,Charlton,46,20,11,15,71,58,51,+7
+2017-18,League One,7,Plymouth,46,19,11,16,68,58,59,-1
+2017-18,League One,8,Portsmouth,46,20,6,20,66,57,56,+1
+2017-18,League One,9,Peterboro,46,17,13,16,64,68,60,+8
+2017-18,League One,10,Southend,46,17,12,17,63,58,62,-4
+2017-18,League One,11,Bradford,46,18,9,19,63,57,67,-10
+2017-18,League One,12,Blackpool,46,15,15,16,60,60,55,+5
+2017-18,League One,13,Bristol Rvs,46,16,11,19,59,60,66,-6
+2017-18,League One,14,Fleetwood Town,46,16,9,21,57,59,68,-9
+2017-18,League One,15,Doncaster,46,13,17,16,56,52,52,0
+2017-18,League One,16,Oxford,46,15,11,20,56,61,66,-5
+2017-18,League One,17,Gillingham,46,13,17,16,56,50,55,-5
+2017-18,League One,18,AFC Wimbledon,46,13,14,19,53,47,58,-11
+2017-18,League One,19,Walsall,46,13,13,20,52,53,66,-13
+2017-18,League One,20,Rochdale,46,11,18,17,51,49,57,-8
+2017-18,League One,21,Oldham,46,11,17,18,50,58,75,-17
+2017-18,League One,22,Northampton,46,12,11,23,47,43,77,-34
+2017-18,League One,23,Milton Keynes Dons,46,11,12,23,45,43,69,-26
+2017-18,League One,24,Bury,46,8,12,26,36,41,71,-30
+2018-19,League One,1,Luton,46,27,13,6,94,90,42,+48
+2018-19,League One,2,Barnsley,46,26,13,7,91,80,39,+41
+2018-19,League One,3,Charlton,46,26,10,10,88,73,40,+33
+2018-19,League One,4,Portsmouth,46,25,13,8,88,83,51,+32
+2018-19,League One,5,Sunderland,46,22,19,5,85,80,47,+33
+2018-19,League One,6,Doncaster,46,20,13,13,73,76,58,+18
+2018-19,League One,7,Peterboro,46,20,12,14,72,71,62,+9
+2018-19,League One,8,Coventry,46,18,11,17,65,54,54,0
+2018-19,League One,9,Burton,46,17,12,17,63,66,57,+9
+2018-19,League One,10,Blackpool,46,15,17,14,62,50,52,-2
+2018-19,League One,11,Fleetwood Town,46,16,13,17,61,58,52,+6
+2018-19,League One,12,Oxford,46,15,15,16,60,58,64,-6
+2018-19,League One,13,Gillingham,46,15,10,21,55,61,72,-11
+2018-19,League One,14,Accrington,46,14,13,19,55,51,67,-16
+2018-19,League One,15,Bristol Rvs,46,13,15,18,54,47,50,-3
+2018-19,League One,16,Rochdale,46,15,9,22,54,54,87,-33
+2018-19,League One,17,Wycombe,46,14,11,21,53,55,67,-12
+2018-19,League One,18,Shrewsbury,46,12,16,18,52,51,59,-8
+2018-19,League One,19,Southend,46,14,8,24,50,55,68,-13
+2018-19,League One,20,AFC Wimbledon,46,13,11,22,50,42,63,-21
+2018-19,League One,21,Plymouth,46,13,11,22,50,56,80,-24
+2018-19,League One,22,Walsall,46,12,11,23,47,49,71,-22
+2018-19,League One,23,Scunthorpe,46,12,10,24,46,53,83,-30
+2018-19,League One,24,Bradford,46,11,8,27,41,49,77,-28
+2020-21,League One,1,Hull,46,27,8,11,89,80,38,+42
+2020-21,League One,2,Peterboro,46,26,9,11,87,83,46,+37
+2020-21,League One,3,Blackpool,46,23,11,12,80,60,37,+23
+2020-21,League One,4,Sunderland,46,20,17,9,77,70,42,+28
+2020-21,League One,5,Lincoln,46,22,11,13,77,69,50,+19
+2020-21,League One,6,Oxford,46,22,8,16,74,77,56,+21
+2020-21,League One,7,Charlton,46,20,14,12,74,70,56,+14
+2020-21,League One,8,Portsmouth,46,21,9,16,72,65,51,+14
+2020-21,League One,9,Ipswich,46,19,12,15,69,46,46,0
+2020-21,League One,10,Gillingham,46,19,10,17,67,63,60,+3
+2020-21,League One,11,Accrington,46,18,13,15,67,63,68,-5
+2020-21,League One,12,Crewe,46,18,12,16,66,56,61,-5
+2020-21,League One,13,Milton Keynes Dons,46,18,11,17,65,64,62,+2
+2020-21,League One,14,Doncaster,46,19,7,20,64,63,67,-4
+2020-21,League One,15,Fleetwood Town,46,16,12,18,60,49,46,+3
+2020-21,League One,16,Burton,46,15,12,19,57,61,73,-12
+2020-21,League One,17,Shrewsbury,46,13,15,18,54,50,57,-7
+2020-21,League One,18,Plymouth,46,14,11,21,53,53,80,-27
+2020-21,League One,19,AFC Wimbledon,46,12,15,19,51,54,70,-16
+2020-21,League One,20,Wigan,46,13,9,24,48,54,77,-23
+2020-21,League One,21,Rochdale,46,11,14,21,47,61,78,-17
+2020-21,League One,22,Northampton,46,11,12,23,45,41,67,-26
+2020-21,League One,23,Swindon,46,13,4,29,43,55,89,-34
+2020-21,League One,24,Bristol Rvs,46,10,8,28,38,40,70,-30
+2021-22,League One,1,Wigan,46,27,11,8,92,82,44,+38
+2021-22,League One,2,Rotherham,46,27,9,10,90,70,33,+37
+2021-22,League One,3,Milton Keynes Dons,46,26,11,9,89,78,44,+34
+2021-22,League One,4,Sheffield Weds,46,24,13,9,85,78,50,+28
+2021-22,League One,5,Sunderland,46,24,12,10,84,79,53,+26
+2021-22,League One,6,Wycombe,46,23,14,9,83,75,51,+24
+2021-22,League One,7,Plymouth,46,23,11,12,80,68,48,+20
+2021-22,League One,8,Oxford,46,22,10,14,76,82,59,+23
+2021-22,League One,9,Bolton,46,21,10,15,73,74,57,+17
+2021-22,League One,10,Portsmouth,46,20,13,13,73,68,51,+17
+2021-22,League One,11,Ipswich,46,18,16,12,70,67,46,+21
+2021-22,League One,12,Accrington,46,17,10,19,61,61,80,-19
+2021-22,League One,13,Charlton,46,17,8,21,59,55,59,-4
+2021-22,League One,14,Cambridge,46,15,13,18,58,56,74,-18
+2021-22,League One,15,Cheltenham,46,13,17,16,56,66,80,-14
+2021-22,League One,16,Burton,46,14,11,21,53,51,67,-16
+2021-22,League One,17,Lincoln,46,14,10,22,52,55,63,-8
+2021-22,League One,18,Shrewsbury,46,12,14,20,50,47,51,-4
+2021-22,League One,19,Morecambe,46,10,12,24,42,57,88,-31
+2021-22,League One,20,Fleetwood Town,46,8,16,22,40,62,82,-20
+2021-22,League One,21,Gillingham,46,8,16,22,40,35,69,-34
+2021-22,League One,22,Doncaster,46,10,8,28,38,37,82,-45
+2021-22,League One,23,AFC Wimbledon,46,6,19,21,37,49,75,-26
+2021-22,League One,24,Crewe,46,7,8,31,29,37,83,-46
+2022-23,League One,1,Plymouth,46,31,8,7,101,82,47,+35
+2022-23,League One,2,Ipswich,46,28,14,4,98,101,35,+66
+2022-23,League One,3,Sheffield Weds,46,28,12,6,96,81,37,+44
+2022-23,League One,4,Barnsley,46,26,8,12,86,80,47,+33
+2022-23,League One,5,Bolton,46,23,12,11,81,62,36,+26
+2022-23,League One,6,Peterboro,46,24,5,17,77,75,54,+21
+2022-23,League One,7,Derby,46,21,13,12,76,67,46,+21
+2022-23,League One,8,Portsmouth,46,17,19,10,70,61,50,+11
+2022-23,League One,9,Wycombe,46,20,9,17,69,59,51,+8
+2022-23,League One,10,Charlton,46,16,14,16,62,70,66,+4
+2022-23,League One,11,Lincoln,46,14,20,12,62,47,47,0
+2022-23,League One,12,Shrewsbury,46,17,8,21,59,52,61,-9
+2022-23,League One,13,Fleetwood Town,46,14,16,16,58,53,51,+2
+2022-23,League One,14,Exeter,46,15,11,20,56,64,68,-4
+2022-23,League One,15,Burton,46,15,11,20,56,57,79,-22
+2022-23,League One,16,Cheltenham,46,14,12,20,54,45,61,-16
+2022-23,League One,17,Bristol Rvs,46,14,11,21,53,58,73,-15
+2022-23,League One,18,Port Vale,46,13,10,23,49,48,71,-23
+2022-23,League One,19,Oxford,46,11,14,21,47,49,56,-7
+2022-23,League One,20,Cambridge,46,13,7,26,46,41,68,-27
+2022-23,League One,21,Milton Keynes Dons,46,11,12,23,45,44,66,-22
+2022-23,League One,22,Morecambe,46,10,14,22,44,47,78,-31
+2022-23,League One,23,Accrington,46,11,11,24,44,40,77,-37
+2022-23,League One,24,Forest Green,46,6,9,31,27,31,89,-58
+2023-24,League One,1,Portsmouth,46,28,13,5,97,78,41,+37
+2023-24,League One,2,Derby,46,28,8,10,92,78,37,+41
+2023-24,League One,3,Bolton,46,25,12,9,87,86,51,+35
+2023-24,League One,4,Peterboro,46,25,9,12,84,89,61,+28
+2023-24,League One,5,Oxford,46,22,11,13,77,79,56,+23
+2023-24,League One,6,Barnsley,46,21,13,12,76,82,64,+18
+2023-24,League One,7,Lincoln,46,20,14,12,74,65,40,+25
+2023-24,League One,8,Blackpool,46,21,10,15,73,65,48,+17
+2023-24,League One,9,Stevenage,46,19,14,13,71,57,46,+11
+2023-24,League One,10,Wigan,46,20,10,16,70,63,56,+7
+2023-24,League One,11,Wycombe,46,17,14,15,65,60,55,+5
+2023-24,League One,12,Leyton Orient,46,18,11,17,65,53,55,-2
+2023-24,League One,13,Exeter,46,17,10,19,61,46,61,-15
+2023-24,League One,14,Northampton,46,17,9,20,60,57,66,-9
+2023-24,League One,15,Reading,46,16,11,19,59,68,70,-2
+2023-24,League One,16,Bristol Rvs,46,16,9,21,57,52,68,-16
+2023-24,League One,17,Charlton,46,11,20,15,53,64,65,-1
+2023-24,League One,18,Cambridge,46,12,12,22,48,39,61,-22
+2023-24,League One,19,Shrewsbury,46,13,9,24,48,35,67,-32
+2023-24,League One,20,Burton,46,12,10,24,46,39,67,-28
+2023-24,League One,21,Cheltenham,46,12,8,26,44,41,65,-24
+2023-24,League One,22,Fleetwood Town,46,10,13,23,43,49,72,-23
+2023-24,League One,23,Port Vale,46,10,11,25,41,41,74,-33
+2023-24,League One,24,Carlisle,46,7,9,30,30,41,81,-40
+2024-25,League One,1,Birmingham,46,34,9,3,111,84,31,+53
+2024-25,League One,2,Wrexham,46,27,11,8,92,67,34,+33
+2024-25,League One,3,Stockport,46,25,12,9,87,72,42,+30
+2024-25,League One,4,Charlton,46,25,10,11,85,67,43,+24
+2024-25,League One,5,Wycombe,46,24,12,10,84,70,45,+25
+2024-25,League One,6,Leyton Orient,46,24,6,16,78,72,48,+24
+2024-25,League One,7,Reading,46,21,12,13,75,68,57,+11
+2024-25,League One,8,Bolton,46,20,8,18,68,67,70,-3
+2024-25,League One,9,Blackpool,46,17,16,13,67,72,60,+12
+2024-25,League One,10,Huddersfield,46,19,7,20,64,58,55,+3
+2024-25,League One,11,Lincoln,46,16,13,17,61,64,56,+8
+2024-25,League One,12,Barnsley,46,17,10,19,61,69,73,-4
+2024-25,League One,13,Rotherham,46,16,11,19,59,54,59,-5
+2024-25,League One,14,Stevenage,46,15,12,19,57,42,50,-8
+2024-25,League One,15,Wigan,46,13,17,16,56,40,42,-2
+2024-25,League One,16,Exeter,46,15,11,20,56,49,65,-16
+2024-25,League One,17,Mansfield,46,15,9,22,54,60,73,-13
+2024-25,League One,18,Peterboro,46,13,12,21,51,68,81,-13
+2024-25,League One,19,Northampton,46,12,15,19,51,48,66,-18
+2024-25,League One,20,Burton,46,11,14,21,47,49,66,-17
+2024-25,League One,21,Crawley Town,46,12,10,24,46,57,83,-26
+2024-25,League One,22,Bristol Rvs,46,12,7,27,43,44,76,-32
+2024-25,League One,23,Cambridge,46,9,11,26,38,45,73,-28
+2024-25,League One,24,Shrewsbury,46,8,9,29,33,41,79,-38
+2004-05,League Two,1,Yeovil,37,21,7,9,70,79,52,+27
+2004-05,League Two,2,Scunthorpe,36,18,10,8,64,59,36,+23
+2004-05,League Two,3,Southend,39,18,9,12,63,51,43,+8
+2004-05,League Two,4,Swansea,35,18,6,11,60,45,33,+12
+2004-05,League Two,5,Macclesfield,37,18,6,13,60,50,42,+8
+2004-05,League Two,6,Darlington,36,15,11,10,56,45,36,+9
+2004-05,League Two,7,Northampton,34,16,7,11,55,46,37,+9
+2004-05,League Two,8,Leyton Orient,38,14,13,11,55,52,50,+2
+2004-05,League Two,9,Lincoln,37,14,12,11,54,45,37,+8
+2004-05,League Two,10,Grimsby,36,13,14,9,53,47,36,+11
+2004-05,League Two,11,Oxford,37,15,8,14,53,42,45,-3
+2004-05,League Two,12,Wycombe,38,13,13,12,52,46,43,+3
+2004-05,League Two,13,Rochdale,36,12,14,10,50,45,40,+5
+2004-05,League Two,14,Bristol Rvs,36,10,18,8,48,46,42,+4
+2004-05,League Two,15,Bury,37,11,13,13,46,45,46,-1
+2004-05,League Two,16,Mansfield,37,11,12,14,45,47,51,-4
+2004-05,League Two,17,Boston,34,11,11,12,44,48,44,+4
+2004-05,League Two,18,Cheltenham,37,11,11,15,44,37,45,-8
+2004-05,League Two,19,Rushden & D,37,9,12,16,39,36,48,-12
+2004-05,League Two,20,Chester,36,9,12,15,39,33,56,-23
+2004-05,League Two,21,Shrewsbury,36,8,12,16,36,38,43,-5
+2004-05,League Two,22,Notts County,38,8,12,18,36,35,57,-22
+2004-05,League Two,23,Cambridge,38,7,14,17,35,32,49,-17
+2004-05,League Two,24,Kidderminster,38,8,7,23,31,34,72,-38
+2005-06,League Two,1,Carlisle,46,25,11,10,86,84,42,+42
+2005-06,League Two,2,Northampton,46,22,17,7,83,63,37,+26
+2005-06,League Two,3,Leyton Orient,46,22,15,9,81,67,51,+16
+2005-06,League Two,4,Grimsby,46,22,12,12,78,64,44,+20
+2005-06,League Two,5,Cheltenham,46,19,15,12,72,65,53,+12
+2005-06,League Two,6,Wycombe,46,18,17,11,71,72,56,+16
+2005-06,League Two,7,Lincoln,46,15,21,10,66,65,53,+12
+2005-06,League Two,8,Darlington,46,16,15,15,63,58,52,+6
+2005-06,League Two,9,Peterboro,46,17,11,18,62,57,49,+8
+2005-06,League Two,10,Shrewsbury,46,16,13,17,61,55,55,0
+2005-06,League Two,11,Boston,46,15,16,15,61,50,60,-10
+2005-06,League Two,12,Bristol Rvs,46,17,9,20,60,59,67,-8
+2005-06,League Two,13,Wrexham,46,15,14,17,59,61,54,+7
+2005-06,League Two,14,Rochdale,46,14,14,18,56,66,69,-3
+2005-06,League Two,15,Chester,46,14,12,20,54,53,59,-6
+2005-06,League Two,16,Mansfield,46,13,15,18,54,59,66,-7
+2005-06,League Two,17,Macclesfield,46,12,18,16,54,60,71,-11
+2005-06,League Two,18,Barnet,46,12,18,16,54,44,57,-13
+2005-06,League Two,19,Bury,46,12,17,17,53,45,57,-12
+2005-06,League Two,20,Torquay,46,13,13,20,52,53,66,-13
+2005-06,League Two,21,Notts County,46,12,16,18,52,48,63,-15
+2005-06,League Two,22,Stockport,46,11,19,16,52,57,78,-21
+2005-06,League Two,23,Oxford,46,11,16,19,49,43,57,-14
+2005-06,League Two,24,Rushden & D,46,11,12,23,45,44,76,-32
+2006-07,League Two,1,Walsall,46,25,14,7,89,66,34,+32
+2006-07,League Two,2,Hartlepool,46,26,10,10,88,65,40,+25
+2006-07,League Two,3,Swindon,46,25,10,11,85,58,38,+20
+2006-07,League Two,4,Milton Keynes Dons,46,25,9,12,84,76,58,+18
+2006-07,League Two,5,Lincoln,46,21,11,14,74,70,59,+11
+2006-07,League Two,6,Bristol Rvs,46,20,12,14,72,49,42,+7
+2006-07,League Two,7,Shrewsbury,46,18,17,11,71,68,46,+22
+2006-07,League Two,8,Stockport,46,21,8,17,71,65,54,+11
+2006-07,League Two,9,Rochdale,46,18,12,16,66,70,50,+20
+2006-07,League Two,10,Peterboro,46,18,11,17,65,70,61,+9
+2006-07,League Two,11,Darlington,46,17,14,15,65,52,56,-4
+2006-07,League Two,12,Wycombe,46,16,14,16,62,52,47,+5
+2006-07,League Two,13,Notts County,46,16,14,16,62,55,53,+2
+2006-07,League Two,14,Barnet,46,16,11,19,59,55,70,-15
+2006-07,League Two,15,Grimsby,46,17,8,21,59,57,73,-16
+2006-07,League Two,16,Hereford,46,14,13,19,55,45,53,-8
+2006-07,League Two,17,Mansfield,46,14,12,20,54,58,63,-5
+2006-07,League Two,18,Chester,46,13,14,19,53,40,48,-8
+2006-07,League Two,19,Wrexham,46,13,12,21,51,43,65,-22
+2006-07,League Two,20,Accrington,46,13,11,22,50,70,81,-11
+2006-07,League Two,21,Bury,46,13,11,22,50,46,61,-15
+2006-07,League Two,22,Macclesfield,46,12,12,22,48,55,77,-22
+2006-07,League Two,23,Boston,46,12,10,24,46,51,80,-29
+2006-07,League Two,24,Torquay,46,7,14,25,35,36,63,-27
+2007-08,League Two,1,Milton Keynes Dons,46,29,10,7,97,82,37,+45
+2007-08,League Two,2,Peterboro,46,28,8,10,92,84,43,+41
+2007-08,League Two,3,Hereford,46,26,10,10,88,72,41,+31
+2007-08,League Two,4,Stockport,46,24,10,12,82,72,54,+18
+2007-08,League Two,5,Rochdale,46,23,11,12,80,77,54,+23
+2007-08,League Two,6,Darlington,46,22,12,12,78,67,40,+27
+2007-08,League Two,7,Wycombe,46,22,12,12,78,56,42,+14
+2007-08,League Two,8,Rotherham,46,21,11,14,74,62,58,+4
+2007-08,League Two,9,Chesterfield,46,19,12,15,69,76,56,+20
+2007-08,League Two,10,Bradford,46,17,11,18,62,63,61,+2
+2007-08,League Two,11,Morecambe,46,16,12,18,60,59,63,-4
+2007-08,League Two,12,Barnet,46,16,12,18,60,56,63,-7
+2007-08,League Two,13,Bury,46,16,11,19,59,58,61,-3
+2007-08,League Two,14,Brentford,46,17,8,21,59,52,70,-18
+2007-08,League Two,15,Lincoln,46,18,4,24,58,61,77,-16
+2007-08,League Two,16,Grimsby,46,15,10,21,55,55,66,-11
+2007-08,League Two,17,Accrington,46,16,3,27,51,49,83,-34
+2007-08,League Two,18,Shrewsbury,46,12,14,20,50,56,65,-9
+2007-08,League Two,19,Macclesfield,46,11,17,18,50,47,64,-17
+2007-08,League Two,20,Dag and Red,46,13,10,23,49,49,70,-21
+2007-08,League Two,21,Notts County,46,10,18,18,48,37,53,-16
+2007-08,League Two,22,Chester,46,12,11,23,47,51,68,-17
+2007-08,League Two,23,Mansfield,46,11,9,26,42,48,68,-20
+2007-08,League Two,24,Wrexham,46,10,10,26,40,38,70,-32
+2008-09,League Two,1,Brentford,46,23,16,7,85,65,36,+29
+2008-09,League Two,2,Exeter,46,22,13,11,79,65,50,+15
+2008-09,League Two,3,Wycombe,46,20,18,8,78,54,33,+21
+2008-09,League Two,4,Bury,46,21,15,10,78,63,43,+20
+2008-09,League Two,5,Rotherham,46,21,12,13,75,60,46,+14
+2008-09,League Two,6,Gillingham,46,21,12,13,75,58,55,+3
+2008-09,League Two,7,Darlington,46,20,12,14,72,61,44,+17
+2008-09,League Two,8,Rochdale,46,19,13,14,70,70,59,+11
+2008-09,League Two,9,Shrewsbury,46,17,18,11,69,61,44,+17
+2008-09,League Two,10,Dag and Red,46,19,11,16,68,77,53,+24
+2008-09,League Two,11,Bradford,46,18,13,15,67,66,55,+11
+2008-09,League Two,12,Bournemouth,46,17,12,17,63,59,51,+8
+2008-09,League Two,13,Chesterfield,46,16,15,15,63,62,57,+5
+2008-09,League Two,14,Morecambe,46,15,18,13,63,53,56,-3
+2008-09,League Two,15,Lincoln,46,14,17,15,59,53,52,+1
+2008-09,League Two,16,Luton,46,13,17,16,56,58,65,-7
+2008-09,League Two,17,Aldershot,46,14,12,20,54,59,80,-21
+2008-09,League Two,18,Accrington,46,13,11,22,50,42,59,-17
+2008-09,League Two,19,Barnet,46,11,15,20,48,56,74,-18
+2008-09,League Two,20,Port Vale,46,13,9,24,48,44,66,-22
+2008-09,League Two,21,Notts County,46,11,14,21,47,49,69,-20
+2008-09,League Two,22,Macclesfield,46,13,8,25,47,45,77,-32
+2008-09,League Two,23,Grimsby,46,9,14,23,41,51,69,-18
+2008-09,League Two,24,Chester,46,8,13,25,37,43,81,-38
+2009-10,League Two,1,Notts County,46,27,12,7,93,96,31,+65
+2009-10,League Two,2,Bournemouth,46,25,8,13,83,61,44,+17
+2009-10,League Two,3,Rochdale,46,25,7,14,82,82,48,+34
+2009-10,League Two,4,Morecambe,46,20,13,13,73,73,64,+9
+2009-10,League Two,5,Rotherham,46,21,10,15,73,55,52,+3
+2009-10,League Two,6,Aldershot,46,20,12,14,72,69,56,+13
+2009-10,League Two,7,Dag and Red,46,20,12,14,72,69,58,+11
+2009-10,League Two,8,Chesterfield,46,21,7,18,70,61,62,-1
+2009-10,League Two,9,Bury,46,19,12,15,69,54,59,-5
+2009-10,League Two,10,Port Vale,46,17,17,12,68,61,50,+11
+2009-10,League Two,11,Northampton,46,18,13,15,67,62,53,+9
+2009-10,League Two,12,Shrewsbury,46,17,12,17,63,55,54,+1
+2009-10,League Two,13,Burton,46,17,11,18,62,71,71,0
+2009-10,League Two,14,Bradford,46,16,14,16,62,59,62,-3
+2009-10,League Two,15,Accrington,46,18,7,21,61,62,74,-12
+2009-10,League Two,16,Hereford,46,17,8,21,59,54,65,-11
+2009-10,League Two,17,Torquay,46,14,15,17,57,64,55,+9
+2009-10,League Two,18,Crewe,46,15,10,21,55,68,73,-5
+2009-10,League Two,19,Macclesfield,46,12,18,16,54,49,58,-9
+2009-10,League Two,20,Lincoln,46,13,11,22,50,42,65,-23
+2009-10,League Two,21,Barnet,46,12,12,22,48,47,63,-16
+2009-10,League Two,22,Cheltenham,46,10,18,18,48,54,71,-17
+2009-10,League Two,23,Grimsby,46,9,17,20,44,45,71,-26
+2009-10,League Two,24,Darlington,46,8,6,32,30,33,87,-54
+2010-11,League Two,1,Chesterfield,46,24,14,8,86,85,51,+34
+2010-11,League Two,2,Bury,46,23,12,11,81,82,50,+32
+2010-11,League Two,3,Wycombe,46,22,14,10,80,69,50,+19
+2010-11,League Two,4,Shrewsbury,46,22,13,11,79,72,49,+23
+2010-11,League Two,5,Accrington,46,18,19,9,73,73,55,+18
+2010-11,League Two,6,Torquay,46,17,18,11,69,74,53,+21
+2010-11,League Two,7,Stevenage,46,18,15,13,69,62,45,+17
+2010-11,League Two,8,Gillingham,46,17,17,12,68,67,57,+10
+2010-11,League Two,9,Rotherham,46,17,15,14,66,75,60,+15
+2010-11,League Two,10,Crewe,46,18,11,17,65,87,65,+22
+2010-11,League Two,11,Port Vale,46,17,14,15,65,54,49,+5
+2010-11,League Two,12,Oxford,46,17,12,17,63,58,60,-2
+2010-11,League Two,13,Southend,46,16,13,17,61,62,56,+6
+2010-11,League Two,14,Aldershot,46,14,19,13,61,54,54,0
+2010-11,League Two,15,Macclesfield,46,14,13,19,55,59,73,-14
+2010-11,League Two,16,Hereford,46,12,17,17,53,50,66,-16
+2010-11,League Two,17,Northampton,46,11,19,16,52,63,71,-8
+2010-11,League Two,18,Cheltenham,46,13,13,20,52,56,77,-21
+2010-11,League Two,19,Bradford,46,15,7,24,52,43,68,-25
+2010-11,League Two,20,Burton,46,12,15,19,51,56,70,-14
+2010-11,League Two,21,Morecambe,46,13,12,21,51,54,73,-19
+2010-11,League Two,22,Barnet,46,12,12,22,48,58,77,-19
+2010-11,League Two,23,Lincoln,46,13,8,25,47,45,81,-36
+2010-11,League Two,24,Stockport,46,9,14,23,41,48,96,-48
+2011-12,League Two,1,Swindon,46,29,6,11,93,75,32,+43
+2011-12,League Two,2,Shrewsbury,46,26,10,10,88,66,41,+25
+2011-12,League Two,3,Crawley Town,46,23,15,8,84,76,54,+22
+2011-12,League Two,4,Southend,46,25,8,13,83,77,48,+29
+2011-12,League Two,5,Torquay,46,23,12,11,81,63,50,+13
+2011-12,League Two,6,Cheltenham,46,23,8,15,77,66,50,+16
+2011-12,League Two,7,Crewe,46,20,12,14,72,67,59,+8
+2011-12,League Two,8,Gillingham,46,20,10,16,70,79,62,+17
+2011-12,League Two,9,Port Vale,46,20,9,17,69,68,60,+8
+2011-12,League Two,10,Oxford,46,17,17,12,68,59,48,+11
+2011-12,League Two,11,Rotherham,46,18,13,15,67,67,63,+4
+2011-12,League Two,12,Aldershot,46,19,9,18,66,54,52,+2
+2011-12,League Two,13,Bristol Rvs,46,15,12,19,57,60,70,-10
+2011-12,League Two,14,Accrington,46,14,15,17,57,54,66,-12
+2011-12,League Two,15,Morecambe,46,14,14,18,56,63,57,+6
+2011-12,League Two,16,AFC Wimbledon,46,15,9,22,54,62,78,-16
+2011-12,League Two,17,Burton,46,14,12,20,54,54,81,-27
+2011-12,League Two,18,Bradford,46,12,14,20,50,54,59,-5
+2011-12,League Two,19,Dag and Red,46,14,8,24,50,50,72,-22
+2011-12,League Two,20,Northampton,46,12,12,22,48,56,79,-23
+2011-12,League Two,21,Plymouth,46,10,16,20,46,47,64,-17
+2011-12,League Two,22,Barnet,46,12,10,24,46,52,79,-27
+2011-12,League Two,23,Hereford,46,10,14,22,44,50,70,-20
+2011-12,League Two,24,Macclesfield,46,8,13,25,37,39,64,-25
+2012-13,League Two,1,Gillingham,46,23,14,9,83,66,39,+27
+2012-13,League Two,2,Rotherham,46,24,7,15,79,74,59,+15
+2012-13,League Two,3,Port Vale,46,21,15,10,78,87,52,+35
+2012-13,League Two,4,Burton,46,22,10,14,76,71,65,+6
+2012-13,League Two,5,Cheltenham,46,20,15,11,75,58,51,+7
+2012-13,League Two,6,Northampton,46,21,10,15,73,64,55,+9
+2012-13,League Two,7,Bradford,46,18,15,13,69,63,52,+11
+2012-13,League Two,8,Chesterfield,46,18,13,15,67,60,45,+15
+2012-13,League Two,9,Oxford,46,19,8,19,65,60,61,-1
+2012-13,League Two,10,Exeter,46,18,10,18,64,63,62,+1
+2012-13,League Two,11,Southend,46,16,13,17,61,61,55,+6
+2012-13,League Two,12,Rochdale,46,16,13,17,61,68,70,-2
+2012-13,League Two,13,Fleetwood Town,46,15,15,16,60,55,57,-2
+2012-13,League Two,14,Bristol Rvs,46,16,12,18,60,60,69,-9
+2012-13,League Two,15,Wycombe,46,17,9,20,60,50,60,-10
+2012-13,League Two,16,Morecambe,46,15,13,18,58,55,61,-6
+2012-13,League Two,17,York,46,12,19,15,55,50,60,-10
+2012-13,League Two,18,Accrington,46,14,12,20,54,51,68,-17
+2012-13,League Two,19,Torquay,46,13,14,19,53,55,62,-7
+2012-13,League Two,20,AFC Wimbledon,46,14,11,21,53,54,76,-22
+2012-13,League Two,21,Plymouth,46,13,13,20,52,46,55,-9
+2012-13,League Two,22,Dag and Red,46,13,12,21,51,55,62,-7
+2012-13,League Two,23,Barnet,46,13,12,21,51,47,59,-12
+2012-13,League Two,24,Aldershot,46,11,15,20,48,42,60,-18
+2013-14,League Two,1,Chesterfield,46,23,15,8,84,71,40,+31
+2013-14,League Two,2,Scunthorpe,46,20,21,5,81,68,44,+24
+2013-14,League Two,3,Rochdale,46,24,9,13,81,69,48,+21
+2013-14,League Two,4,Fleetwood Town,46,22,10,14,76,66,52,+14
+2013-14,League Two,5,Southend,46,19,15,12,72,56,39,+17
+2013-14,League Two,6,Burton,46,19,15,12,72,47,42,+5
+2013-14,League Two,7,York,46,18,17,11,71,52,41,+11
+2013-14,League Two,8,Oxford,46,16,14,16,62,53,50,+3
+2013-14,League Two,9,Dag and Red,46,15,15,16,60,53,59,-6
+2013-14,League Two,10,Plymouth,46,16,12,18,60,51,58,-7
+2013-14,League Two,11,Mansfield,46,15,15,16,60,49,58,-9
+2013-14,League Two,12,Bury,46,13,20,13,59,59,51,+8
+2013-14,League Two,13,Portsmouth,46,14,17,15,59,56,66,-10
+2013-14,League Two,14,Newport County,46,14,16,16,58,56,59,-3
+2013-14,League Two,15,Accrington,46,14,15,17,57,54,56,-2
+2013-14,League Two,16,AFC Wimbledon,46,14,14,18,56,49,57,-8
+2013-14,League Two,17,Exeter,46,14,13,19,55,54,57,-3
+2013-14,League Two,18,Cheltenham,46,13,16,17,55,53,63,-10
+2013-14,League Two,19,Morecambe,46,13,15,18,54,52,64,-12
+2013-14,League Two,20,Hartlepool,46,14,11,21,53,50,56,-6
+2013-14,League Two,21,Northampton,46,13,14,19,53,42,57,-15
+2013-14,League Two,22,Wycombe,46,12,14,20,50,46,54,-8
+2013-14,League Two,23,Bristol Rvs,46,12,14,20,50,43,54,-11
+2013-14,League Two,24,Torquay,46,12,9,25,45,42,66,-24
+2014-15,League Two,1,Burton,46,28,10,8,94,69,39,+30
+2014-15,League Two,2,Shrewsbury,46,27,8,11,89,67,31,+36
+2014-15,League Two,3,Bury,46,26,7,13,85,60,40,+20
+2014-15,League Two,4,Wycombe,46,23,15,8,84,67,45,+22
+2014-15,League Two,5,Southend,46,24,12,10,84,54,38,+16
+2014-15,League Two,6,Stevenage,46,20,12,14,72,62,54,+8
+2014-15,League Two,7,Plymouth,46,20,11,15,71,55,37,+18
+2014-15,League Two,8,Luton,46,19,11,16,68,54,44,+10
+2014-15,League Two,9,Newport County,46,18,11,17,65,51,54,-3
+2014-15,League Two,10,Exeter,46,17,13,16,64,61,65,-4
+2014-15,League Two,11,Morecambe,46,17,12,17,63,53,52,+1
+2014-15,League Two,12,Northampton,46,18,7,21,61,67,62,+5
+2014-15,League Two,13,Oxford,46,15,16,15,61,50,49,+1
+2014-15,League Two,14,Dag and Red,46,17,8,21,59,58,59,-1
+2014-15,League Two,15,AFC Wimbledon,46,14,16,16,58,54,60,-6
+2014-15,League Two,16,Portsmouth,46,14,15,17,57,52,54,-2
+2014-15,League Two,17,Accrington,46,15,11,20,56,58,77,-19
+2014-15,League Two,18,York,46,11,19,16,52,46,51,-5
+2014-15,League Two,19,Cambridge,46,13,12,21,51,61,66,-5
+2014-15,League Two,20,Carlisle,46,14,8,24,50,56,74,-18
+2014-15,League Two,21,Mansfield,46,13,9,24,48,38,62,-24
+2014-15,League Two,22,Hartlepool,46,12,9,25,45,39,70,-31
+2014-15,League Two,23,Cheltenham,46,9,14,23,41,40,67,-27
+2014-15,League Two,24,Tranmere,46,9,12,25,39,45,67,-22
+2015-16,League Two,1,Northampton,46,29,12,5,99,82,46,+36
+2015-16,League Two,2,Oxford,46,24,14,8,86,84,41,+43
+2015-16,League Two,3,Bristol Rvs,46,26,7,13,85,77,46,+31
+2015-16,League Two,4,Accrington,46,24,13,9,85,74,48,+26
+2015-16,League Two,5,Plymouth,46,24,9,13,81,72,46,+26
+2015-16,League Two,6,Portsmouth,46,21,15,10,78,75,44,+31
+2015-16,League Two,7,AFC Wimbledon,46,21,12,13,75,64,50,+14
+2015-16,League Two,8,Leyton Orient,46,19,12,15,69,60,61,-1
+2015-16,League Two,9,Cambridge,46,18,14,14,68,66,55,+11
+2015-16,League Two,10,Carlisle,46,17,16,13,67,67,62,+5
+2015-16,League Two,11,Luton,46,19,9,18,66,63,61,+2
+2015-16,League Two,12,Mansfield,46,17,13,16,64,61,53,+8
+2015-16,League Two,13,Wycombe,46,17,13,16,64,45,44,+1
+2015-16,League Two,14,Exeter,46,17,13,16,64,63,65,-2
+2015-16,League Two,15,Barnet,46,17,11,18,62,67,68,-1
+2015-16,League Two,16,Hartlepool,46,15,6,25,51,49,72,-23
+2015-16,League Two,17,Notts County,46,14,9,23,51,54,83,-29
+2015-16,League Two,18,Stevenage,46,11,15,20,48,52,67,-15
+2015-16,League Two,19,Yeovil,46,11,15,20,48,43,59,-16
+2015-16,League Two,20,Crawley Town,46,13,8,25,47,45,78,-33
+2015-16,League Two,21,Morecambe,46,12,10,24,46,69,91,-22
+2015-16,League Two,22,Newport County,46,10,13,23,43,43,64,-21
+2015-16,League Two,23,Dag and Red,46,8,10,28,34,46,81,-35
+2015-16,League Two,24,York,46,7,13,26,34,51,87,-36
+2016-17,League Two,1,Portsmouth,46,26,9,11,87,79,40,+39
+2016-17,League Two,2,Plymouth,46,26,9,11,87,71,46,+25
+2016-17,League Two,3,Doncaster,46,25,10,11,85,85,55,+30
+2016-17,League Two,4,Luton,46,20,17,9,77,70,43,+27
+2016-17,League Two,5,Exeter,46,21,8,17,71,75,56,+19
+2016-17,League Two,6,Carlisle,46,18,17,11,71,69,68,+1
+2016-17,League Two,7,Blackpool,46,18,16,12,70,69,46,+23
+2016-17,League Two,8,Colchester,46,19,12,15,69,67,57,+10
+2016-17,League Two,9,Wycombe,46,19,12,15,69,58,53,+5
+2016-17,League Two,10,Stevenage,46,20,7,19,67,67,63,+4
+2016-17,League Two,11,Cambridge,46,19,9,18,66,58,50,+8
+2016-17,League Two,12,Mansfield,46,17,15,14,66,54,50,+4
+2016-17,League Two,13,Accrington,46,17,14,15,65,59,56,+3
+2016-17,League Two,14,Grimsby,46,17,11,18,62,59,63,-4
+2016-17,League Two,15,Barnet,46,14,15,17,57,57,64,-7
+2016-17,League Two,16,Notts County,46,16,8,22,56,54,76,-22
+2016-17,League Two,17,Crewe,46,14,13,19,55,58,67,-9
+2016-17,League Two,18,Morecambe,46,14,10,22,52,53,73,-20
+2016-17,League Two,19,Crawley Town,46,13,12,21,51,53,71,-18
+2016-17,League Two,20,Yeovil,46,11,17,18,50,49,64,-15
+2016-17,League Two,21,Cheltenham,46,12,14,20,50,49,69,-20
+2016-17,League Two,22,Newport County,46,12,12,22,48,51,73,-22
+2016-17,League Two,23,Hartlepool,46,11,13,22,46,54,75,-21
+2016-17,League Two,24,Leyton Orient,46,10,6,30,36,47,87,-40
+2017-18,League Two,1,Accrington,46,29,6,11,93,76,46,+30
+2017-18,League Two,2,Luton,46,25,13,8,88,94,46,+48
+2017-18,League Two,3,Wycombe,46,24,12,10,84,79,60,+19
+2017-18,League Two,4,Exeter,46,24,8,14,80,64,54,+10
+2017-18,League Two,5,Notts County,46,21,14,11,77,71,48,+23
+2017-18,League Two,6,Coventry,46,22,9,15,75,64,47,+17
+2017-18,League Two,7,Lincoln,46,20,15,11,75,64,48,+16
+2017-18,League Two,8,Mansfield,46,18,18,10,72,67,52,+15
+2017-18,League Two,9,Swindon,46,20,8,18,68,67,65,+2
+2017-18,League Two,10,Carlisle,46,17,16,13,67,62,54,+8
+2017-18,League Two,11,Newport County,46,16,16,14,64,56,58,-2
+2017-18,League Two,12,Cambridge,46,17,13,16,64,56,60,-4
+2017-18,League Two,13,Colchester,46,16,14,16,62,53,52,+1
+2017-18,League Two,14,Crawley Town,46,16,11,19,59,58,66,-8
+2017-18,League Two,15,Crewe,46,17,5,24,56,62,75,-13
+2017-18,League Two,16,Stevenage,46,14,13,19,55,60,65,-5
+2017-18,League Two,17,Cheltenham,46,13,12,21,51,67,73,-6
+2017-18,League Two,18,Grimsby,46,13,12,21,51,42,66,-24
+2017-18,League Two,19,Yeovil,46,12,12,22,48,59,75,-16
+2017-18,League Two,20,Port Vale,46,11,14,21,47,49,67,-18
+2017-18,League Two,21,Forest Green,46,13,8,25,47,54,77,-23
+2017-18,League Two,22,Morecambe,46,9,19,18,46,41,56,-15
+2017-18,League Two,23,Barnet,46,12,10,24,46,46,65,-19
+2017-18,League Two,24,Chesterfield,46,10,8,28,38,47,83,-36
+2018-19,League Two,1,Lincoln,46,23,16,7,85,73,43,+30
+2018-19,League Two,2,Bury,46,22,13,11,79,82,56,+26
+2018-19,League Two,3,Milton Keynes Dons,46,23,10,13,79,71,49,+22
+2018-19,League Two,4,Mansfield,46,20,16,10,76,69,41,+28
+2018-19,League Two,5,Forest Green,46,20,14,12,74,68,47,+21
+2018-19,League Two,6,Tranmere,46,20,13,13,73,63,50,+13
+2018-19,League Two,7,Newport County,46,20,11,15,71,59,59,0
+2018-19,League Two,8,Colchester,46,20,10,16,70,65,53,+12
+2018-19,League Two,9,Exeter,46,19,13,14,70,60,49,+11
+2018-19,League Two,10,Stevenage,46,20,10,16,70,59,55,+4
+2018-19,League Two,11,Carlisle,46,20,8,18,68,67,62,+5
+2018-19,League Two,12,Crewe,46,19,8,19,65,60,59,+1
+2018-19,League Two,13,Swindon,46,16,16,14,64,59,56,+3
+2018-19,League Two,14,Oldham,46,16,14,16,62,67,60,+7
+2018-19,League Two,15,Northampton,46,14,19,13,61,64,63,+1
+2018-19,League Two,16,Cheltenham,46,15,12,19,57,57,68,-11
+2018-19,League Two,17,Grimsby,46,16,8,22,56,45,56,-11
+2018-19,League Two,18,Morecambe,46,14,12,20,54,54,70,-16
+2018-19,League Two,19,Crawley Town,46,15,8,23,53,51,68,-17
+2018-19,League Two,20,Port Vale,46,12,13,21,49,39,55,-16
+2018-19,League Two,21,Cambridge,46,12,11,23,47,40,66,-26
+2018-19,League Two,22,Macclesfield,46,10,14,22,44,48,74,-26
+2018-19,League Two,23,Notts County,46,9,14,23,41,48,84,-36
+2018-19,League Two,24,Yeovil,46,9,13,24,40,41,66,-25
+2019-20,League Two,1,Crewe,37,20,9,8,69,67,43,+24
+2019-20,League Two,2,Swindon,36,21,6,9,69,62,39,+23
+2019-20,League Two,3,Plymouth,37,20,8,9,68,61,39,+22
+2019-20,League Two,4,Exeter,37,18,11,8,65,53,43,+10
+2019-20,League Two,5,Cheltenham,36,17,13,6,64,52,27,+25
+2019-20,League Two,6,Colchester,37,15,13,9,58,52,37,+15
+2019-20,League Two,7,Northampton,37,17,7,13,58,54,40,+14
+2019-20,League Two,8,Port Vale,37,14,15,8,57,50,44,+6
+2019-20,League Two,9,Bradford,37,14,12,11,54,44,40,+4
+2019-20,League Two,10,Salford,37,13,11,13,50,49,46,+3
+2019-20,League Two,11,Forest Green,36,13,10,13,49,43,40,+3
+2019-20,League Two,12,Crawley Town,37,11,15,11,48,51,47,+4
+2019-20,League Two,13,Grimsby,37,12,11,14,47,45,51,-6
+2019-20,League Two,14,Walsall,36,13,8,15,47,40,49,-9
+2019-20,League Two,15,Newport County,36,12,10,14,46,32,39,-7
+2019-20,League Two,16,Cambridge,37,12,9,16,45,40,48,-8
+2019-20,League Two,17,Leyton Orient,36,10,12,14,42,47,55,-8
+2019-20,League Two,18,Carlisle,37,10,12,15,42,39,56,-17
+2019-20,League Two,19,Oldham,37,9,14,14,41,44,57,-13
+2019-20,League Two,20,Scunthorpe,37,10,10,17,40,44,56,-12
+2019-20,League Two,21,Mansfield,36,9,11,16,38,48,55,-7
+2019-20,League Two,22,Macclesfield,37,7,15,15,36,32,47,-15
+2019-20,League Two,23,Morecambe,37,7,11,19,32,35,60,-25
+2019-20,League Two,24,Stevenage,36,3,13,20,22,24,50,-26
+2020-21,League Two,1,Cheltenham,46,24,10,12,82,61,39,+22
+2020-21,League Two,2,Cambridge,46,24,8,14,80,73,49,+24
+2020-21,League Two,3,Bolton,46,23,10,13,79,59,50,+9
+2020-21,League Two,4,Morecambe,46,23,9,14,78,69,58,+11
+2020-21,League Two,5,Newport County,46,20,13,13,73,57,42,+15
+2020-21,League Two,6,Forest Green,46,20,13,13,73,59,51,+8
+2020-21,League Two,7,Tranmere,46,20,13,13,73,55,50,+5
+2020-21,League Two,8,Salford,46,19,14,13,71,54,34,+20
+2020-21,League Two,9,Exeter,46,18,16,12,70,71,50,+21
+2020-21,League Two,10,Carlisle,46,18,12,16,66,60,51,+9
+2020-21,League Two,11,Leyton Orient,46,17,10,19,61,53,55,-2
+2020-21,League Two,12,Crawley Town,46,16,13,17,61,56,62,-6
+2020-21,League Two,13,Port Vale,46,17,9,20,60,57,57,0
+2020-21,League Two,14,Stevenage,46,14,18,14,60,41,41,0
+2020-21,League Two,15,Bradford,46,16,11,19,59,48,53,-5
+2020-21,League Two,16,Mansfield,46,13,19,14,58,57,55,+2
+2020-21,League Two,17,Harrogate,46,16,9,21,57,52,61,-9
+2020-21,League Two,18,Oldham,46,15,9,22,54,72,81,-9
+2020-21,League Two,19,Walsall,46,11,20,15,53,45,53,-8
+2020-21,League Two,20,Colchester,46,11,18,17,51,44,61,-17
+2020-21,League Two,21,Barrow,46,13,11,22,50,53,59,-6
+2020-21,League Two,22,Scunthorpe,46,13,9,24,48,41,64,-23
+2020-21,League Two,23,Southend,46,10,15,21,45,29,58,-29
+2020-21,League Two,24,Grimsby,46,10,13,23,43,37,69,-32
+2021-22,League Two,1,Forest Green,46,23,15,8,84,75,44,+31
+2021-22,League Two,2,Exeter,46,23,15,8,84,65,41,+24
+2021-22,League Two,3,Bristol Rvs,46,23,11,12,80,71,49,+22
+2021-22,League Two,4,Northampton,46,23,11,12,80,60,38,+22
+2021-22,League Two,5,Port Vale,46,22,12,12,78,67,46,+21
+2021-22,League Two,6,Swindon,46,22,11,13,77,77,54,+23
+2021-22,League Two,7,Mansfield,46,22,11,13,77,67,52,+15
+2021-22,League Two,8,Sutton,46,22,10,14,76,69,53,+16
+2021-22,League Two,9,Tranmere,46,21,12,13,75,53,40,+13
+2021-22,League Two,10,Salford,46,19,13,14,70,60,46,+14
+2021-22,League Two,11,Newport County,46,19,12,15,69,67,58,+9
+2021-22,League Two,12,Crawley Town,46,17,10,19,61,56,66,-10
+2021-22,League Two,13,Leyton Orient,46,14,16,16,58,62,47,+15
+2021-22,League Two,14,Bradford,46,14,16,16,58,53,55,-2
+2021-22,League Two,15,Colchester,46,14,13,19,55,48,60,-12
+2021-22,League Two,16,Walsall,46,14,12,20,54,47,60,-13
+2021-22,League Two,17,Hartlepool,46,14,12,20,54,44,64,-20
+2021-22,League Two,18,Rochdale,46,12,17,17,53,51,59,-8
+2021-22,League Two,19,Harrogate,46,14,11,21,53,64,75,-11
+2021-22,League Two,20,Carlisle,46,14,11,21,53,39,62,-23
+2021-22,League Two,21,Stevenage,46,11,14,21,47,45,68,-23
+2021-22,League Two,22,Barrow,46,10,14,22,44,44,57,-13
+2021-22,League Two,23,Oldham,46,9,11,26,38,46,75,-29
+2021-22,League Two,24,Scunthorpe,46,4,14,28,26,29,90,-61
+2022-23,League Two,1,Leyton Orient,46,26,13,7,91,61,34,+27
+2022-23,League Two,2,Stevenage,46,24,13,9,85,61,39,+22
+2022-23,League Two,3,Northampton,46,23,14,9,83,62,42,+20
+2022-23,League Two,4,Stockport,46,22,13,11,79,65,37,+28
+2022-23,League Two,5,Carlisle,46,20,16,10,76,66,43,+23
+2022-23,League Two,6,Bradford,46,20,16,10,76,61,43,+18
+2022-23,League Two,7,Salford,46,22,9,15,75,72,54,+18
+2022-23,League Two,8,Mansfield,46,21,12,13,75,72,55,+17
+2022-23,League Two,9,Barrow,46,18,8,20,62,47,53,-6
+2022-23,League Two,10,Swindon,46,16,13,17,61,61,55,+6
+2022-23,League Two,11,Grimsby,46,16,13,17,61,49,56,-7
+2022-23,League Two,12,Tranmere,46,15,13,18,58,45,48,-3
+2022-23,League Two,13,Crewe,46,14,16,16,58,48,60,-12
+2022-23,League Two,14,Sutton,46,15,13,18,58,46,58,-12
+2022-23,League Two,15,Newport County,46,14,15,17,57,53,56,-3
+2022-23,League Two,16,Walsall,46,12,19,15,55,46,49,-3
+2022-23,League Two,17,Gillingham,46,14,13,19,55,36,49,-13
+2022-23,League Two,18,Doncaster,46,16,7,23,55,46,65,-19
+2022-23,League Two,19,Harrogate,46,12,16,18,52,59,68,-9
+2022-23,League Two,20,Colchester,46,12,13,21,49,44,51,-7
+2022-23,League Two,21,AFC Wimbledon,46,11,15,20,48,48,60,-12
+2022-23,League Two,22,Crawley Town,46,11,13,22,46,48,71,-23
+2022-23,League Two,23,Hartlepool,46,9,16,21,43,52,78,-26
+2022-23,League Two,24,Rochdale,46,9,11,26,38,46,70,-24
+2023-24,League Two,1,Stockport,46,27,11,8,92,96,48,+48
+2023-24,League Two,2,Wrexham,46,26,10,10,88,89,52,+37
+2023-24,League Two,3,Mansfield,46,24,14,8,86,90,47,+43
+2023-24,League Two,4,Milton Keynes Dons,46,23,9,14,78,83,68,+15
+2023-24,League Two,5,Doncaster,46,21,8,17,71,73,68,+5
+2023-24,League Two,6,Crewe,46,19,14,13,71,69,65,+4
+2023-24,League Two,7,Crawley Town,46,21,7,18,70,73,67,+6
+2023-24,League Two,8,Barrow,46,18,15,13,69,62,56,+6
+2023-24,League Two,9,Bradford,46,19,12,15,69,61,59,+2
+2023-24,League Two,10,AFC Wimbledon,46,17,14,15,65,64,51,+13
+2023-24,League Two,11,Walsall,46,18,11,17,65,69,73,-4
+2023-24,League Two,12,Gillingham,46,18,10,18,64,46,57,-11
+2023-24,League Two,13,Harrogate,46,17,12,17,63,60,69,-9
+2023-24,League Two,14,Notts County,46,18,7,21,61,89,86,+3
+2023-24,League Two,15,Morecambe,46,17,10,19,61,67,81,-14
+2023-24,League Two,16,Tranmere,46,17,6,23,57,67,70,-3
+2023-24,League Two,17,Accrington,46,16,9,21,57,63,71,-8
+2023-24,League Two,18,Newport County,46,16,7,23,55,62,76,-14
+2023-24,League Two,19,Swindon,46,14,12,20,54,77,83,-6
+2023-24,League Two,20,Salford,46,13,12,21,51,66,82,-16
+2023-24,League Two,21,Grimsby,46,11,16,19,49,57,74,-17
+2023-24,League Two,22,Colchester,46,11,12,23,45,59,80,-21
+2023-24,League Two,23,Sutton,46,9,15,22,42,59,84,-25
+2023-24,League Two,24,Forest Green,46,11,9,26,42,44,78,-34
+2024-25,League Two,1,Doncaster,46,24,12,10,84,73,50,+23
+2024-25,League Two,2,Port Vale,46,22,14,10,80,65,46,+19
+2024-25,League Two,3,Bradford,46,22,12,12,78,64,45,+19
+2024-25,League Two,4,Walsall,46,21,14,11,77,75,54,+21
+2024-25,League Two,5,AFC Wimbledon,46,20,13,13,73,56,35,+21
+2024-25,League Two,6,Notts County,46,20,12,14,72,68,49,+19
+2024-25,League Two,7,Chesterfield,46,19,13,14,70,73,54,+19
+2024-25,League Two,8,Salford,46,18,15,13,69,64,54,+10
+2024-25,League Two,9,Grimsby,46,20,8,18,68,61,67,-6
+2024-25,League Two,10,Colchester,46,16,19,11,67,52,47,+5
+2024-25,League Two,11,Bromley,46,17,15,14,66,64,59,+5
+2024-25,League Two,12,Swindon,46,15,17,14,62,71,63,+8
+2024-25,League Two,13,Crewe,46,15,17,14,62,49,48,+1
+2024-25,League Two,14,Fleetwood Town,46,15,15,16,60,60,60,0
+2024-25,League Two,15,Cheltenham,46,16,12,18,60,60,70,-10
+2024-25,League Two,16,Barrow,46,15,14,17,59,52,50,+2
+2024-25,League Two,17,Gillingham,46,14,16,16,58,41,46,-5
+2024-25,League Two,18,Harrogate,46,14,11,21,53,43,61,-18
+2024-25,League Two,19,Milton Keynes Dons,46,14,10,22,52,52,66,-14
+2024-25,League Two,20,Tranmere,46,12,15,19,51,45,65,-20
+2024-25,League Two,21,Accrington,46,12,14,20,50,53,69,-16
+2024-25,League Two,22,Newport County,46,13,10,23,49,52,76,-24
+2024-25,League Two,23,Carlisle,46,10,12,24,42,44,71,-27
+2024-25,League Two,24,Morecambe,46,10,6,30,36,40,72,-32
+2006-07,National League,1,Dag and Red,46,28,11,7,95,93,48,+45
+2006-07,National League,2,Oxford,46,22,15,9,81,66,33,+33
+2006-07,National League,3,Morecambe,46,23,12,11,81,64,46,+18
+2006-07,National League,4,York,46,23,11,12,80,65,45,+20
+2006-07,National League,5,Exeter,46,22,12,12,78,67,48,+19
+2006-07,National League,6,Burton,46,22,9,15,75,52,47,+5
+2006-07,National League,7,Gravesend,46,21,11,14,74,63,56,+7
+2006-07,National League,8,Stevenage,46,20,10,16,70,76,66,+10
+2006-07,National League,9,Aldershot,46,18,11,17,65,64,62,+2
+2006-07,National League,10,Crawley Town,46,17,12,17,63,52,52,0
+2006-07,National League,11,Kidderminster,46,17,12,17,63,43,50,-7
+2006-07,National League,12,Weymouth,46,18,9,19,63,57,73,-16
+2006-07,National League,13,Rushden & D,46,17,11,18,62,58,54,+4
+2006-07,National League,14,Northwich,46,18,4,24,58,51,69,-18
+2006-07,National League,15,Forest Green,46,13,18,15,57,59,64,-5
+2006-07,National League,16,Woking,46,15,12,19,57,56,61,-5
+2006-07,National League,17,Halifax,46,15,10,21,55,55,62,-7
+2006-07,National League,18,Cambridge,46,15,10,21,55,57,66,-9
+2006-07,National League,19,Grays,46,13,13,20,52,56,55,+1
+2006-07,National League,20,Stafford Rangers,46,14,10,22,52,49,71,-22
+2006-07,National League,21,Altrincham,46,13,12,21,51,53,67,-14
+2006-07,National League,22,Tamworth,46,13,9,24,48,43,61,-18
+2006-07,National League,23,Southport,46,11,14,21,47,57,68,-11
+2006-07,National League,24,St. Albans,46,10,10,26,40,57,89,-32
+2007-08,National League,1,Aldershot,46,31,8,7,101,82,48,+34
+2007-08,National League,2,Cambridge,46,25,11,10,86,68,41,+27
+2007-08,National League,3,Torquay,46,26,8,12,86,83,57,+26
+2007-08,National League,4,Exeter,46,22,17,7,83,83,58,+25
+2007-08,National League,5,Burton,46,23,12,11,81,79,56,+23
+2007-08,National League,6,Stevenage,46,24,7,15,79,82,55,+27
+2007-08,National League,7,Histon,46,20,12,14,72,76,67,+9
+2007-08,National League,8,Forest Green,46,19,14,13,71,76,59,+17
+2007-08,National League,9,Oxford,46,20,11,15,71,56,48,+8
+2007-08,National League,10,Grays,46,19,13,14,70,58,47,+11
+2007-08,National League,11,Ebbsfleet,46,19,12,15,69,65,61,+4
+2007-08,National League,12,Salisbury,46,18,14,14,68,70,60,+10
+2007-08,National League,13,Kidderminster,46,19,10,17,67,74,57,+17
+2007-08,National League,14,Crawley Town,46,19,9,18,66,73,67,+6
+2007-08,National League,15,York,46,17,11,18,62,71,74,-3
+2007-08,National League,16,Rushden & D,46,15,14,17,59,55,55,0
+2007-08,National League,17,Woking,46,12,17,17,53,53,61,-8
+2007-08,National League,18,Halifax,46,12,16,18,52,61,70,-9
+2007-08,National League,19,Weymouth,46,11,13,22,46,53,73,-20
+2007-08,National League,20,Northwich,46,11,11,24,44,52,78,-26
+2007-08,National League,21,Altrincham,46,9,14,23,41,56,82,-26
+2007-08,National League,22,Farsley,46,10,9,27,39,48,86,-38
+2007-08,National League,23,Stafford Rangers,46,5,10,31,25,42,99,-57
+2007-08,National League,24,Droylsden,46,5,9,32,24,46,103,-57
+2008-09,National League,1,Burton,46,27,7,12,88,81,52,+29
+2008-09,National League,2,Cambridge,46,24,14,8,86,65,39,+26
+2008-09,National League,3,Histon,46,23,14,9,83,78,48,+30
+2008-09,National League,4,Torquay,46,23,14,9,83,72,47,+25
+2008-09,National League,5,Oxford,46,24,10,12,82,72,51,+21
+2008-09,National League,6,Stevenage,46,23,12,11,81,73,54,+19
+2008-09,National League,7,Kidderminster,46,23,10,13,79,69,48,+21
+2008-09,National League,8,Kettering Town,46,21,13,12,76,50,37,+13
+2008-09,National League,9,Crawley Town,46,19,14,13,71,77,55,+22
+2008-09,National League,10,Wrexham,46,18,12,16,66,64,48,+16
+2008-09,National League,11,Mansfield,46,19,9,18,66,57,55,+2
+2008-09,National League,12,Rushden & D,46,16,15,15,63,61,50,+11
+2008-09,National League,13,Eastbourne Borough,46,18,6,22,60,58,70,-12
+2008-09,National League,14,Ebbsfleet,46,16,10,20,58,52,60,-8
+2008-09,National League,15,Altrincham,46,15,11,20,56,49,66,-17
+2008-09,National League,16,Salisbury,46,14,13,19,55,54,64,-10
+2008-09,National League,17,York,46,11,19,16,52,47,51,-4
+2008-09,National League,18,Forest Green,46,12,16,18,52,70,76,-6
+2008-09,National League,19,Grays,46,14,10,22,52,44,64,-20
+2008-09,National League,20,Barrow,46,12,15,19,51,51,65,-14
+2008-09,National League,21,Woking,46,10,14,22,44,37,60,-23
+2008-09,National League,22,Northwich,46,11,10,25,43,56,75,-19
+2008-09,National League,23,Weymouth,46,11,10,25,43,45,86,-41
+2008-09,National League,24,Lewes,46,6,6,34,24,28,89,-61
+2010-11,National League,1,Crawley Town,46,31,12,3,105,93,30,+63
+2010-11,National League,2,AFC Wimbledon,46,27,9,10,90,83,47,+36
+2010-11,National League,3,Luton,46,23,15,8,84,85,37,+48
+2010-11,National League,4,Wrexham,46,22,15,9,81,66,49,+17
+2010-11,National League,5,Fleetwood Town,46,22,12,12,78,68,42,+26
+2010-11,National League,6,Kidderminster,46,20,17,9,77,74,60,+14
+2010-11,National League,7,Darlington,46,18,17,11,71,61,42,+19
+2010-11,National League,8,York,46,19,14,13,71,55,50,+5
+2010-11,National League,9,Newport County,46,18,15,13,69,78,60,+18
+2010-11,National League,10,Bath City,46,16,15,15,63,64,68,-4
+2010-11,National League,11,Grimsby,46,15,17,14,62,72,62,+10
+2010-11,National League,12,Rushden & D,46,16,14,16,62,65,62,+3
+2010-11,National League,13,Mansfield,46,17,10,19,61,73,75,-2
+2010-11,National League,14,Kettering Town,46,15,13,18,58,64,75,-11
+2010-11,National League,15,Gateshead,46,14,15,17,57,65,68,-3
+2010-11,National League,16,Hayes & Yeading,46,15,6,25,51,57,81,-24
+2010-11,National League,17,Cambridge,46,11,17,18,50,53,61,-8
+2010-11,National League,18,Barrow,46,12,14,20,50,52,67,-15
+2010-11,National League,19,Tamworth,46,12,13,21,49,62,83,-21
+2010-11,National League,20,Forest Green,46,10,16,20,46,53,72,-19
+2010-11,National League,21,Southport,46,11,13,22,46,56,77,-21
+2010-11,National League,22,Altrincham,46,11,11,24,44,47,87,-40
+2010-11,National League,23,Eastbourne Borough,46,10,9,27,39,62,104,-42
+2010-11,National League,24,Histon,46,8,9,29,33,41,90,-49
+2011-12,National League,1,Fleetwood Town,46,31,10,5,103,102,48,+54
+2011-12,National League,2,Wrexham,46,30,8,8,98,85,33,+52
+2011-12,National League,3,Mansfield,46,25,14,7,89,87,48,+39
+2011-12,National League,4,York,46,23,14,9,83,81,45,+36
+2011-12,National League,5,Luton,46,22,15,9,81,78,42,+36
+2011-12,National League,6,Kidderminster,46,22,10,14,76,82,63,+19
+2011-12,National League,7,Southport,46,21,13,12,76,72,69,+3
+2011-12,National League,8,Gateshead,46,21,11,14,74,69,62,+7
+2011-12,National League,9,Cambridge,46,19,14,13,71,57,41,+16
+2011-12,National League,10,Forest Green,46,19,13,14,70,66,45,+21
+2011-12,National League,11,Grimsby,46,19,13,14,70,79,60,+19
+2011-12,National League,12,Braintree Town,46,17,11,18,62,76,80,-4
+2011-12,National League,13,Barrow,46,17,9,20,60,62,76,-14
+2011-12,National League,14,Ebbsfleet,46,14,12,20,54,69,84,-15
+2011-12,National League,15,Alfreton Town,46,15,9,22,54,62,86,-24
+2011-12,National League,16,Stockport,46,12,15,19,51,58,74,-16
+2011-12,National League,17,Lincoln,46,13,10,23,49,56,66,-10
+2011-12,National League,18,Tamworth,46,11,15,20,48,47,70,-23
+2011-12,National League,19,Newport County,46,11,14,21,47,53,65,-12
+2011-12,National League,20,AFC Telford United,46,10,16,20,46,45,65,-20
+2011-12,National League,21,Darlington,46,11,13,22,46,47,73,-26
+2011-12,National League,22,Hayes & Yeading,46,11,8,27,41,58,90,-32
+2011-12,National League,23,Kettering Town,46,8,9,29,33,40,100,-60
+2011-12,National League,24,Bath City,46,7,10,29,31,43,89,-46
+2012-13,National League,1,Mansfield,46,30,5,11,95,92,52,+40
+2012-13,National League,2,Kidderminster,46,28,9,9,93,82,40,+42
+2012-13,National League,3,Newport County,46,25,10,11,85,85,60,+25
+2012-13,National League,4,Grimsby,46,23,14,9,83,70,38,+32
+2012-13,National League,5,Wrexham,46,22,14,10,80,74,45,+29
+2012-13,National League,6,Hereford,46,19,13,14,70,73,63,+10
+2012-13,National League,7,Luton,46,18,13,15,67,70,62,+8
+2012-13,National League,8,Dartford,46,19,9,18,66,67,63,+4
+2012-13,National League,9,Braintree Town,46,19,9,18,66,63,72,-9
+2012-13,National League,10,Forest Green,46,18,11,17,65,63,49,+14
+2012-13,National League,11,Macclesfield,46,17,12,17,63,65,70,-5
+2012-13,National League,12,Woking,46,18,8,20,62,73,81,-8
+2012-13,National League,13,Alfreton Town,46,16,12,18,60,69,74,-5
+2012-13,National League,14,Cambridge,46,15,14,17,59,68,69,-1
+2012-13,National League,15,Nuneaton Town,46,14,15,17,57,55,63,-8
+2012-13,National League,16,Lincoln,46,15,11,20,56,66,73,-7
+2012-13,National League,17,Gateshead,46,13,16,17,55,58,61,-3
+2012-13,National League,18,Hyde United,46,16,7,23,55,63,75,-12
+2012-13,National League,19,Tamworth,46,15,10,21,55,55,69,-14
+2012-13,National League,20,Southport,46,14,12,20,54,72,86,-14
+2012-13,National League,21,Stockport,46,13,11,22,50,57,76,-19
+2012-13,National League,22,Barrow,46,11,13,22,46,45,83,-38
+2012-13,National League,23,Ebbsfleet,46,8,15,23,39,55,89,-34
+2012-13,National League,24,Telford United,46,6,17,23,35,52,79,-27
+2013-14,National League,1,Luton,46,30,11,5,101,102,35,+67
+2013-14,National League,2,Cambridge,46,23,13,10,82,72,35,+37
+2013-14,National League,3,Gateshead,46,22,13,11,79,72,50,+22
+2013-14,National League,4,Grimsby,46,22,12,12,78,65,46,+19
+2013-14,National League,5,Halifax,46,22,11,13,77,85,58,+27
+2013-14,National League,6,Braintree Town,46,21,11,14,74,57,39,+18
+2013-14,National League,7,Kidderminster,46,20,12,14,72,66,59,+7
+2013-14,National League,8,Barnet,46,19,13,14,70,58,53,+5
+2013-14,National League,9,Alfreton Town,46,21,7,18,70,69,74,-5
+2013-14,National League,10,Woking,46,20,8,18,68,66,69,-3
+2013-14,National League,11,Forest Green,46,19,10,17,67,80,66,+14
+2013-14,National League,12,Salisbury,46,19,10,17,67,58,63,-5
+2013-14,National League,13,Nuneaton Town,46,18,12,16,66,54,60,-6
+2013-14,National League,14,Lincoln,46,17,14,15,65,60,59,+1
+2013-14,National League,15,Aldershot,46,16,13,17,61,69,62,+7
+2013-14,National League,16,Macclesfield,46,18,7,21,61,62,63,-1
+2013-14,National League,17,Welling United,46,16,12,18,60,59,61,-2
+2013-14,National League,18,Wrexham,46,16,11,19,59,61,61,0
+2013-14,National League,19,Southport,46,14,11,21,53,53,71,-18
+2013-14,National League,20,Hereford,46,13,12,21,51,44,63,-19
+2013-14,National League,21,Chester,46,12,15,19,51,49,70,-21
+2013-14,National League,22,Dartford,46,12,8,26,44,49,74,-25
+2013-14,National League,23,Tamworth,46,10,9,27,39,43,81,-38
+2013-14,National League,24,Hyde United,46,1,7,38,10,38,119,-81
+2014-15,National League,1,Barnet,46,28,8,10,92,94,46,+48
+2014-15,National League,2,Bristol Rvs,46,25,16,5,91,73,34,+39
+2014-15,National League,3,Grimsby,46,25,11,10,86,74,40,+34
+2014-15,National League,4,Eastleigh,46,24,10,12,82,87,61,+26
+2014-15,National League,5,Forest Green,46,22,16,8,82,80,54,+26
+2014-15,National League,6,Macclesfield,46,21,15,10,78,60,46,+14
+2014-15,National League,7,Woking,46,21,13,12,76,77,52,+25
+2014-15,National League,8,Dover Athletic,46,19,11,16,68,69,58,+11
+2014-15,National League,9,Halifax,46,17,15,14,66,60,54,+6
+2014-15,National League,10,Gateshead,46,17,15,14,66,66,62,+4
+2014-15,National League,11,Wrexham,46,17,15,14,66,56,52,+4
+2014-15,National League,12,Chester,46,19,6,21,63,64,76,-12
+2014-15,National League,13,Torquay,46,16,13,17,61,64,60,+4
+2014-15,National League,14,Braintree Town,46,18,5,23,59,56,57,-1
+2014-15,National League,15,Lincoln,46,16,10,20,58,62,71,-9
+2014-15,National League,16,Kidderminster,46,15,12,19,57,51,60,-9
+2014-15,National League,17,Altrincham,46,16,8,22,56,54,73,-19
+2014-15,National League,18,Aldershot,46,14,11,21,53,51,61,-10
+2014-15,National League,19,Southport,46,13,12,21,51,47,72,-25
+2014-15,National League,20,Welling United,46,11,12,23,45,52,73,-21
+2014-15,National League,21,Alfreton Town,46,12,9,25,45,49,90,-41
+2014-15,National League,22,Telford United,46,10,9,27,39,58,84,-26
+2014-15,National League,23,Dartford,46,8,15,23,39,44,74,-30
+2014-15,National League,24,Nuneaton Town,46,10,9,27,39,38,76,-38
+2015-16,National League,1,Cheltenham,46,30,11,5,101,87,30,+57
+2015-16,National League,2,Forest Green,46,26,11,9,89,69,42,+27
+2015-16,National League,3,Braintree Town,46,23,12,11,81,56,38,+18
+2015-16,National League,4,Grimsby,46,22,14,10,80,82,45,+37
+2015-16,National League,5,Dover Athletic,46,23,11,12,80,75,53,+22
+2015-16,National League,6,Tranmere,46,22,12,12,78,61,44,+17
+2015-16,National League,7,Eastleigh,46,21,12,13,75,64,53,+11
+2015-16,National League,8,Wrexham,46,20,9,17,69,71,56,+15
+2015-16,National League,9,Gateshead,46,19,10,17,67,59,70,-11
+2015-16,National League,10,Macclesfield,46,19,9,18,66,60,48,+12
+2015-16,National League,11,Barrow,46,17,14,15,65,64,71,-7
+2015-16,National League,12,Woking,46,17,10,19,61,71,68,+3
+2015-16,National League,13,Lincoln,46,16,13,17,61,69,68,+1
+2015-16,National League,14,Bromley,46,17,9,20,60,67,72,-5
+2015-16,National League,15,Aldershot,46,16,8,22,56,54,72,-18
+2015-16,National League,16,Southport,46,14,13,19,55,52,65,-13
+2015-16,National League,17,Chester,46,14,12,20,54,67,71,-4
+2015-16,National League,18,Torquay,46,13,12,21,51,54,76,-22
+2015-16,National League,19,Boreham Wood,46,12,14,20,50,44,49,-5
+2015-16,National League,20,Guiseley,46,11,16,19,49,47,70,-23
+2015-16,National League,21,Halifax,46,12,12,22,48,55,82,-27
+2015-16,National League,22,Altrincham,46,10,14,22,44,48,73,-25
+2015-16,National League,23,Kidderminster,46,9,13,24,40,49,71,-22
+2015-16,National League,24,Welling United,46,8,11,27,35,35,73,-38
+2016-17,National League,1,Lincoln,46,30,9,7,99,83,40,+43
+2016-17,National League,2,Tranmere,46,29,8,9,95,79,39,+40
+2016-17,National League,3,Forest Green,46,25,11,10,86,88,56,+32
+2016-17,National League,4,Dag and Red,46,26,6,14,84,79,53,+26
+2016-17,National League,5,Aldershot,46,23,13,10,82,66,37,+29
+2016-17,National League,6,Dover Athletic,46,24,7,15,79,85,63,+22
+2016-17,National League,7,Barrow,46,20,15,11,75,72,53,+19
+2016-17,National League,8,Gateshead,46,19,13,14,70,72,51,+21
+2016-17,National League,9,Macclesfield,46,20,8,18,68,64,57,+7
+2016-17,National League,10,Bromley,46,18,8,20,62,59,66,-7
+2016-17,National League,11,Boreham Wood,46,15,13,18,58,49,48,+1
+2016-17,National League,12,Sutton,46,15,13,18,58,61,63,-2
+2016-17,National League,13,Wrexham,46,15,13,18,58,47,61,-14
+2016-17,National League,14,Maidstone,46,16,10,20,58,59,75,-16
+2016-17,National League,15,Eastleigh,46,14,15,17,57,56,63,-7
+2016-17,National League,16,Solihull,46,15,10,21,55,62,75,-13
+2016-17,National League,17,Torquay,46,14,11,21,53,54,61,-7
+2016-17,National League,18,Woking,46,14,11,21,53,66,80,-14
+2016-17,National League,19,Chester,46,14,10,22,52,63,71,-8
+2016-17,National League,20,Guiseley,46,13,12,21,51,50,67,-17
+2016-17,National League,21,York,46,11,17,18,50,55,70,-15
+2016-17,National League,22,Braintree Town,46,13,9,24,48,51,76,-25
+2016-17,National League,23,Southport,46,10,9,27,39,52,97,-45
+2016-17,National League,24,North Ferriby,46,12,3,31,39,32,82,-50
+2017-18,National League,1,Macclesfield,46,27,11,8,92,67,46,+21
+2017-18,National League,2,Tranmere,46,24,10,12,82,78,46,+32
+2017-18,National League,3,Sutton,46,23,10,13,79,67,53,+14
+2017-18,National League,4,Boreham Wood,46,20,15,11,75,64,47,+17
+2017-18,National League,5,Aldershot,46,20,15,11,75,64,52,+12
+2017-18,National League,6,Ebbsfleet,46,19,17,10,74,64,50,+14
+2017-18,National League,7,Fylde,46,20,13,13,73,82,56,+26
+2017-18,National League,8,Dover Athletic,46,20,13,13,73,62,44,+18
+2017-18,National League,9,Bromley,46,19,13,14,70,75,58,+17
+2017-18,National League,10,Wrexham,46,17,19,10,70,49,39,+10
+2017-18,National League,11,Dag and Red,46,19,11,16,68,69,62,+7
+2017-18,National League,12,Maidenhead,46,17,13,16,64,65,66,-1
+2017-18,National League,13,Leyton Orient,46,16,12,18,60,58,56,+2
+2017-18,National League,14,Eastleigh,46,13,17,16,56,65,72,-7
+2017-18,National League,15,Hartlepool,46,14,14,18,56,53,63,-10
+2017-18,National League,16,Halifax,46,13,16,17,55,48,58,-10
+2017-18,National League,17,Gateshead,46,12,18,16,54,62,58,+4
+2017-18,National League,18,Solihull,46,14,12,20,54,49,60,-11
+2017-18,National League,19,Maidstone,46,13,15,18,54,52,64,-12
+2017-18,National League,20,Barrow,46,11,16,19,49,51,63,-12
+2017-18,National League,21,Woking,46,13,9,24,48,55,76,-21
+2017-18,National League,22,Torquay,46,10,12,24,42,45,73,-28
+2017-18,National League,23,Chester,46,8,13,25,37,42,79,-37
+2017-18,National League,24,Guiseley,46,7,12,27,33,44,89,-45
+2018-19,National League,1,Leyton Orient,46,25,14,7,89,73,35,+38
+2018-19,National League,2,Solihull,46,25,11,10,86,73,43,+30
+2018-19,National League,3,Salford,46,25,10,11,85,77,45,+32
+2018-19,National League,4,Wrexham,46,25,9,12,84,58,39,+19
+2018-19,National League,5,Fylde,46,22,15,9,81,72,41,+31
+2018-19,National League,6,Harrogate,46,21,11,14,74,78,57,+21
+2018-19,National League,7,Eastleigh,46,22,8,16,74,62,63,-1
+2018-19,National League,8,Ebbsfleet,46,18,13,15,67,64,50,+14
+2018-19,National League,9,Gateshead,46,19,9,18,66,52,48,+4
+2018-19,National League,10,Sutton,46,17,14,15,65,55,60,-5
+2018-19,National League,11,Barrow,46,17,13,16,64,52,51,+1
+2018-19,National League,12,Bromley,46,16,12,18,60,68,69,-1
+2018-19,National League,13,Barnet,46,16,12,18,60,45,50,-5
+2018-19,National League,14,Dover Athletic,46,16,12,18,60,58,64,-6
+2018-19,National League,15,Chesterfield,46,14,17,15,59,55,53,+2
+2018-19,National League,16,Halifax,46,13,20,13,59,44,43,+1
+2018-19,National League,17,Hartlepool,46,15,14,17,59,56,62,-6
+2018-19,National League,18,Dag and Red,46,15,11,20,56,50,56,-6
+2018-19,National League,19,Maidenhead,46,16,6,24,54,45,70,-25
+2018-19,National League,20,Boreham Wood,46,12,16,18,52,53,65,-12
+2018-19,National League,21,Aldershot,46,11,11,24,44,38,67,-29
+2018-19,National League,22,Braintree Town,46,11,8,27,41,48,78,-30
+2018-19,National League,23,Havant & Waterlooville,46,9,13,24,40,62,84,-22
+2018-19,National League,24,Maidstone,46,9,7,30,34,37,82,-45
+2019-20,National League,1,Barrow,37,21,7,9,70,68,39,+29
+2019-20,National League,2,Harrogate,37,19,9,9,66,61,44,+17
+2019-20,National League,3,Notts County,38,17,12,9,63,61,38,+23
+2019-20,National League,4,Yeovil,37,17,9,11,60,61,44,+17
+2019-20,National League,5,Boreham Wood,37,16,12,9,60,55,40,+15
+2019-20,National League,6,Halifax,37,17,7,13,58,50,49,+1
+2019-20,National League,7,Stockport,39,16,10,13,58,51,54,-3
+2019-20,National League,8,Solihull,38,15,10,13,55,48,37,+11
+2019-20,National League,9,Hartlepool,39,14,13,12,55,56,50,+6
+2019-20,National League,10,Woking,38,15,10,13,55,50,55,-5
+2019-20,National League,11,Barnet,35,14,12,9,54,52,42,+10
+2019-20,National League,12,Dover Athletic,38,15,9,14,54,49,49,0
+2019-20,National League,13,Bromley,38,14,10,14,52,57,52,+5
+2019-20,National League,14,Sutton,38,12,14,12,50,47,42,+5
+2019-20,National League,15,Torquay,36,14,6,16,48,56,61,-5
+2019-20,National League,16,Aldershot,39,12,10,17,46,43,55,-12
+2019-20,National League,17,Eastleigh,37,11,13,13,46,43,55,-12
+2019-20,National League,18,Dag and Red,37,11,11,15,44,40,44,-4
+2019-20,National League,19,Chesterfield,38,11,11,16,44,55,65,-10
+2019-20,National League,20,Wrexham,37,11,10,16,43,46,49,-3
+2019-20,National League,21,Ebbsfleet,39,10,12,17,42,47,68,-21
+2019-20,National League,22,Maidenhead,38,12,5,21,41,44,58,-14
+2019-20,National League,23,Fylde,37,9,12,16,39,44,60,-16
+2019-20,National League,24,Chorley,38,4,14,20,26,31,65,-34
+2022-23,National League,1,Wrexham,46,34,9,3,111,116,43,+73
+2022-23,National League,2,Notts County,46,32,11,3,107,117,42,+75
+2022-23,National League,3,Chesterfield,46,25,9,12,84,81,52,+29
+2022-23,National League,4,Woking,46,24,10,12,82,71,48,+23
+2022-23,National League,5,Barnet,46,21,11,14,74,75,67,+8
+2022-23,National League,6,Boreham Wood,46,19,15,12,72,52,40,+12
+2022-23,National League,7,Bromley,46,18,17,11,71,68,53,+15
+2022-23,National League,8,Southend,46,20,9,17,69,57,45,+12
+2022-23,National League,9,Eastleigh,46,19,10,17,67,56,57,-1
+2022-23,National League,10,Dag and Red,46,18,9,19,63,61,72,-11
+2022-23,National League,11,Halifax,46,16,13,17,61,49,48,+1
+2022-23,National League,12,Oldham,46,16,13,17,61,63,64,-1
+2022-23,National League,13,Gateshead,46,15,15,16,60,67,62,+5
+2022-23,National League,14,Wealdstone,46,16,12,18,60,57,72,-15
+2022-23,National League,15,Solihull,46,15,13,18,58,62,66,-4
+2022-23,National League,16,Dorking,46,16,9,21,57,67,91,-24
+2022-23,National League,17,Altrincham,46,14,14,18,56,68,82,-14
+2022-23,National League,18,Aldershot,46,14,11,21,53,64,76,-12
+2022-23,National League,19,York,46,13,12,21,51,55,63,-8
+2022-23,National League,20,Maidenhead,46,13,11,22,50,47,66,-19
+2022-23,National League,21,Torquay,46,12,12,22,48,58,80,-22
+2022-23,National League,22,Yeovil,46,7,19,20,40,35,60,-25
+2022-23,National League,23,Scunthorpe,46,8,10,28,34,49,87,-38
+2022-23,National League,24,Maidstone,46,5,10,31,25,45,104,-59
+2023-24,National League,1,Chesterfield,46,31,5,10,98,106,65,+41
+2023-24,National League,2,Barnet,46,26,8,12,86,91,60,+31
+2023-24,National League,3,Bromley,46,22,15,9,81,73,49,+24
+2023-24,National League,4,Altrincham,46,22,11,13,77,84,59,+25
+2023-24,National League,5,Solihull,46,21,13,12,76,71,62,+9
+2023-24,National League,6,Southend,46,21,12,13,75,70,45,+25
+2023-24,National League,7,Gateshead,46,22,9,15,75,88,64,+24
+2023-24,National League,8,Halifax,46,19,14,13,71,58,50,+8
+2023-24,National League,9,Aldershot,46,20,9,17,69,74,83,-9
+2023-24,National League,10,Oldham,46,15,18,13,63,63,60,+3
+2023-24,National League,11,Rochdale,46,16,14,16,62,69,64,+5
+2023-24,National League,12,Hartlepool,46,17,9,20,60,70,82,-12
+2023-24,National League,13,Eastleigh,46,16,11,19,59,73,87,-14
+2023-24,National League,14,Maidenhead,46,15,13,18,58,60,67,-7
+2023-24,National League,15,Dag and Red,46,14,14,18,56,69,63,+6
+2023-24,National League,16,Wealdstone,46,15,11,20,56,60,72,-12
+2023-24,National League,17,Woking,46,15,10,21,55,49,55,-6
+2023-24,National League,18,Fylde,46,15,10,21,55,74,82,-8
+2023-24,National League,19,Ebbsfleet,46,14,12,20,54,59,74,-15
+2023-24,National League,20,York,46,12,17,17,53,55,69,-14
+2023-24,National League,21,Boreham Wood,46,12,16,18,52,59,73,-14
+2023-24,National League,22,Kidderminster,46,11,13,22,46,40,59,-19
+2023-24,National League,23,Dorking,46,12,9,25,45,54,85,-31
+2023-24,National League,24,Oxford City,46,8,9,29,33,54,94,-40
+2024-25,National League,1,Barnet,46,31,9,6,102,97,38,+59
+2024-25,National League,2,York,46,29,9,8,96,95,42,+53
+2024-25,National League,3,Forest Green,46,22,17,7,83,69,42,+27
+2024-25,National League,4,Rochdale,46,21,11,14,74,69,44,+25
+2024-25,National League,5,Oldham,46,19,16,11,73,64,48,+16
+2024-25,National League,6,Halifax,46,19,13,14,70,50,46,+4
+2024-25,National League,7,Southend,46,17,17,12,68,59,48,+11
+2024-25,National League,8,Gateshead,46,19,10,17,67,76,68,+8
+2024-25,National League,9,Altrincham,46,17,13,16,64,68,62,+6
+2024-25,National League,10,Tamworth,46,17,13,16,64,65,72,-7
+2024-25,National League,11,Hartlepool,46,14,18,14,60,59,62,-3
+2024-25,National League,12,Sutton,46,15,15,16,60,59,64,-5
+2024-25,National League,13,Eastleigh,46,14,17,15,59,58,61,-3
+2024-25,National League,14,Solihull,46,16,10,20,58,61,67,-6
+2024-25,National League,15,Woking,46,13,19,14,58,52,59,-7
+2024-25,National League,16,Aldershot,46,14,15,17,57,69,83,-14
+2024-25,National League,17,Braintree Town,46,15,11,20,56,51,59,-8
+2024-25,National League,18,Yeovil,46,15,11,20,56,51,60,-9
+2024-25,National League,19,Boston Utd,46,15,10,21,55,54,67,-13
+2024-25,National League,20,Wealdstone,46,13,14,19,53,56,76,-20
+2024-25,National League,21,Dag and Red,46,12,16,18,52,61,62,-1
+2024-25,National League,22,Maidenhead,46,14,10,22,52,57,75,-18
+2024-25,National League,23,Fylde,46,11,7,28,40,50,85,-35
+2024-25,National League,24,Ebbsfleet,46,3,13,30,22,38,98,-60
