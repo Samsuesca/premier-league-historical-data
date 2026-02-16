@@ -1,3 +1,465 @@
+<!-- AUTO-GENERATED GIT WORKFLOW HEADER -->
+<!-- Version: 1.0.0 | Template: GIT_WORKFLOW_RESEARCH.md | Last Updated: 2026-02-16 -->
+<!-- DO NOT EDIT MANUALLY - Run: ~/.claude/scripts/sync-git-workflow.sh -->
+
+---
+
+# Git Workflow & Commit Standards
+
+**Version:** 1.0.0
+**Last Updated:** 2026-02-15
+**Template Type:** Research & Academic Projects
+
+---
+
+## Branch Strategy
+
+### Main Branches
+
+- **`main`** - Stable, reproducible version (for paper submissions, presentations)
+  - Only merge via Pull Requests
+  - All scripts must run without errors
+  - Tagged with milestones: `v1.0-submission`, `v2.0-revision`
+
+- **`develop`** - Working branch for analysis
+  - Merge exploratory branches here
+  - Base for new analysis approaches
+  - Can contain work-in-progress
+
+### Supporting Branches
+
+- **`analysis/*`** - New analytical approaches
+  - Branch from: `develop`
+  - Merge into: `develop`
+  - Naming: `analysis/did-parallel-trends`, `analysis/robustness-checks`
+
+- **`data/*`** - Data processing or new datasets
+  - Branch from: `develop`
+  - Merge into: `develop`
+  - Naming: `data/clean-edif-2022`, `data/merge-municode`
+
+- **`docs/*`** - Paper writing, documentation
+  - Branch from: `develop`
+  - Merge into: `develop`
+  - Naming: `docs/methodology-section`, `docs/update-tables`
+
+---
+
+## Commit Convention
+
+### Format
+
+```
+<emoji> <type>: <description>
+
+[optional body]
+
+[optional footer]
+```
+
+### Commit Types with Emojis
+
+```bash
+✨ feat:       New analysis, model, or methodology
+🐛 fix:        Bug fix in code or data processing
+♻️ refactor:   Code reorganization (no results change)
+📚 docs:       Documentation, comments, methodology notes
+✅ test:       Validation tests, balance checks
+🔒 security:   Data protection, anonymization
+⚡ perf:       Performance optimization (faster processing)
+🚀 chore:      Dependencies, environment setup
+📊 data:       Data cleaning, merging, transformation
+📈 analysis:   New regression, estimation, visualization
+```
+
+### Examples
+
+**Good commits:**
+```bash
+✨ feat: implement staggered DiD estimator
+🐛 fix: correct municipality code merge in S2 script
+📊 data: clean and standardize EDIF 2022 variables
+📈 analysis: add parallel trends event study plot
+📚 docs: document variable construction in README
+✅ test: add balance table for treatment/control groups
+♻️ refactor: modularize data cleaning pipeline
+```
+
+---
+
+## Data Protection Rules (CRITICAL)
+
+### Golden Rule: NEVER Modify Raw Data
+
+```bash
+# Directory structure
+data/
+├── raw/              # SACRED - Never modify, never commit changes
+│   ├── original_dataset.dta
+│   └── external_controls.csv
+├── processed/        # Git-trackable cleaned data
+│   ├── cleaned_data.dta
+│   └── analysis_ready.dta
+└── external/         # Reference data (geocodes, etc.)
+```
+
+### Raw Data Protection
+
+- **NEVER** edit files in `data/raw/`
+- **ALWAYS** create processed versions in `data/processed/`
+- **DOCUMENT** all transformations in code
+- **VERSION** raw data externally (Dropbox, institutional server)
+
+### Sensitive Data
+
+- **NEVER** commit personally identifiable information (PII)
+- **ANONYMIZE** data before committing
+- **ENCRYPT** if necessary (use .gitignore for sensitive files)
+- **DOCUMENT** data sources and access restrictions
+
+---
+
+## Reproducibility Checklist
+
+### Before Every Commit
+
+- [ ] **Master script runs end-to-end** - `S00_Master.do` executes without errors
+- [ ] **Results unchanged** - Compare tables/figures with previous version
+- [ ] **Logs generated** - All scripts create log files
+- [ ] **Paths are relative** - No hardcoded absolute paths
+- [ ] **Dependencies documented** - Stata packages, R libraries listed
+- [ ] **Random seeds set** - For simulations or bootstrapping
+
+### Master Script Convention
+
+Every project should have:
+
+```stata
+// S00_Master.do - Executes entire analysis pipeline
+
+clear all
+set more off
+
+// Set working directory (user adjusts this line only)
+global root "/Users/user/project"
+cd "$root"
+
+// Run all scripts in order
+do "code/Stata/S0_data_cleaning.do"
+do "code/Stata/S1_construct_panel.do"
+do "code/Stata/S2_merge_controls.do"
+do "code/Stata/S3_descriptive_stats.do"
+do "code/Stata/S4_balance_tables.do"
+do "code/Stata/S5_parallel_trends.do"
+do "code/Stata/S6_main_regressions.do"
+do "code/Stata/S7_robustness_checks.do"
+do "code/Stata/S8_export_results.do"
+```
+
+---
+
+## Standard Workflows
+
+### 1. New Analysis Approach
+
+```bash
+# 1. Start from develop
+git checkout develop
+git pull origin develop
+
+# 2. Create analysis branch
+git checkout -b analysis/event-study-rdd
+
+# 3. Implement analysis
+# Edit: code/Stata/S6_event_study.do
+
+# 4. Run and verify
+stata-mp -b do code/Stata/S6_event_study.do
+
+# 5. Check output
+# Review: logs/S6_event_study.log
+# Review: output/figures/event_study.png
+
+# 6. Commit code + output
+git add code/Stata/S6_event_study.do
+git add output/figures/event_study.png
+git add output/tables/event_study_table.tex
+git commit -m "📈 analysis: implement RDD-based event study"
+
+# 7. Push and create PR
+git push -u origin analysis/event-study-rdd
+```
+
+### 2. Data Cleaning/Processing
+
+```bash
+# 1. Start from develop
+git checkout develop
+git pull origin develop
+
+# 2. Create data branch
+git checkout -b data/clean-edif-2022
+
+# 3. Write cleaning script
+# Edit: code/Stata/S0_clean_edif.do
+
+# 4. Process data
+stata-mp -b do code/Stata/S0_clean_edif.do
+
+# 5. Verify output
+# Check: data/processed/edif_2022_clean.dta
+# Check: logs/S0_clean_edif.log
+
+# 6. Commit script (NOT raw data)
+git add code/Stata/S0_clean_edif.do
+git add docs/data_dictionary.md  # Document variables
+git commit -m "📊 data: clean EDIF 2022 survey variables"
+
+# 7. Push and create PR
+git push -u origin data/clean-edif-2022
+```
+
+### 3. Documentation/Paper Updates
+
+```bash
+# 1. Start from develop
+git checkout develop
+git pull origin develop
+
+# 2. Create docs branch
+git checkout -b docs/update-methodology
+
+# 3. Update documentation
+# Edit: docs/methodology.md
+# Edit: paper/main.tex
+
+# 4. Commit
+git add docs/methodology.md paper/main.tex
+git commit -m "📚 docs: clarify DiD identification strategy"
+
+# 5. Push
+git push -u origin docs/update-methodology
+```
+
+---
+
+## Results Documentation
+
+### Every Analysis Script Should:
+
+1. **Generate a log file**
+```stata
+log using "logs/S6_main_regressions.log", replace
+// ... analysis code ...
+log close
+```
+
+2. **Export tables**
+```stata
+esttab using "output/tables/main_results.tex", ///
+    replace label booktabs ///
+    title("Main Regression Results")
+```
+
+3. **Save figures**
+```stata
+graph export "output/figures/event_study.png", replace
+```
+
+4. **Document decisions**
+```stata
+/*
+   Note: Dropped observations with missing municipality codes (N=127)
+   Reason: Cannot merge with external controls
+   Date: 2026-02-15
+*/
+```
+
+---
+
+## Commit Best Practices
+
+### DO ✅
+
+- **Commit scripts, not data** - Code is version-controlled, data is archived
+- **Run master script** - Ensure reproducibility before committing
+- **Document methodological choices** - In comments and docs/
+- **Export results** - Tables and figures go to output/
+- **Use relative paths** - Project should work on any machine
+- **Set random seeds** - `set seed 12345` for reproducibility
+
+### DON'T ❌
+
+- **Modify raw data** - NEVER edit data/raw/ files
+- **Commit large datasets** - Use .gitignore for .dta files >100MB
+- **Hardcode paths** - Use global macros or relative paths
+- **Skip logs** - Always generate log files
+- **Commit without testing** - Run S00_Master.do first
+- **Use display with sensitive data** - Can expose PII in logs
+
+---
+
+## Pre-Commit Checklist (Research)
+
+Before every commit:
+
+- [ ] **Master script runs** - `S00_Master.do` executes without errors
+- [ ] **Results reproduced** - Tables/figures match previous version (or document changes)
+- [ ] **Logs reviewed** - No unexpected errors or warnings
+- [ ] **Data dictionary updated** - If new variables created
+- [ ] **No PII exposed** - Checked logs and output for sensitive info
+- [ ] **Paths are relative** - No hardcoded `/Users/sam/...` paths
+- [ ] **Code commented** - Methodological decisions documented
+- [ ] **Results exported** - Updated tables/figures in output/
+
+---
+
+## Pull Request Process
+
+### PR Description Template (Research)
+
+```markdown
+## Summary
+Brief description of analysis/data changes
+
+## Methodological Changes
+- Added X estimator
+- Changed Y sample restriction
+- Updated Z controls
+
+## Results Impact
+- [ ] Results unchanged (code refactor only)
+- [ ] Minor changes (<5% coefficient change)
+- [ ] Major changes (different conclusions)
+
+## Reproducibility
+- [ ] Master script runs without errors
+- [ ] Logs generated for all scripts
+- [ ] Tables/figures exported correctly
+
+## Data Changes
+- [ ] New dataset added (describe source)
+- [ ] Variables added/modified (update data dictionary)
+- [ ] No changes to raw data
+
+## Related Issues
+Closes #123
+```
+
+---
+
+## .gitignore Essentials (Research)
+
+```bash
+# Raw data (NEVER commit)
+data/raw/*.dta
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Large processed data (archive externally)
+*.dta
+*.csv
+*.xlsx
+!data/external/municodes.csv  # Small reference files OK
+
+# Stata temporary files
+*.gph
+*.smcl
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
+
+# LaTeX compilation
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+
+# Output (commit final versions, not intermediates)
+output/temp/
+
+# Sensitive files
+data/raw/
+credentials.json
+*.key
+```
+
+---
+
+## Milestone Tagging
+
+### Tagging Important Versions
+
+```bash
+# Before paper submission
+git tag -a v1.0-submission -m "Version submitted to journal (2026-02-15)"
+git push origin v1.0-submission
+
+# After revisions
+git tag -a v2.0-revision -m "Revised version addressing reviewer comments"
+git push origin v2.0-revision
+
+# Final accepted version
+git tag -a v3.0-final -m "Final accepted version for publication"
+git push origin v3.0-final
+```
+
+---
+
+## Collaboration & Co-Authorship
+
+### Multi-Author Commits
+
+```bash
+# Include co-author in commit message
+git commit -m "📈 analysis: add heterogeneity analysis by region
+
+Co-authored-by: Diana Valencia <diana@eafit.edu.co>
+Co-authored-by: Eliana Rojas <eliana@eafit.edu.co>"
+```
+
+---
+
+## Emergency Commands
+
+### Restore Previous Results
+
+```bash
+# Find last working version
+git log --oneline output/tables/main_results.tex
+
+# Restore specific file
+git checkout <commit-hash> output/tables/main_results.tex
+```
+
+### Compare Results Across Versions
+
+```bash
+# See changes in table
+git diff v1.0-submission:output/tables/main.tex output/tables/main.tex
+```
+
+---
+
+## Resources
+
+- **Stata Reproducibility:** https://www.stata.com/manuals/u.pdf
+- **R Project Organization:** https://martinctc.github.io/blog/rstudio-projects-and-working-directories/
+- **Gentzkow & Shapiro Code Guide:** https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf
+- **OSF Preregistration:** https://osf.io
+
+---
+
+**Note:** This workflow header is auto-generated from `~/.claude/templates/GIT_WORKFLOW_RESEARCH.md`.
+To update across all projects, run: `~/.claude/scripts/sync-git-workflow.sh`
+
+---
+
+<!-- END AUTO-GENERATED GIT WORKFLOW HEADER -->
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
